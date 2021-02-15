@@ -1,0 +1,44 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //    "Long ago, ancestor of the Arcanians dwelled in a city of clouds, surrounded by constructs created by the ancients.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    //	"Resting above all else, the floating city safeguarded its people for eons, sustained by the everlasting spring, the Lake of Fertility.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/2",
+    //	"However, the seemingly bottomless waters become further depleted with each passing year. The Grand Archivist forsaw, that the spring would one day run dry.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/3",
+    //	"Unwilling to see the ancient spring dwindle further, the Archivist decided that another oasis must be found to perserve the sacred lake, and gathered the people to depart from the old city.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/4",
+    //	"Like seeds of dandelion carried by the wind, the settlers have since then founded many more settlements in distant lands. The now empty city, the Brightstill Ark, remains undisturbed in the skies to this day."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A piece of Arcanian document."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"The Brightstill Ark"
+    "value": "待汉化"
+  }
+]

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //    "Many educated Arcanians are either scholars, historians or librarians of the Great Library. While literature is a pursue of many others, the preservation and study of history has always been the core focus of the Arcanian society.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    //	"Above those are the Archivists, who oversee Arcanian law and order with the assistance of an elite unit of soldiers, known as the Paladins. Among the Archivists, one is selected as the Grand Archivist, who diplomatically represents the whole of the Arcanians and act as a figurehead."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of Arcanian document.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"Sanctuary's Archivists",
+    "value": "待汉化"
+  }
+]

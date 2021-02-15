@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //"The Aeon is one of the higher elements, similarly to the element of Steel. Like other higher elements, the Aeon is a mix of lower elements: Chryso and Machina. The Aeon is capable of manipulating time, making it one of the more dangerous elements to utilize."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A piece of Aeon document."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"The Aeon"
+    "value": "待汉化"
+  }
+]

@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //"The clocktowers located in the timeless planets are, as expected, also frozen like the planets themselves. Some have suspected that the Clocktowers are what controls the movement of time in the Timeless planets. The Aeon Timepiece, a piece of clockwork that somehow came loose, can be found at the top of the towers."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A piece of Aeon document."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"The Clocktowers"
+    "value": "待汉化"
+  }
+]

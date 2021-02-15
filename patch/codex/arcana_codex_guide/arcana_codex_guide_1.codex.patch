@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //	"Welcome to Arcana! This mod adds a large quantity of planets and items, and most are made for late-game gameplay. To start your journey as a mage, you will first need to craft a magician's table at an inventor's table. Afterwards, you will be able to craft another essential part of Arcana, an essence extractor."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A guide for Arcana."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"Arcana - Getting Started"
+    "value": "待汉化"
+  }
+]

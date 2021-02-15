@@ -1,0 +1,20 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //	"Even in an universe with infinite resources and possibilities, pain and suffering remain. How can we call our home an utopia when hatred remains deeply rooted in all of our hearts? There is no other way; even if we must unleash the greatest calamity, harmony must be brought upon us. The World Horizon will bring the final judgement and an everlasting cure to this scarred universe."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of Horizon document.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"The World Horizon",
+    "value": "待汉化"
+  }
+]
