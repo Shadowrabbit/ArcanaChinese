@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A rarely used rifle, covered in plant matter.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Elysian Repeater",
+    "value": "待汉化"
+  }
+]

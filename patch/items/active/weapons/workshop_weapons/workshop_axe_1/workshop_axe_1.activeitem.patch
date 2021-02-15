@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //  "A heavy axe, forged from dustrium.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Dustrium Axe",
+    "value": "待汉化"
+  }
+]

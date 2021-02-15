@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Open to gently float while falling. It's bad luck to open inside the house.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Spotted Parasol",
+    "value": "待汉化"
+  },
+]

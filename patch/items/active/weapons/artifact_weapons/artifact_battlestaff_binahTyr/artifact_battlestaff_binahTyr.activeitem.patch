@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"This hardened ferozium staff concentrates energy at an impressive distance.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Binah Tyr",
+    "value": "待汉化"
+  },
+]

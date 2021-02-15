@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "Flame-infused wand of the ancient fire.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //  "Magifire Wand",
+    "value": "待汉化"
+  }
+]

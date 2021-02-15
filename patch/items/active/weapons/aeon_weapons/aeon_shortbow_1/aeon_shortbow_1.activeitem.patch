@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A golden shortbow, can instantly fire arrows.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Aeon Shortbow",
+    "value": "待汉化"
+  },
+]

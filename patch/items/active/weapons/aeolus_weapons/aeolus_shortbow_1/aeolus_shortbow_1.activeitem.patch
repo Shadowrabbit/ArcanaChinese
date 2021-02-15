@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A shortbow that fires light arrows at an extremely fast speed.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ariostone Shortbow",
+    "value": "待汉化"
+  },
+]
