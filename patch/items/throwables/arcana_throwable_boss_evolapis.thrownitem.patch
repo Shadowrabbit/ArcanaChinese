@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A suspicious looking rock covered in green goo...",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Evo Abomination",
+    "value": "待汉化"
+  },
+]

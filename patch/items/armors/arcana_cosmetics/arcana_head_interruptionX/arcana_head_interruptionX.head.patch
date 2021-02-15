@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Description not found.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Interruption X",
+    "value": "待汉化"
+  },
+]

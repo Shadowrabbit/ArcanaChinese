@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A dark combat jacket.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Sleepwalker Jacket",
+    "value": "待汉化"
+  }
+]

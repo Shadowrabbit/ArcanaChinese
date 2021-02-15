@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "An EPP module that boosts your speed by a huge amount.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Arcana IV, The Emperor",
+    "value": "待汉化"
+  },
+]

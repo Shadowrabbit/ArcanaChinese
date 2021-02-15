@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A piece of dark leggings, worn by the Workshop's engineers.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Architect's Leggings",
+    "value": "待汉化"
+  },
+]

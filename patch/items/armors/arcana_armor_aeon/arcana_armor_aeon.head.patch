@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"The zero aeon, bright as the azure stars.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Aeon's Zero",
+    "value": "待汉化"
+  },
+]

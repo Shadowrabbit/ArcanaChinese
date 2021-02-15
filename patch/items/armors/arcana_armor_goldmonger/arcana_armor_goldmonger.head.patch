@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A luxurious piece of visor worn only by the affluent.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Goldmonger Visor",
+    "value": "待汉化"
+  },
+]

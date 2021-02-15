@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Double tap ^green;[A]^white; or ^green;[D] ^white;to quickly dash! Cooldown: 0.2s",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    //"Allegretto Dash",
+    "value": "待汉化"
+  }
+]

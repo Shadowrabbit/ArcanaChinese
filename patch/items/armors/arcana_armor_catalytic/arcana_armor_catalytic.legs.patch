@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "An armor piece exhibiting a faint Cosmo aura.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Catalytic Leggings",
+    "value": "待汉化"
+  },
+]

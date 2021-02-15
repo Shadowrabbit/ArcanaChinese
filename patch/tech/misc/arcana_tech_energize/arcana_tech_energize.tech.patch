@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Gives unlimited energy for 10s. 60s cooldown. ^green;[F]^reset;",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    //"Energize",
+    "value": "待汉化"
+  }
+]

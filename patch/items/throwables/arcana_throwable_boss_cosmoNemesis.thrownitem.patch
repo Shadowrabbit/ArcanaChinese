@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A shadowy stone covered in cherry blossom flowers...",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Sakura Tribute",
+    "value": "待汉化"
+  },
+]

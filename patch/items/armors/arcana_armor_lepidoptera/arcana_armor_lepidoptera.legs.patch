@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A piece of pale colored leggings, crafted from holosium.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Lepidoptera Leggings",
+    "value": "待汉化"
+  },
+]

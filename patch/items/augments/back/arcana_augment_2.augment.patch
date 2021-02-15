@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An EPP module that boosts your total energy by a huge amount.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Arcana I, The Magician",
+    "value": "待汉化"
+  },
+]

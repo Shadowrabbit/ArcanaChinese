@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An EPP module that boosts your total energy, health regen and damage by a small amount.",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Arcana 0, The Fool",
+    "value": "待汉化"
+  },
+]

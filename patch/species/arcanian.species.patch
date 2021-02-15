@@ -1,0 +1,74 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    //"Arcanian",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    //"A race of desert dwellers, hardened by the rough nature of their environment. They evolved to a natural sense of the arcane. Now resting in their oases, they pursue matters of the arcane and scholarly."
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    //"Skin colour",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    //"Hair style",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    //"Shirt",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    //"Legwear",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    //"Underwear",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    //"Hair colour",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    //"Shirt colour",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    //"Legwear colour",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    //"ARCANIAN",
+    "value": "待汉化"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    //"Personality"
+    "value": "待汉化"
+  }
+]
