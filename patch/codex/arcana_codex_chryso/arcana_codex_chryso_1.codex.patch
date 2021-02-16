@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     //"It was said in legends that whenever the goddess of Chryso walked the earth, her touch would turn flowers and leaves into gold. The Goddess didn't mind, for gold has been an abandoned currency for eons. But many still sought after the golden plants for their special properties.",
-    "value": "待汉化"
+    "value": "\u4f20\u8bf4\u4e2d\uff0c\u6bcf\u5f53\u514b\u83b1\u7d22\u5973\u795e\u6765\u5230\u4eba\u95f4\uff0c\u5979\u7684\u89e6\u6478\u5c31\u4f1a\u628a\u82b1\u6735\u548c\u53f6\u5b50\u53d8\u6210\u91d1\u5b50\u3002\u4f46\u5973\u795e\u5e76\u4e0d\u4ecb\u610f\uff0c\u56e0\u4e3a\u9ec4\u91d1\u4e00\u76f4\u4ee5\u6765\u90fd\u662f\u88ab\u9057\u5f03\u7684\u8d27\u5e01\u3002\u4f46\u4ecd\u6709\u8bb8\u591a\u4eba\u56e0\u5176\u7279\u6b8a\u7684\u5c5e\u6027\u800c\u5bfb\u627e\u8fd9\u79cd\u9ec4\u91d1\u690d\u7269\u3002"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     //"They were miracles - they persist to live despite having turned into gold. They would never wither either, allowing them to rest in eternal peace. Some alchemists even attempt to extract the magic within, to try to gain the immortality that the plants seem to possess. But the poor souls who were able to become golden, also lost their consciousness. Luckily for them, a drop of illuminated water seem to be able to revert this state of gold."
-    "value": "待汉化"
+    "value": "\u5b83\u4eec\u662f\u5947\u8ff9\u3002\u5c3d\u7ba1\u5df2\u53d8\u6210\u9ec4\u91d1\uff0c\u5b83\u4eec\u4ecd\u575a\u6301\u751f\u5b58\u3002\u5b83\u4eec\u5728\u6c38\u6052\u7684\u548c\u5e73\u4e2d\u5b89\u606f\uff0c\u6c38\u8fdc\u4e5f\u4e0d\u4f1a\u67af\u840e\u3002\u4e00\u4e9b\u70bc\u91d1\u672f\u58eb\u751a\u81f3\u8bd5\u56fe\u63d0\u53d6\u91cc\u9762\u7684\u9b54\u6cd5\uff0c\u8bd5\u56fe\u83b7\u5f97\u690d\u7269\u4f3c\u4e4e\u62e5\u6709\u7684\u6c38\u751f\u3002\u4f46\u662f\u90a3\u4e9b\u80fd\u53d8\u6210\u91d1\u5b50\u7684\u53ef\u601c\u7075\u9b42\uff0c\u4e5f\u5931\u53bb\u4e86\u610f\u8bc6\u3002\u5e78\u8fd0\u7684\u662f\uff0c\u4e00\u6ef4\u53d1\u5149\u7684\u6c34\u4f3c\u4e4e\u80fd\u591f\u8fd8\u539f\u8fd9\u79cd\u9ec4\u91d1\u72b6\u6001\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     //"A piece of Chryso document."
-    "value": "待汉化"
+    "value": "\u4e00\u4efd\u514b\u83b1\u7d22\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"The Golden Forest"
-    "value": "待汉化"
+    "value": "\u9ec4\u91d1\u68ee\u6797"
   }
 ]
