@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile7",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile7.png",
-  "description" : "A machinery block covered in orange.",
-  "shortdescription" : "Orange Machinery Panel",
-
-  "materialId" : 16555
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A machinery block covered in orange.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Orange Machinery Panel",
+    "value": "toBeTranslate"
+  },
+]

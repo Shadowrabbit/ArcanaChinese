@@ -1,11 +1,14 @@
-{
-  "itemName" : "thalassa_tile6",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "thalassa_tile6.png",
-  "description" : "A deep blue roofing made from aquamarine stone.",
-  "shortdescription" : "Aquamarine Roofing",
-
-  "materialId" : 16570
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A deep blue roofing made from aquamarine stone.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Aquamarine Roofing",
+    "value": "toBeTranslate"
+  },
+]

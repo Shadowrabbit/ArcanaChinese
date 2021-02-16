@@ -2,13 +2,13 @@
   {
     "op": "replace",
     "path": "/description",
-    //"A durable support beam.",
+    //"An anima ore, can be used for smelting.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Stahlern Beam",
+    //"Anima Ore",
     "value": "toBeTranslate"
   },
 ]

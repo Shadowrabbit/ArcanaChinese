@@ -1,11 +1,14 @@
-{
-  "itemName" : "stahlernBadlands_tile1",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "stahlernBadlands_tile1.png",
-  "description" : "A dirt block.",
-  "shortdescription" : "Stahlern Dirt",
-
-  "materialId" : 16709
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A dirt block.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Stahlern Dirt",
+    "value": "toBeTranslate"
+  },
+]

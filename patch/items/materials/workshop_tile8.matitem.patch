@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile8",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile8.png",
-  "description" : "A machinery block covered in black.",
-  "shortdescription" : "Black Machinery Panel",
-
-  "materialId" : 16556
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A machinery block covered in black.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Black Machinery Panel",
+    "value": "toBeTranslate"
+  },
+]

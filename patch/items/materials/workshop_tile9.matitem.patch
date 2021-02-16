@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile9",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile9.png",
-  "description" : "A wall panel, painted in blue.",
-  "shortdescription" : "Blue Metal Support",
-
-  "materialId" : 16557
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A wall panel, painted in blue.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Blue Metal Support",
+    "value": "toBeTranslate"
+  },
+]

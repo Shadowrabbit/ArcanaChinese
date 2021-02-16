@@ -1,11 +1,14 @@
-{
-  "itemName" : "solarized_tile3",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "solarized_tile3.png",
-  "description" : "A deposite of burning crystals.",
-  "shortdescription" : "Solar Crystal Block",
-
-  "materialId" : 16659
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A deposite of burning crystals.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Solar Crystal Block",
+    "value": "toBeTranslate"
+  },
+]

@@ -1,11 +1,14 @@
-{
-  "itemName" : "steelblades_tile8",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "steelblades_tile8.png",
-  "description" : "A wall panel. Looks highly durable.",
-  "shortdescription" : "Stahlern Panel",
-
-  "materialId" : 16718
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A wall panel. Looks highly durable.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Stahlern Panel",
+    "value": "toBeTranslate"
+  },
+]

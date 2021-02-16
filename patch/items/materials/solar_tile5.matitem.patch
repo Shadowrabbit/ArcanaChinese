@@ -1,11 +1,14 @@
-{
-  "itemName" : "solar_tile5",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "solar_tile5.png",
-  "description" : "An ancient constructing material made from umberstone. Highly durable.",
-  "shortdescription" : "Umberstone Constructor",
-
-  "materialId" : 16655
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An ancient constructing material made from umberstone. Highly durable.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Umberstone Constructor",
+    "value": "toBeTranslate"
+  },
+]

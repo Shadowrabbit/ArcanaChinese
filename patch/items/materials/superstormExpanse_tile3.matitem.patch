@@ -1,11 +1,14 @@
-{
-  "itemName" : "superstormExpanse_tile3",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "superstormExpanse_tile3.png",
-  "description" : "A piece of lightning tased dirt.",
-  "shortdescription" : "Superstorm Dirt",
-
-  "materialId" : 16703
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of lightning tased dirt.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Superstorm Dirt",
+    "value": "toBeTranslate"
+  },
+]

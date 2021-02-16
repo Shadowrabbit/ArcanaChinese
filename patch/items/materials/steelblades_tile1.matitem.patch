@@ -1,11 +1,14 @@
-{
-  "itemName" : "steelblades_tile1",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "steelblades_tile1.png",
-  "description" : "A durable stack of bricks.",
-  "shortdescription" : "Stahlern Brick Tile",
-
-  "materialId" : 16711
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A durable stack of bricks.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Stahlern Brick Tile",
+    "value": "toBeTranslate"
+  },
+]

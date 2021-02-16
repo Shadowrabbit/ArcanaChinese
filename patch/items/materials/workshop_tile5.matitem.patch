@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile5",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile5.png",
-  "description" : "A metal flooring tile used by the Workshop.",
-  "shortdescription" : "Workshop Metal Flooring",
-
-  "materialId" : 16553
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A metal flooring tile used by the Workshop.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Workshop Metal Flooring",
+    "value": "toBeTranslate"
+  },
+]

@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile10",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile10.png",
-  "description" : "A blue support tile used by the Workshop.",
-  "shortdescription" : "Blue Metal Support",
-
-  "materialId" : 16558
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A blue support tile used by the Workshop.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Blue Metal Support",
+    "value": "toBeTranslate"
+  },
+]

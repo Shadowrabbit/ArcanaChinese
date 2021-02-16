@@ -2,13 +2,13 @@
   {
     "op": "replace",
     "path": "/description",
-    //"A durable support beam.",
+    //"An alien sigil, once a construct used by the ancients.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Stahlern Beam",
+    //"Fire Sigil",
     "value": "toBeTranslate"
   },
 ]

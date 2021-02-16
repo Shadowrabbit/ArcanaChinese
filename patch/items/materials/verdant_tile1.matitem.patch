@@ -1,11 +1,14 @@
-{
-  "itemName" : "verdant_tile1",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "verdant_tile1.png",
-  "description" : "A dirt block.",
-  "shortdescription" : "Verdant Dirt",
-
-  "materialId" : 16607
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A dirt block.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Verdant Dirt",
+    "value": "toBeTranslate"
+  },
+]

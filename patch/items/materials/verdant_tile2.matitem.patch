@@ -1,11 +1,14 @@
-{
-  "itemName" : "verdant_tile2",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "verdant_tile2.png",
-  "description" : "A brownish rock.",
-  "shortdescription" : "Verdant Rock",
-
-  "materialId" : 16608
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A brownish rock.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Verdant Rock",
+    "value": "toBeTranslate"
+  },
+]

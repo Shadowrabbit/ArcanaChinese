@@ -1,11 +1,14 @@
-{
-  "itemName" : "workshop_tile4",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "workshop_tile4.png",
-  "description" : "A black wall tile used by the Workshop.",
-  "shortdescription" : "Black Workshop Wall",
-
-  "materialId" : 16552
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A black wall tile used by the Workshop.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Black Workshop Wall",
+    "value": "toBeTranslate"
+  },
+]

@@ -2,13 +2,13 @@
   {
     "op": "replace",
     "path": "/description",
-    //"A durable support beam.",
+    //"A shard of the illusive abyss.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Stahlern Beam",
+    //"Phantasma Shard",
     "value": "toBeTranslate"
   },
 ]

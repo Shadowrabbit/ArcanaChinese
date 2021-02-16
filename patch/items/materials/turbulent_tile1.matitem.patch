@@ -1,11 +1,14 @@
-{
-  "itemName" : "turbulent_tile1",
-  "price" : 0,
-  "category" : "block",
-  "rarity" : "Rare",
-  "inventoryIcon" : "turbulent_tile1.png",
-  "description" : "A sea stained rock block.",
-  "shortdescription" : "Turbulent Rock",
-
-  "materialId" : 16610
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A sea stained rock block.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Turbulent Rock",
+    "value": "toBeTranslate"
+  },
+]
