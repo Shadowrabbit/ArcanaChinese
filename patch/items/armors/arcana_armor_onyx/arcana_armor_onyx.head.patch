@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark helm, crafted from necroium.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u6df1\u8272\u5934\u76d4\uff0c\u7531\u6b7b\u7075\u5236\u4f5c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Onyx Helmet",
-    "value": "待汉化"
+    "value": "\u9ed1\u739b\u7459\u5934\u76d4"
   },
 ]

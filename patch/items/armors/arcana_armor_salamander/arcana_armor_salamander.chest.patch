@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of heavy armor made from obsidian.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u91cd\u578b\u76d4\u7532\uff0c\u7531\u9ed1\u66dc\u77f3\u5236\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Salamander Chestplate",
-    "value": "待汉化"
+    "value": "\u706b\u8725\u8734\u80f8\u7532"
   }
 ]

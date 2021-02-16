@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The hand of minute, hot as the celestial sun.",
-    "value": "待汉化"
+    "value": "\u5239\u90a3\u4e4b\u624b\uff0c\u50cf\u5929\u4e0a\u7684\u592a\u9633\u4e00\u6837\u70ed\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon's Minute",
-    "value": "待汉化"
+    "value": "\u300a\u6c38\u300b\u7684\u5239\u90a3"
   },
 ]

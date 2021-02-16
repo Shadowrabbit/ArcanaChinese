@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An Arcanian chestwear.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u963f\u5361\u7eb3\u4eba\u7684\u80f8\u8863"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanium Shroud",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u62a4\u7f69"
   },
 ]

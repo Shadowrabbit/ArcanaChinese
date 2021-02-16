@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The zero aeon, bright as the azure stars.",
-    "value": "待汉化"
+    "value": "\u96f6\u4e16\u4ee3\uff0c\u660e\u4eae\u5982\u5929\u84dd\u8272\u7684\u661f\u661f\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon's Zero",
-    "value": "待汉化"
+    "value": "\u300a\u6c38\u300b\u7684\u96f6\u5ea6\u000d\u000a"
   },
 ]

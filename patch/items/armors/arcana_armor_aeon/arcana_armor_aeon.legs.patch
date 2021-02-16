@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The hand of hour, cold as the celestial moon.",
-    "value": "待汉化"
+    "value": "\u65f6\u8fb0\u4e4b\u624b\uff0c\u5982\u5929\u4e0a\u7684\u6708\u4eae\u822c\u51b0\u51b7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon's Hour",
-    "value": "待汉化"
+    "value": "\u300a\u6c38\u300b\u7684\u65f6\u8fb0"
   },
 ]

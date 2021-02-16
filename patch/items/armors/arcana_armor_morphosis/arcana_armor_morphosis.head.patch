@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A mask made from morphosis bars.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u9762\u7f69\uff0c\u7531\u5f62\u6001\u952d\u5236\u9020\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Morphosis Mask",
-    "value": "待汉化"
+    "value": "\u5f62\u6001\u9762\u7f69"
   },
 ]

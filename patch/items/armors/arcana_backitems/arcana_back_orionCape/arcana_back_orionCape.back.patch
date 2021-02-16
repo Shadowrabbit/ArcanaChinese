@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A cape worn by Orion officers.",
-    "value": "待汉化"
+    "value": "\u730e\u6237\u5ea7\u519b\u5b98\u7a7f\u7684\u6597\u7bf7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Orion Cape",
-    "value": "待汉化"
+    "value": "\u730e\u6237\u5ea7\u6597\u7bf7"
   }
 ]

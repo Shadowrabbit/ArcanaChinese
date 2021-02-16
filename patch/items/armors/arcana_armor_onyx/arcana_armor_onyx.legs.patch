@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of dark leg armor, crafted from necroium.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u6df1\u8272\u62a4\u817f\uff0c\u7531\u6b7b\u7075\u5236\u4f5c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Onyx Leggings",
-    "value": "待汉化"
+    "value": "\u9ed1\u739b\u7459\u62a4\u817f"
   }
 ]

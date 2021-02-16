@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Description not found.",
-    "value": "待汉化"
+    "value": "\u65e0\u63cf\u8ff0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Interruption X",
-    "value": "待汉化"
+    "value": "\u963b\u65ad\u0058"
   },
 ]

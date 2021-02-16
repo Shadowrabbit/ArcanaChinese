@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "An EPP module that boosts your health regen by a moderate amount and makes you resistant to all element effects.",
-    "value": "待汉化"
+    "value": "\u4e00\u4e2a\u0045\u0050\u0050\u6a21\u5757\uff0c\u53ef\u4ee5\u9002\u5ea6\u63d0\u5347\u4f60\u7684\u751f\u547d\u56de\u590d\uff0c\u5e76\u4f7f\u4f60\u62b5\u6297\u6240\u6709\u5143\u7d20\u7684\u5f71\u54cd\u3002\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcana III, The Empress",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u4e09\u7ea7\uff0c\u7687\u540e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

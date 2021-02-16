@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A heavy armor.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u91cd\u76d4\u7532"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8 Helmet",
-    "value": "待汉化"
+    "value": "\u9f7f\u8f6e\u0053\u0038\u7cfb\u5217\u5934\u76d4"
   },
 ]

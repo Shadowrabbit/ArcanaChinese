@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Decorative solar branches.",
-    "value": "待汉化"
+    "value": "\u88c5\u9970\u6027\u7684\u592a\u9633\u80fd\u6811\u679d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solar Fangs",
-    "value": "待汉化"
+    "value": "\u592a\u9633\u80fd\u5c16\u7259"
   }
 ]

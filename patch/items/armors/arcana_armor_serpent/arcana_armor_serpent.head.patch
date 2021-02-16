@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A headband radiating solar energy.",
-    "value": "待汉化"
+    "value": "\u8f90\u5c04\u592a\u9633\u80fd\u7684\u5934\u5dfe"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Serpent's Headband",
-    "value": "待汉化"
+    "value": "\u5de8\u86c7\u5934\u5dfe"
   }
 ]

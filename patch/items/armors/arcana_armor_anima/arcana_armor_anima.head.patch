@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A spooky looking masked helm.",
-    "value": "待汉化"
+    "value": "\u4e00\u9876\u770b\u4e0a\u53bb\u9634\u68ee\u68ee\u7684\u6234\u7740\u9762\u7f69\u7684\u5934\u76d4"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Anima Mask",
-    "value": "待汉化"
+    "value": "\u7075\u9b42\u9762\u7f69"
   },
 ]

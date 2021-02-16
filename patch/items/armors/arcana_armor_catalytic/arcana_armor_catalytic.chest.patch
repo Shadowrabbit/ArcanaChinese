@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An armor piece exhibiting a faint Cosmo aura.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u663e\u793a\u51fa\u6de1\u6de1\u5b87\u5b99\u5149\u73af\u7684\u76d4\u7532\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Catalytic Chestplate",
-    "value": "待汉化"
+    "value": "\u50ac\u5316\u80f8\u7532\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

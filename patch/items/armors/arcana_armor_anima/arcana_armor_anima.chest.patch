@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"'Omae wa mou shindeiru.'",
-    "value": "待汉化"
+    "value": "\u4f60\u5df2\u7ecf\u6b7b\u4e86"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Anima Chestplate",
-    "value": "待汉化"
+    "value": "\u7075\u9b42\u80f8\u7532\u000d\u000a"
   },
 ]

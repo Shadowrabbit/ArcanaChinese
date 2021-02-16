@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A dark combat jacket.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u6df1\u8272\u7684\u6218\u6597\u5939\u514b"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Sleepwalker Jacket",
-    "value": "待汉化"
+    "value": "\u68a6\u6e38\u8005\u5939\u514b"
   }
 ]

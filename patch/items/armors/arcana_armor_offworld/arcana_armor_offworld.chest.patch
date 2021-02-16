@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A white futuristic combat suit.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u767d\u8272\u7684\u73b0\u4ee3\u5316\u6218\u6597\u5916\u8863"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Offworld Suit",
-    "value": "待汉化"
+    "value": "\u5929\u5916\u5916\u8863\u000d\u000a"
   },
 ]

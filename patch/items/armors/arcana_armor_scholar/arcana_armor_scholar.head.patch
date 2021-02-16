@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A circlet crafted from arcanium.",
-    "value": "待汉化"
+    "value": "\u4e00\u4e2a\u6307\u73af\uff0c\u7531\u963f\u5361\u7eb3\u5236\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scholar's Circlet",
-    "value": "待汉化"
+    "value": "\u5b66\u8005\u6307\u73af"
   }
 ]

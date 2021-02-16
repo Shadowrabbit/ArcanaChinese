@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pair of floating wings.",
-    "value": "待汉化"
+    "value": "\u4e00\u5bf9\u6f02\u6d6e\u7684\u7fc5\u8180"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon Wings",
-    "value": "待汉化"
+    "value": "\u300a\u6c38\u300b\u4e4b\u7fc5\u8180"
   }
 ]

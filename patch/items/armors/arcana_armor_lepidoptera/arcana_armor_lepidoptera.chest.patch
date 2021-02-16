@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale colored armor, crafted from holosium.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u6d45\u989c\u8272\u7684\u76d4\u7532\uff0c\u7531\u970d\u6d1b\u65af\u5236\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Lepidoptera Shell",
-    "value": "待汉化"
+    "value": "\u9cde\u7fc5\u76ee\u8d1d\u58f3\u000d\u000a\u000d\u000a"
   },
 ]

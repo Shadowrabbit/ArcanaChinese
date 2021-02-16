@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A haken-verrostin forged armor.",
-    "value": "待汉化"
+    "value": "\u54c8\u80af\u002d\u7ef4\u7f57\u65af\u6c40\u953b\u9020\u7684\u88c5\u7532"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Chestplate",
-    "value": "待汉化"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u80f8\u7532"
   }
 ]

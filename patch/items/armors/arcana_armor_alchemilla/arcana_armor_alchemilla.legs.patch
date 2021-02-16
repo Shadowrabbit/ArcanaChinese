@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of greaves made from the elysium fields.",
-    "value": "待汉化"
+    "value": "\u4e00\u5757\u6765\u81ea\u6781\u4e50\u7a7a\u95f4\u5236\u4f5c\u7684\u62a4\u80eb"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Alchemilla Greaves",
-    "value": "待汉化"
+    "value": "\u7fbd\u8863\u8349\u62a4\u80eb"
   },
 ]

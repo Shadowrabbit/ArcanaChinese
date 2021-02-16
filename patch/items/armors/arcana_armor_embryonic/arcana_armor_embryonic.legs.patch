@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An armor piece exhibiting a faint green aura.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u5448\u73b0\u6de1\u7eff\u8272\u5149\u73af\u7684\u76d4\u7532"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Embryonic Leggings",
-    "value": "待汉化"
+    "value": "\u80da\u80ce\u62a4\u817f"
   },
 ]

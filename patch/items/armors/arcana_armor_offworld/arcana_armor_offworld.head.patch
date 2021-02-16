@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white futuristic helmet.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u767d\u8272\u7684\u73b0\u4ee3\u5316\u5934\u76d4"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Offworld Helmet",
-    "value": "待汉化"
+    "value": "\u5929\u5916\u5934\u76d4\u000d\u000a"
   },
 ]

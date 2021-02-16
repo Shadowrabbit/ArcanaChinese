@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of clothing, decorated with flowers.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u88c5\u9970\u7740\u9c9c\u82b1\u7684\u8863\u670d\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Alchemilla Shroud",
-    "value": "待汉化"
+    "value": "\u7fbd\u8863\u8349\u62a4\u7f69"
   },
 ]

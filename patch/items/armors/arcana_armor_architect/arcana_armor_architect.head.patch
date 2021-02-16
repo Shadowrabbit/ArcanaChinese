@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark helm with an orange visor, worn by the Workshop's engineers.",
-    "value": "待汉化"
+    "value": "\u8f66\u95f4\u5de5\u7a0b\u5e08\u6234\u7684\u5e26\u6a59\u8272\u5e3d\u6a90\u7684\u9ed1\u8272\u5934\u76d4"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Architect's Headgear",
-    "value": "待汉化"
+    "value": "\u5efa\u7b51\u5e08\u7684\u5934\u9970\u000d\u000a\u000d\u000a"
   },
 ]

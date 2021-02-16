@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A haken-stahlite forged heavy armor.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u94a9\u9488\u77f3\u953b\u9020\u7684\u91cd\u578b\u88c5\u7532"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aegis Leggings",
-    "value": "待汉化"
+    "value": "\u4fdd\u62a4\u817f\u7532"
   },
 ]

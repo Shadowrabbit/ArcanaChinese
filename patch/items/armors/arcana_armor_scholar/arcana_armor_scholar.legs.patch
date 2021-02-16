@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of greaves crafted from arcanium.",
-    "value": "待汉化"
+    "value": "\u4e00\u4ef6\u62a4\u80eb\uff0c\u7531\u963f\u5361\u7eb3\u5236\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scholar's Greaves",
-    "value": "待汉化"
+    "value": "\u5b66\u8005\u62a4\u80eb"
   }
 ]
