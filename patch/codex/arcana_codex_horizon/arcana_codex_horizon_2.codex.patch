@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/contentPages/0",
     //	"Even in an universe with infinite resources and possibilities, pain and suffering remain. How can we call our home an utopia when hatred remains deeply rooted in all of our hearts? There is no other way; even if we must unleash the greatest calamity, harmony must be brought upon us. The World Horizon will bring the final judgement and an everlasting cure to this scarred universe."
-    "value": "待汉化"
+    "value": "\u5373\u4f7f\u5728\u4e00\u4e2a\u62e5\u6709\u65e0\u9650\u8d44\u6e90\u548c\u53ef\u80fd\u6027\u7684\u5b87\u5b99\u4e2d\uff0c\u75db\u82e6\u548c\u82e6\u96be\u4f9d\u7136\u5b58\u5728\u3002\u5f53\u4ec7\u6068\u6df1\u6df1\u5730\u624e\u6839\u5728\u6211\u4eec\u6240\u6709\u4eba\u7684\u5fc3\u4e2d\u65f6\uff0c\u6211\u4eec\u600e\u4e48\u80fd\u628a\u6211\u4eec\u7684\u5bb6\u79f0\u4e3a\u4e4c\u6258\u90a6\u5462\uff1f\u6ca1\u6709\u522b\u7684\u529e\u6cd5\uff0c\u5373\u4f7f\u6211\u4eec\u5fc5\u987b\u53d1\u52a8\u6700\u5927\u7684\u707e\u96be\uff0c\u4e5f\u5fc5\u987b\u7ed9\u6211\u4eec\u5e26\u6765\u548c\u8c10\u3002\u201c\u4e16\u754c\u5730\u5e73\u7ebf\u201d\u5c06\u7ed9\u8fd9\u4e2a\u4f24\u75d5\u7d2f\u7d2f\u7684\u5b87\u5b99\u5e26\u6765\u6700\u7ec8\u7684\u5ba1\u5224\u548c\u6c38\u4e45\u7684\u6cbb\u6108\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     // "A piece of Horizon document.",
-    "value": "待汉化"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u5730\u5e73\u7ebf\u7684\u6587\u4ef6\u0020"
   },
   {
     "op": "replace",
     "path": "/title",
     //"The World Horizon",
-    "value": "待汉化"
+    "value": "\u4e16\u754c\u5730\u5e73\u7ebf"
   }
 ]

@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/contentPages/0",
     //	"The most common forms of essence that you will encounter are arcane, illuminated and superstorm essences. Most essences can be extracted by materials, tiles and liquids. For example, arcane dirt and arcane water can be extracted for arcane essence. For other essences, you are encouraged to try to find the recipes yourself."
-    "value": "待汉化"
+    "value": "\u4f60\u6240\u9047\u5230\u7684\u6700\u5e38\u89c1\u7684\u7cbe\u534e\u5f62\u5f0f\u662f\u795e\u79d8\u7684\uff0c\u53d1\u4eae\u7684\u548c\u8d85\u98ce\u66b4\u7684\u3002\u5927\u591a\u6570\u7cbe\u534e\u53ef\u4ee5\u901a\u8fc7\u6750\u6599\u3001\u74f7\u7816\u548c\u6db2\u4f53\u63d0\u53d6\u3002\u4f8b\u5982\uff0c\u795e\u79d8\u7cbe\u534e\u53ef\u4ee5\u901a\u8fc7\u63d0\u53d6\u795e\u79d8\u6c61\u57a2\u548c\u795e\u79d8\u6c34\u6765\u83b7\u5f97\u3002\u5bf9\u4e8e\u5176\u4ed6\u7cbe\u534e\uff0c\u6211\u4eec\u9f13\u52b1\u4f60\u5c1d\u8bd5\u81ea\u5df1\u5bfb\u627e\u914d\u65b9\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     //"A guide for Arcana."
-    "value": "待汉化"
+    "value": "\u0041\u0072\u0063\u0061\u006e\u0061\u6307\u5357"
   },
   {
     "op": "replace",
     "path": "/title",
     //"Arcana - Essence"
-    "value": "待汉化"
+    "value": "\u0041\u0072\u0063\u0061\u006e\u0061\u7cbe\u534e"
   }
 ]

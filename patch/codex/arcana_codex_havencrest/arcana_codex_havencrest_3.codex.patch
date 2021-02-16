@@ -3,24 +3,24 @@
     "op": "replace",
     "path": "/contentPages/0",
     //    "Many educated Arcanians are either scholars, historians or librarians of the Great Library. While literature is a pursue of many others, the preservation and study of history has always been the core focus of the Arcanian society.",
-    "value": "待汉化"
+    "value": "\u8bb8\u591a\u53d7\u8fc7\u6559\u80b2\u7684\u963f\u5361\u7eb3\u4eba\u8981\u4e48\u662f\u5b66\u8005\u3001\u5386\u53f2\u5b66\u5bb6\uff0c\u8981\u4e48\u662f\u5927\u56fe\u4e66\u9986\u7684\u56fe\u4e66\u7ba1\u7406\u5458\u3002\u867d\u7136\u6587\u5b66\u662f\u8bb8\u591a\u4eba\u7684\u8ffd\u6c42\uff0c\u4f46\u5386\u53f2\u7684\u4fdd\u5b58\u548c\u7814\u7a76\u4e00\u76f4\u662f\u963f\u5361\u7eb3\u4eba\u7684\u6838\u5fc3\u805a\u7126\u70b9\u3002"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     //	"Above those are the Archivists, who oversee Arcanian law and order with the assistance of an elite unit of soldiers, known as the Paladins. Among the Archivists, one is selected as the Grand Archivist, who diplomatically represents the whole of the Arcanians and act as a figurehead."
-    "value": "待汉化"
+    "value": "\u5728\u8fd9\u4e9b\u4eba\u4e4b\u4e0a\u7684\u662f\u6863\u6848\u7ba1\u7406\u5458\uff0c\u4ed6\u4eec\u5728\u5723\u9a91\u58eb\u7684\u7cbe\u9510\u90e8\u961f\u58eb\u5175\u7684\u534f\u52a9\u4e0b\uff0c\u76d1\u7763\u963f\u5361\u7eb3\u7684\u6cd5\u5f8b\u548c\u79e9\u5e8f\u3002\u5728\u6863\u6848\u7ba1\u7406\u5458\u4e2d\uff0c\u6709\u4e00\u4f4d\u88ab\u9009\u4e3a\u6700\u9ad8\u7ea7\u6863\u6848\u5b98\uff0c\u4ed6\u5728\u5916\u4ea4\u4e0a\u4ee3\u8868\u4e86\u6574\u4e2a\u963f\u5361\u7eb3\uff0c\u5e76\u5145\u5f53\u4e86\u963f\u5361\u7eb3\u540d\u4e49\u4e0a\u7684\u9886\u8896\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     // "A piece of Arcanian document.",
-    "value": "待汉化"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u963f\u5361\u7eb3\u4eba\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"Sanctuary's Archivists",
-    "value": "待汉化"
+    "value": "\u5723\u6240\u7684\u6863\u6848\u7ba1\u7406\u5458"
   }
 ]

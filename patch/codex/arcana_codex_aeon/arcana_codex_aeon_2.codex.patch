@@ -9,7 +9,7 @@
     "op": "replace",
     "path": "/description",
     //"A piece of Aeon document."
-    "value": "\u4e00\u4efd\u6c38\u7684\u6587\u4ef6"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u6c38\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",

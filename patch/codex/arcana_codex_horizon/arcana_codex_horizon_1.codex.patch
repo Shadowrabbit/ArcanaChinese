@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/contentPages/0",
     //	"The Horizon has recently ascended to be an Archa level threat, after discoveries of their involvement with the Lucid Eye. Their fleets have been rabidly expanding and well. Their purpose seems to be rasing the abnormality called World Horizon. It's unsure of the exact effects it will bring, but it's likely that this abnormality will alter the universe on a very large scale."
-    "value": "待汉化"
+    "value": "\u5728\u53d1\u73b0\u5730\u5e73\u7ebf\u4e0e\u201c\u6e05\u9192\u4e4b\u773c\u201d\u6709\u5173\u540e\uff0c\u5730\u5e73\u7ebf\u6700\u8fd1\u5df2\u5347\u4e3a\u53e4\u751f\u7269\u7ea7\u522b\u7684\u5a01\u80c1\u3002\u4ed6\u4eec\u7684\u8230\u961f\u4e00\u76f4\u5728\u8fc5\u901f\u6269\u5f20\uff0c\u800c\u4e14\u72b6\u51b5\u826f\u597d\u3002\u4ed6\u4eec\u7684\u76ee\u7684\u4f3c\u4e4e\u662f\u8981\u6d88\u9664\u88ab\u79f0\u4e3a\u201c\u4e16\u754c\u5730\u5e73\u7ebf\u201d\u7684\u5f02\u5e38\u73b0\u8c61\u3002\u4e0d\u786e\u5b9a\u4f1a\u5e26\u6765\u4ec0\u4e48\u786e\u5207\u5f71\u54cd\uff0c\u4f46\u662f\u8fd9\u79cd\u5f02\u5e38\u53ef\u80fd\u4f1a\u5728\u5f88\u5927\u7a0b\u5ea6\u4e0a\u6539\u53d8\u5b87\u5b99\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     // "A piece of Horizon document.",
-    "value": "待汉化"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u5730\u5e73\u7ebf\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"Fleets of The Horizon",
-    "value": "待汉化"
+    "value": "\u5730\u5e73\u7ebf\u8230\u961f"
   }
 ]

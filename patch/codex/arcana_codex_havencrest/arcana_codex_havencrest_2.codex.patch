@@ -3,30 +3,30 @@
     "op": "replace",
     "path": "/contentPages/0",
     //    "As an essential part of the Arcanian history, the Arcanians respect the oasis springs more than anything else, as it is the foundation of their land's fertility. Many would gather each day, to pray to Nillus, the god of springs.",
-    "value": "待汉化"
+    "value": "\u4f5c\u4e3a\u963f\u5361\u7eb3\u5386\u53f2\u7684\u91cd\u8981\u7ec4\u6210\u90e8\u5206\uff0c\u963f\u5361\u7eb3\u4eba\u6700\u5c0a\u91cd\u7eff\u6d32\u4e4b\u6cc9\uff0c\u56e0\u4e3a\u5b83\u662f\u4ed6\u4eec\u571f\u5730\u80a5\u6c83\u7684\u57fa\u7840\u3002\u6bcf\u5929\u90fd\u4f1a\u6709\u8bb8\u591a\u4eba\u805a\u96c6\u5728\u4e00\u8d77\uff0c\u5411\u6cc9\u6c34\u4e4b\u795e\u5c3c\u9c81\u65af\u7948\u7977\u3002"
   },
   {
     "op": "replace",
     "path": "/contentPages/1",
     //	"Aside from supporting the everyday life of the Arcanians, the springs have also been found to have a degree of healing properties. Simply resting in the waters would put one's mind at ease, as well.",
-    "value": "待汉化"
+    "value": "\u9664\u4e86\u652f\u6301\u963f\u5361\u7eb3\u4eba\u7684\u65e5\u5e38\u751f\u6d3b\uff0c\u8fd9\u4e9b\u6cc9\u6c34\u8fd8\u88ab\u53d1\u73b0\u5177\u6709\u4e00\u5b9a\u7a0b\u5ea6\u7684\u6cbb\u7597\u529f\u80fd\u3002\u7b80\u5355\u5730\u5728\u6c34\u4e2d\u4f11\u606f\u4e00\u4e0b\u4e5f\u4f1a\u4f7f\u4eba\u7684\u5fc3\u60c5\u653e\u677e\u3002"
   },
   {
     "op": "replace",
     "path": "/contentPages/2",
     //	"While the springs are public, it is considered a high offence to litter or put waste in the waters."
-    "value": "待汉化"
+    "value": "\u867d\u7136\u6cc9\u6c34\u662f\u516c\u5171\u7684\uff0c\u4f46\u5728\u6c34\u4e2d\u4e71\u4e22\u5783\u573e\u6216\u6392\u653e\u5e9f\u7269\u88ab\u8ba4\u4e3a\u662f\u4e00\u79cd\u4e25\u91cd\u7684\u72af\u7f6a\u884c\u4e3a\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     // "A piece of Arcanian document.",
-    "value": "待汉化"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u963f\u5361\u7eb3\u4eba\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"Arcanian Springs",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u4eba\u7684\u6cc9\u6c34"
   }
 ]

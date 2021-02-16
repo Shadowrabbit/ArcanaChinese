@@ -15,7 +15,7 @@
     "op": "replace",
     "path": "/description",
     //"A piece of Chryso document."
-    "value": "\u4e00\u4efd\u514b\u83b1\u7d22\u7684\u6587\u4ef6"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u514b\u83b1\u7d22\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
