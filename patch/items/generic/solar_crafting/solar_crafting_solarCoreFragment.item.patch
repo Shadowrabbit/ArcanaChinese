@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of a broken down solar core.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Solar Core Fragment",
+    "value": "toBeTranslate"
+  }
+]

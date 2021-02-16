@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An artificial essence, forged from the fiery flames and the solid earth.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Steel Essence",
+    "value": "toBeTranslate"
+  },
+]

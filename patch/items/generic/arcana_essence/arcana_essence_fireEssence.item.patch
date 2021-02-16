@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A solidified essence of the grand fire.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Fire Essence",
+    "value": "toBeTranslate"
+  },
+]

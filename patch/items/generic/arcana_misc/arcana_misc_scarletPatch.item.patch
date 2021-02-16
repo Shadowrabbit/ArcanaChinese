@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A patch of scarlet plants, native to Sanguine planets.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Scarlet Patch",
+    "value": "toBeTranslate"
+  }
+]

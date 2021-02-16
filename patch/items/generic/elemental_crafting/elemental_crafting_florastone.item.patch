@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A stone found only at the deepest of the overgrown jungle.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Florastone",
+    "value": "toBeTranslate"
+  }
+]

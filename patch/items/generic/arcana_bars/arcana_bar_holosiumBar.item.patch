@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A holosium bar, can be used to craft Monarch equipment.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Holosium Bar",
+    "value": "toBeTranslate"
+  },
+]

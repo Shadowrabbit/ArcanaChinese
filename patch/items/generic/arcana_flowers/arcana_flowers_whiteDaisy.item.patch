@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A white daisy flower that can be often seen in arcane forests.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"White Daisy",
+    "value": "toBeTranslate"
+  },
+]

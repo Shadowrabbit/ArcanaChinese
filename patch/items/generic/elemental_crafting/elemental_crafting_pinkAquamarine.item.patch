@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"The crystal that hosts the oceanic magic when arcane sources infected the deep.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Pink Aquamarine",
+    "value": "toBeTranslate"
+  }
+]

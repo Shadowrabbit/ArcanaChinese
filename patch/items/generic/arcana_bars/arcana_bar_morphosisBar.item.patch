@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A morphosis bar, can be used to craft useful equipment.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Morphosis Bar",
+    "value": "toBeTranslate"
+  },
+]

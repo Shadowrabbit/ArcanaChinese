@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A rare material synthesized from solarium and illuminated essence.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Holosium Star",
+    "value": "toBeTranslate"
+  }
+]

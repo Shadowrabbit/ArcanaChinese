@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An anima bar, can be used to craft useful equipment.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Anima Bar",
+    "value": "toBeTranslate"
+  },
+]

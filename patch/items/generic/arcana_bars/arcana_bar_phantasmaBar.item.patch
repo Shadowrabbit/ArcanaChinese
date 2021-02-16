@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A material infused with the aura of the deepest abyss.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Phantasma Bar",
+    "value": "toBeTranslate"
+  },
+]

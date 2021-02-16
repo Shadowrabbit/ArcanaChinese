@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An upgraded tech card used in most Orion machines.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Orion Tech Card",
+    "value": "toBeTranslate"
+  }
+]

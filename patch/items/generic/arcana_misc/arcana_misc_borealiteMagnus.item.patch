@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A pair of ice-like shards, crafted from borealite.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Borealite Magnus",
+    "value": "toBeTranslate"
+  },
+]

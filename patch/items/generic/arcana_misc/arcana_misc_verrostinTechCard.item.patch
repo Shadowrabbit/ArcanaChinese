@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A rusty tech card made from verrostin.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Verrostin Tech Card",
+    "value": "toBeTranslate"
+  }
+]

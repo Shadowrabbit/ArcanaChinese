@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A matal ring formed with borealite ores.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Borealite Ring",
+    "value": "toBeTranslate"
+  },
+]

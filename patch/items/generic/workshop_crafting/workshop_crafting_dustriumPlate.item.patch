@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A heavy plate refined from dustrium.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Dustrium Plate",
+    "value": "toBeTranslate"
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "An ancient device that appears to be some sort of an energy core, its true purpose unknown.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Solar Core",
+    "value": "toBeTranslate"
+  }
+]

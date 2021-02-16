@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "An engraved stone artifact, forged from aura of the sun, moon and stars.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Terminal Sigma",
+    "value": "toBeTranslate"
+  }
+]
