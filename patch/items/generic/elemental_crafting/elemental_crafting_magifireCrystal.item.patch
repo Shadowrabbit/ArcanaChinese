@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A warm crystal infused with ancient magic and the desert heat.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Magifire Crystal",
+    "value": "toBeTranslate"
+  }
+]

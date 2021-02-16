@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A blue flower that grows in the islands of turbulent seas.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Blue Spectralweed",
+    "value": "toBeTranslate"
+  },
+]

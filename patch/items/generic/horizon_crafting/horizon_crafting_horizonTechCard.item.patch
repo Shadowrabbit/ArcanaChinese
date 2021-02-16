@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A mysterious tech card crafted from necroium.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Horizon Tech Card",
+    "value": "toBeTranslate"
+  }
+]

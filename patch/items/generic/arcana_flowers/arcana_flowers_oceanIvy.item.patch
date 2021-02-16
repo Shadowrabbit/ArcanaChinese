@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A beautiful ivy with colors of the arcane seas.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ocean Ivy",
+    "value": "toBeTranslate"
+  },
+]

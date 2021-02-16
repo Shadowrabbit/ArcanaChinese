@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A flower with the shape of roots, found grown in blistering planets.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Orange Fluxroot",
+    "value": "toBeTranslate"
+  },
+]

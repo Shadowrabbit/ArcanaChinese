@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An enchanted Atla gold bar, can be used to craft Atlantis Equipment.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Atla Gold Bar",
+    "value": "toBeTranslate"
+  },
+]

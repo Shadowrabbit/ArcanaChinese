@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A grenn, glowing egg. Dropped from the Evolapis.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Morphosis Egg",
+    "value": "toBeTranslate"
+  }
+]

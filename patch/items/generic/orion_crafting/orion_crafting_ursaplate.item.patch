@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A reinforced plate material used to manufacture most of Orion's goods.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ursaplate",
+    "value": "toBeTranslate"
+  }
+]

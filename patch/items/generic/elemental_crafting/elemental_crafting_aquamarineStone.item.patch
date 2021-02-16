@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"One of the many blue crystals in the abundance of the deep.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Aquamarine Stone",
+    "value": "toBeTranslate"
+  }
+]

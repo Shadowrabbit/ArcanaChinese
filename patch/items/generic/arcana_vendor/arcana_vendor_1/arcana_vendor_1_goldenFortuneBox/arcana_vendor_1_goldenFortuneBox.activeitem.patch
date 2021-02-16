@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Open this to recieve a mysterious reward!",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Golden Fortune Box",
+    "value": "toBeTranslate"
+  }
+]

@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A bright red crystal. More commonly known as an avolite crystal in other parts of the universe.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Avostone",
+    "value": "toBeTranslate"
+  },
+]
