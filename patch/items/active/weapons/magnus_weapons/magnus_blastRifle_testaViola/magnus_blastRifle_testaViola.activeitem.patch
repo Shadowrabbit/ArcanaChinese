@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Testa Viola, the Great Slaughter.",
-    "value": "待汉化"
+    "value": "\u6cf0\u65af\u5854\u0026\u0023\u0031\u0038\u0033\u003b\u7ef4\u5965\u62c9\uff0c\u4f1f\u5927\u7684\u5c60\u6740"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Testa Viola",
-    "value": "待汉化"
+    "value": "\u6cf0\u65af\u5854\u0026\u0023\u0031\u0038\u0033\u003b\u7ef4\u5965\u62c9"
   }
 ]

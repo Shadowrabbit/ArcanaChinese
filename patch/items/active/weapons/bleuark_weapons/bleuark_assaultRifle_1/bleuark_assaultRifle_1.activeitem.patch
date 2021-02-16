@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A golden rifle made from Atla gold.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u7528\u963f\u7279\u62c9\u9ec4\u91d1\u5236\u6210\u7684\u91d1\u8272\u6765\u590d\u67aa\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Golden Triumph",
-    "value": "待汉化"
+    "value": "\u91d1\u51ef\u65cb"
   }
 ]

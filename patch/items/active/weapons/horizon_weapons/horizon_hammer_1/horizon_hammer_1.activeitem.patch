@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "A hammer made from necroium ingots.",
-    "value": "待汉化"
+    "value": "\u7528\u6b7b\u7075\u952d\u5236\u6210\u7684\u9524\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Retribution",
-    "value": "待汉化"
+    "value": "\u62a5\u590d"
   }
 ]

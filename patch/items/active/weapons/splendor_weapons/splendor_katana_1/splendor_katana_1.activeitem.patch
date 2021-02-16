@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A visually bright and colorful katana.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u8272\u5f69\u9c9c\u8273\u7684\u6b66\u58eb\u5200"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Splendid Katana",
-    "value": "待汉化"
+    "value": "\u534e\u4e3d\u7684\u6b66\u58eb\u5200"
   }
 ]

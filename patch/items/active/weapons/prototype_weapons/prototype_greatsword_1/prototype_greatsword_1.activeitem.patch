@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A prototype of a weapon.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u6b66\u5668\u7684\u539f\u578b\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Prototype Greatsword",
-    "value": "待汉化"
+    "value": "\u539f\u578b\u5de8\u5251"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shortbow, shining magnificently.",
-    "value": "待汉化"
+    "value": "\u95ea\u95ea\u53d1\u5149\u7684\u77ed\u5f13"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Splendid Shortbow",
-    "value": "待汉化"
+    "value": "\u534e\u4e3d\u7684\u77ed\u5f13"
   }
 ]

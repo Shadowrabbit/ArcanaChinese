@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale staff.",
-    "value": "待汉化"
+    "value": "\u82cd\u767d\u7684\u6756\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Elucidation",
-    "value": "待汉化"
+    "value": "\u8bf4\u660e"
   }
 ]

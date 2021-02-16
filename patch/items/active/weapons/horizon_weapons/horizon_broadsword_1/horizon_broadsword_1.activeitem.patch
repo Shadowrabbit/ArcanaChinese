@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //   "A dark broadsword.",
-    "value": "待汉化"
+    "value": "\u6697\u9ed1\u5bbd\u5251\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Tenebrosity",
-    "value": "待汉化"
+    "value": "\u9ed1\u6697"
   }
 ]

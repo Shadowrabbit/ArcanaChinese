@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Water your crops with this fashionable watering can.",
-    "value": "待汉化"
+    "value": "\u7528\u65f6\u9ae6\u7684\u55b7\u58f6\u7ed9\u5e84\u7a3c\u6d47\u6c34\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Watering Can",
-    "value": "待汉化"
+    "value": "\u55b7\u58f6"
   },
 ]

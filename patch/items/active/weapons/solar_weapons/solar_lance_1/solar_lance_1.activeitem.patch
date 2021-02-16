@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A burning lance made from solar crystals.",
-    "value": "待汉化"
+    "value": "\u592a\u9633\u6676\u4f53\u5236\u6210\u7684\u71c3\u70e7\u957f\u77db\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Molten Skewer",
-    "value": "待汉化"
+    "value": "\u7194\u878d\u9488"
   }
 ]

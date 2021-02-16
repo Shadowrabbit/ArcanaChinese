@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Selach, the Great Shark.",
-    "value": "待汉化"
+    "value": "\u5927\u9ca8\u9c7c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Selach",
-    "value": "待汉化"
+    "value": "\u9ca8\u9c7c"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wand infused with aqua magic.",
-    "value": "待汉化"
+    "value": "\u4e00\u6839\u6ce8\u5165\u6c34\u9b54\u6cd5\u7684\u9b54\u6756"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Atlantis Wand",
-    "value": "待汉化"
+    "value": "\u4e9a\u7279\u5170\u8482\u65af\u9b54\u6756"
   }
 ]

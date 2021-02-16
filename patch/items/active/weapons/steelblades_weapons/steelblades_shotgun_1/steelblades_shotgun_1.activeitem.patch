@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A shotgun made from verrostin. Used by the Steelblades.",
-    "value": "待汉化"
+    "value": "\u4e00\u652f\u7531\u7ef4\u7f57\u65af\u6c40\u5236\u4f5c\u7684\u730e\u67aa\u3002\u94a2\u5200\u961f\u7528\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Demolisher",
-    "value": "待汉化"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u7206\u7834\u5668"
   }
 ]

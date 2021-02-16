@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A molten machine pistol.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u7194\u5316\u7684\u673a\u5668\u624b\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magma Pistol",
-    "value": "待汉化"
+    "value": "\u5ca9\u6d46\u624b\u67aa"
   }
 ]

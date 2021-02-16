@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A molten shortbow.",
-    "value": "待汉化"
+    "value": "\u4e00\u4e2a\u7194\u5316\u7684\u77ed\u5f13\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Firestorm",
-    "value": "待汉化"
+    "value": "\u706b\u98ce\u66b4\u000d\u000a"
   }
 ]

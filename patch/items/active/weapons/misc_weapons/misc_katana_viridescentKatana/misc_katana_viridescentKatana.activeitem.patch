@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Also known as the green sword!",
-    "value": "待汉化"
+    "value": "\u4e5f\u88ab\u79f0\u4e3a\u7eff\u5251\u0021"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Viridescent Katana",
-    "value": "待汉化"
+    "value": "\u7eff\u8272\u6b66\u58eb\u5200"
   }
 ]

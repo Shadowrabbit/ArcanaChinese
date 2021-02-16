@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A burning shortsword.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u71c3\u70e7\u7684\u77ed\u5251\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Molten Slasher",
-    "value": "待汉化"
+    "value": "\u7194\u706b\u65a9\u000d\u000a\u000d\u000a"
   }
 ]

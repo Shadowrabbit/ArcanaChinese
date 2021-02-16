@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A device extracting power from a fragment of the Zero Mirror.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u53ef\u4ee5\u4ece\u300a\u96f6\u955c\u300b\u788e\u7247\u4e2d\u63d0\u53d6\u80fd\u91cf\u7684\u88c5\u7f6e\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Nil",
-    "value": "待汉化"
+    "value": "\u96f6"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A spear in the shape of a fist.",
-    "value": "待汉化"
+    "value": "\u4e00\u53ea\u62f3\u5934\u5f62\u72b6\u7684\u77db\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Superpunch",
-    "value": "待汉化"
+    "value": "\u8d85\u7ea7\u6253\u5b54\u000d\u000a"
   }
 ]

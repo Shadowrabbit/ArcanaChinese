@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The absolution brought by a piece of the brighter horizon.",
-    "value": "待汉化"
+    "value": "\u660e\u4eae\u7684\u5730\u5e73\u7ebf\u5e26\u6765\u7684\u8d66\u514d\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Judgement",
-    "value": "待汉化"
+    "value": "\u5224\u51b3"
   },
 ]

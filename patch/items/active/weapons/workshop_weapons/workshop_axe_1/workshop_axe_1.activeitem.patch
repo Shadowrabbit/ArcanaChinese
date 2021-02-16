@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "A heavy axe, forged from dustrium.",
-    "value": "待汉化"
+    "value": "\u7531\u675c\u65af\u7279\u9c81\u59c6\u953b\u9020\u800c\u6210\u7684\u91cd\u578b\u65a7\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Axe",
-    "value": "待汉化"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u65a7\u5b50"
   }
 ]

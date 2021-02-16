@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A lance comparable to the brightest azure star.",
-    "value": "待汉化"
+    "value": "\u4e00\u652f\u582a\u6bd4\u6700\u4eae\u7684\u5929\u84dd\u661f\u7684\u957f\u77db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Astrifer",
-    "value": "待汉化"
+    "value": "\u963f\u65af\u7279\u91cc\u5f17"
   }
 ]

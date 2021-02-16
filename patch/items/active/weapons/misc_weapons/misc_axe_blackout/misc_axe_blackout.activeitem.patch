@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A one-handed axe.",
-    "value": "待汉化"
+    "value": "\u5355\u624b\u65a7\u5934\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Blackout",
-    "value": "待汉化"
+    "value": "\u505c\u7535\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

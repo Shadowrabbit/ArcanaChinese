@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "You can sense the darkness flowing inside.",
-    "value": "待汉化"
+    "value": "\u4f60\u80fd\u611f\u89c9\u5230\u9ed1\u6697\u5728\u91cc\u9762\u6d41\u52a8\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   Sanctus",
-    "value": "待汉化"
+    "value": "\u6559\u7687"
   }
 ]

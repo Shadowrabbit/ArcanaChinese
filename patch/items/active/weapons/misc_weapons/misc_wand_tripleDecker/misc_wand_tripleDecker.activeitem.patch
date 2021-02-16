@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Taste the icy sweetness!",
-    "value": "待汉化"
+    "value": "\u54c1\u5c1d\u51b0\u51b7\u7684\u751c\u5473\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Trip1e Decker",
-    "value": "待汉化"
+    "value": "\u4e09\u5c42\u7532\u677f\u000d\u000a"
   }
 ]

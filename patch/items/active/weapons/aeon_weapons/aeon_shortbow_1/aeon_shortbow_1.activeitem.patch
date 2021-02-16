@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A golden shortbow, can instantly fire arrows.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u91d1\u8272\u77ed\u5f13\uff0c\u53ef\u4ee5\u7acb\u5373\u5c04\u51fa\u7bad\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon Shortbow",
-    "value": "待汉化"
+    "value": "\u300a\u6c38\u300b\u77ed\u5f13"
   },
 ]

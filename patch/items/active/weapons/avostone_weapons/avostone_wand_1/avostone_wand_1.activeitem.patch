@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An avostone wand.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u963f\u6c83\u65af\u77f3\u5236\u4f5c\u7684\u9b54\u6756"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Sapience",
-    "value": "待汉化"
+    "value": "\u667a\u6167"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale lance.",
-    "value": "待汉化"
+    "value": "\u82cd\u767d\u7684\u957f\u77db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Iustitia",
-    "value": "待汉化"
+    "value": "\u6b63\u4e49"
   }
 ]

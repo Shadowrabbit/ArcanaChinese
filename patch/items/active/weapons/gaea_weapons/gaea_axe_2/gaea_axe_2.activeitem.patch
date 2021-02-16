@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A one-handed hammer made of florastone.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u7528\u7ed8\u82b1\u77f3\u5236\u6210\u7684\u5355\u624b\u9524"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Floral Smasher",
-    "value": "待汉化"
+    "value": "\u7ed8\u82b1\u51fb\u788e\u5668"
   }
 ]

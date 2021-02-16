@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The eternal thunder that brings down divine judgement.",
-    "value": "待汉化"
+    "value": "\u6c38\u6052\u7684\u96f7\u58f0\uff0c\u964d\u4e0b\u795e\u5723\u7684\u5ba1\u5224\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Eternity",
-    "value": "待汉化"
+    "value": "\u6c38\u6052"
   },
 ]

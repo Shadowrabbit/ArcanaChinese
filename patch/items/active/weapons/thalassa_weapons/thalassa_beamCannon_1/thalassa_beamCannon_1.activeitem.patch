@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "The eye of the crystallized sea.",
-    "value": "待汉化"
+    "value": "\u6c34\u6676\u6d77\u4e4b\u773c\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aquamarine Eye",
-    "value": "待汉化"
+    "value": "\u6d77\u84dd\u5b9d\u77f3\u4e4b\u773c\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bright spear crafted from avostone.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u7531\u963f\u6c83\u65af\u77f3\u5236\u4f5c\u7684\u660e\u4eae\u957f\u77db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Star Breaker",
-    "value": "待汉化"
+    "value": "\u788e\u661f\u5668"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A true scholar is knowledged in all things, even combat.",
-    "value": "待汉化"
+    "value": "\u4e00\u4e2a\u771f\u6b63\u7684\u5b66\u8005\u61c2\u5f97\u4e00\u5207\uff0c\u751a\u81f3\u5305\u62ec\u6218\u6597"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Arcanium Broadsword",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u5bbd\u5251"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"This hardened ferozium staff concentrates energy at an impressive distance.",
-    "value": "待汉化"
+    "value": "\u8fd9\u6839\u575a\u786c\u7684\u300a\u8d39\u7f57\u6756\u300b\u80fd\u5c06\u80fd\u91cf\u96c6\u4e2d\u5728\u4e00\u4e2a\u4ee4\u4eba\u5370\u8c61\u6df1\u523b\u7684\u8ddd\u79bb\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Binah Tyr",
-    "value": "待汉化"
+    "value": "\u6bd4\u7eb3\u63d0\u5c14"
   },
 ]

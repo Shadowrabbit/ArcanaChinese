@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A yellowish lance.",
-    "value": "待汉化"
+    "value": "\u6de1\u9ec4\u8272\u7684\u957f\u77db\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Acuity",
-    "value": "待汉化"
+    "value": "\u654f\u9510\u5ea6\u000d\u000a"
   },
 ]

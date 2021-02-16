@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bladed weapon created from some sort of a durable glass material.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u7528\u67d0\u79cd\u8010\u7528\u7684\u73bb\u7483\u6750\u6599\u5236\u6210\u7684\u5203\u72b6\u6b66\u5668\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Elysian Double Blade",
-    "value": "待汉化"
+    "value": "\u6781\u4e50\u53cc\u5203\u5251\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

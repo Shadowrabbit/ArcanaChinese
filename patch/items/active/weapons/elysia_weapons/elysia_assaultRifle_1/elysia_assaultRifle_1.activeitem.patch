@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A rarely used rifle, covered in plant matter.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u5f88\u5c11\u4f7f\u7528\u7684\u6b65\u67aa\uff0c\u4e0a\u9762\u8986\u76d6\u7740\u690d\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Elysian Repeater",
-    "value": "待汉化"
+    "value": "\u6781\u4e50\u8fde\u53d1\u67aa\u000d\u000a"
   }
 ]

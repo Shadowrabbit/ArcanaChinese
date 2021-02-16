@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bow infused with the unconfined wind.",
-    "value": "待汉化"
+    "value": "\u5145\u65a5\u7740\u65e0\u62d8\u65e0\u675f\u7684\u98ce\u7684\u5f13"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Libertas",
-    "value": "待汉化"
+    "value": "\u81ea\u7531"
   }
 ]

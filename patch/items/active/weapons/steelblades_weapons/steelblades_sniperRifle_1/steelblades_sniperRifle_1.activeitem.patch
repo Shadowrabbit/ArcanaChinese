@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A sniper-rifle made from verrostin. Used by the Steelblades.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u7531\u7ef4\u7f57\u65af\u6c40\u5236\u6210\u7684\u72d9\u51fb\u6b65\u67aa\uff0c\u4f9b\u94a2\u5200\u961f\u4f7f\u7528"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Markmaker",
-    "value": "待汉化"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u6807\u8bb0\u8005"
   }
 ]

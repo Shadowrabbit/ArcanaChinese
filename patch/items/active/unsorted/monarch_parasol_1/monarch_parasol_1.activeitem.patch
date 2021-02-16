@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Open to gently float while falling. It's bad luck to open inside the house.",
-    "value": "待汉化"
+    "value": "\u4e0b\u843d\u65f6\u6253\u5f00\u53ef\u4ee5\u8f7b\u6d6e\u5728\u7a7a\u4e2d\u3002\u5728\u623f\u5b50\u91cc\u6253\u5f00\u4f1a\u5e26\u6765\u5384\u8fd0\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"White Parasol",
-    "value": "待汉化"
+    "value": "\u767d\u8272\u7684\u4f1e"
   },
 ]

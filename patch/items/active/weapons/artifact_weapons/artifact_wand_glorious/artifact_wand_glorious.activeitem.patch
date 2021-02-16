@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The burning goblet of the hottest flame.",
-    "value": "待汉化"
+    "value": "\u71c3\u70e7\u7740\u6700\u70bd\u70ed\u706b\u7130\u7684\u9152\u676f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Glorious",
-    "value": "待汉化"
+    "value": "\u5149\u8363"
   }
 ]

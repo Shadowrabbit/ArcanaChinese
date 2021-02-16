@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Grandel, the Great Wilderness.",
-    "value": "待汉化"
+    "value": "\u683c\u5170\u5fb7\u5c14\uff0c\u5927\u8352\u91ce"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Grandel",
-    "value": "待汉化"
+    "value": "\u683c\u5170\u5fb7\u5c14"
   }
 ]

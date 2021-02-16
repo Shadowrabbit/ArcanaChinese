@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Flame-infused staff of the ancient fire.",
-    "value": "待汉化"
+    "value": "\u6ce8\u5165\u706b\u7130\u7684\u8fdc\u53e4\u706b\u6756"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Hestia",
-    "value": "待汉化"
+    "value": "\u8d6b\u65af\u63d0\u4e9a"
   }
 ]

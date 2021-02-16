@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A broadsword used by the Steelblades.",
-    "value": "待汉化"
+    "value": "\u94a2\u5200\u961f\u4f7f\u7528\u7684\u5bbd\u5251"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Steelblades Broadsword",
-    "value": "待汉化"
+    "value": "\u94a2\u5200\u961f\u5bbd\u5251"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A high tech greatsword.",
-    "value": "待汉化"
+    "value": "\u4e00\u628a\u9ad8\u79d1\u6280\u5de8\u5251"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Greatsword",
-    "value": "待汉化"
+    "value": "\u730e\u6237\u5ea7\u5de8\u5251"
   }
 ]

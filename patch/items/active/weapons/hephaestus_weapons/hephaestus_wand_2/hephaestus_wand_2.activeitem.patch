@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "Flame-infused wand of the ancient fire.",
-    "value": "待汉化"
+    "value": "\u6ce8\u5165\u706b\u7130\u7684\u8fdc\u53e4\u706b\u7130\u9b54\u6756\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Grandfire Wand",
-    "value": "待汉化"
+    "value": "\u70c8\u706b\u6756\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

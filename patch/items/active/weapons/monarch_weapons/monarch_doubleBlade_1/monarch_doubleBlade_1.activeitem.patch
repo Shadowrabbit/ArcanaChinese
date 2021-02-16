@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale double bladed weapon.",
-    "value": "待汉化"
+    "value": "\u4e00\u79cd\u82cd\u767d\u7684\u53cc\u5203\u6b66\u5668\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Holosium Double Blade",
-    "value": "待汉化"
+    "value": "\u53cc\u5203\u5251\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A colorful shortsword.",
-    "value": "待汉化"
+    "value": "\u8272\u5f69\u7f24\u7eb7\u7684\u77ed\u5251"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Splendid Shortsword",
-    "value": "待汉化"
+    "value": "\u534e\u4e3d\u7684\u77ed\u5251"
   }
 ]
