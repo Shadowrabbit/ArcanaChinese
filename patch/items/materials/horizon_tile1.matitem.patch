@@ -1,14 +1,14 @@
-﻿[
+[
   {
     "op": "replace",
     "path": "/description",
-    //"A pool of water sprinkled with arcane magic.",
+    //"A dark rune block.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Arcane Water",
+    //"Horizon Rune Block",
     "value": "toBeTranslate"
   },
 ]

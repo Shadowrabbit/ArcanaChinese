@@ -1,14 +1,14 @@
-﻿[
+[
   {
     "op": "replace",
     "path": "/description",
-    //"A pool of water sprinkled with arcane magic.",
+    //"A seastone flooring surfaced with Atla gold.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Arcane Water",
+    //"Seastone Flooring",
     "value": "toBeTranslate"
   },
 ]

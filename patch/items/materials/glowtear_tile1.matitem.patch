@@ -1,14 +1,14 @@
-﻿[
+[
   {
     "op": "replace",
     "path": "/description",
-    //"A pool of water sprinkled with arcane magic.",
+    //"A dark blue stone tile.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Arcane Water",
+    //"Tearstone",
     "value": "toBeTranslate"
   },
 ]

@@ -1,14 +1,14 @@
-﻿[
+[
   {
     "op": "replace",
     "path": "/description",
-    //"A pool of water sprinkled with arcane magic.",
+    //"A pink light display panel.",
     "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
-    //"Arcane Water",
+    //"Pink LED Panel",
     "value": "toBeTranslate"
   },
 ]

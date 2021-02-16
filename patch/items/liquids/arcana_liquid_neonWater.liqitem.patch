@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A neon colored liquid.",
-    "value": "待汉化"
+    "value": "toBeTranslate"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Neon Water",
-    "value": "待汉化"
+    "value": "toBeTranslate"
   },
 ]
