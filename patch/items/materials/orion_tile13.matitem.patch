@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blue light display panel.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u84dd\u5149\u663e\u793a\u9762\u677f\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Blue LED Panel",
-    "value": "toBeTranslate"
+    "value": "\u84dd\u8272\u004c\u0045\u0044\u677f\u000d\u000a"
   },
 ]

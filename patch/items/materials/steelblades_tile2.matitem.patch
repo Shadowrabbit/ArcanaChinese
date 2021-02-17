@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A durable building material made from verrostin.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u7ef4\u7f57\u65af\u6c40\u5236\u4f5c\u7684\u8010\u7528\u5efa\u7b51\u6750\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Tile",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u74e6\u7247"
   },
 ]

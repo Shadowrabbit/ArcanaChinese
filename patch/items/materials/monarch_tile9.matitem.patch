@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A black and white stone-made fence.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u767d\u76f8\u95f4\u7684\u77f3\u5934\u6805\u680f\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Stone Fence",
-    "value": "toBeTranslate"
+    "value": "\u5bab\u6bbf\u77f3\u6805\u680f\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A durable support beam, emits a faint yellow light.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8010\u7528\u7684\u652f\u6491\u6881\uff0c\u53d1\u51fa\u5fae\u5f31\u7684\u9ec4\u5149\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Verrostin Beam",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u6881"
   },
 ]

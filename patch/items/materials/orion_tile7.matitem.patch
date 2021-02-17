@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A reinforced beam used by the Orion, painted white.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u730e\u6237\u5ea7\u4f7f\u7528\u7684\u52a0\u56fa\u6881\uff0c\u88ab\u6d82\u6210\u4e86\u767d\u8272\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Light Beam",
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u6d45\u8272\u6881\u000d\u000a\u000d\u000a"
   },
 ]

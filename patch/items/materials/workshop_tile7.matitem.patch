@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A machinery block covered in orange.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88ab\u6d82\u6210\u6a58\u8272\u7684\u673a\u68b0\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orange Machinery Panel",
-    "value": "toBeTranslate"
+    "value": "\u6a58\u8272\u673a\u68b0\u9762\u677f"
   },
 ]

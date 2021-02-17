@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Double tap ^green;[A]^white; or ^green;[D] ^white;to quickly dash! Cooldown: 0.2s",
-    "value": "待汉化"
+    "value": "\u53cc\u51fb\u005e\u0067\u0072\u0065\u0065\u006e\uff1b\u005b\u0041\u005d\u005e\u0077\u0068\u0069\u0074\u0065\uff1b\u6216\u005e\u0067\u0072\u0065\u0065\u006e\uff1b\u005b\u0044\u005d\u005e\u0077\u0068\u0069\u0074\u0065\uff1b\uff0c\u5feb\u901f\u51b2\u523a\uff01\u51b7\u5374\u65f6\u95f4\uff1a\u0030\u002e\u0032\u79d2"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
     //"Allegretto Dash",
-    "value": "待汉化"
+    "value": "\u5feb\u677f\u51b2\u523a"
   }
 ]

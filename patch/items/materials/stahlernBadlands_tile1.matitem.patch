@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dirt block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6ce5\u571f\u5757\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Stahlern Dirt",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u94c1\u822c\u6ce5\u571f"
   },
 ]

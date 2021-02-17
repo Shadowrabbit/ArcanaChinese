@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A piece of lightning tased dirt.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u88ab\u95ea\u7535\u51fb\u4e2d\u7684\u6ce5\u571f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Superstorm Dirt",
-    "value": "toBeTranslate"
+    "value": "\u8d85\u7ea7\u98ce\u66b4\u6ce5\u571f"
   },
 ]

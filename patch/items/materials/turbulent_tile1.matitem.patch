@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sea stained rock block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6cbe\u6709\u6d77\u6c34\u7684\u5ca9\u77f3\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Turbulent Rock",
-    "value": "toBeTranslate"
+    "value": "\u6fc0\u6d41\u65c1\u7684\u5ca9\u77f3\u000d\u000a"
   },
 ]

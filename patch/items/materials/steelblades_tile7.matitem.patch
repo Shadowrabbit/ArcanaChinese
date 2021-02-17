@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall panel. Looks highly durable.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5899\u677f\uff0c\u770b\u8d77\u6765\u975e\u5e38\u8010\u7528"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Panel",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u9762\u677f"
   },
 ]

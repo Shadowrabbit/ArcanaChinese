@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of rock. Highly durable.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5ca9\u77f3\uff0c\u975e\u5e38\u8010\u7528\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Umberstone Rock",
-    "value": "toBeTranslate"
+    "value": "\u68d5\u571f\u77f3\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

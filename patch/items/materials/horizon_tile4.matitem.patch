@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal beam crafted from necroium.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6b7b\u7075\u5236\u4f5c\u7684\u91d1\u5c5e\u6881\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cataclysmic Light Beam",
-    "value": "toBeTranslate"
+    "value": "\u5929\u707e\u7684\u6d45\u8272\u6881"
   },
 ]

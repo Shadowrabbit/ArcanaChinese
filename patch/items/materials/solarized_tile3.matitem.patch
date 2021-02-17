@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A deposite of burning crystals.",
-    "value": "toBeTranslate"
+    "value": "\u71c3\u70e7\u7684\u6676\u4f53\u6c89\u79ef\u7269\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solar Crystal Block",
-    "value": "toBeTranslate"
+    "value": "\u592a\u9633\u80fd\u6c34\u6676\u5757\u000d\u000a\u000d\u000a"
   },
 ]

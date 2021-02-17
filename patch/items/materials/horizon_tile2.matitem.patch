@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A dark glyph block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u6697\u7684\u5b57\u5f62\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Horizon Glyph Block",
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u5b57\u5f62\u5757"
   },
 ]

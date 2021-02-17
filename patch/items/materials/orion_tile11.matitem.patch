@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sloped metal panel composed of a mix of machinery, used by the Orion.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u4e8e\u730e\u6237\u5ea7\u7684\u503e\u659c\u91d1\u5c5e\u677f\uff0c\u7531\u6df7\u5408\u7684\u673a\u68b0\u7ec4\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Machinery Panel",
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u673a\u68b0\u9762\u677f"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark sloped panel crafted from necroium.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6b7b\u7075\u5236\u4f5c\u7684\u6df1\u8272\u659c\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cataclysmic Panel",
-    "value": "toBeTranslate"
+    "value": "\u5929\u707e\u7684\u9762\u677f"
   },
 ]

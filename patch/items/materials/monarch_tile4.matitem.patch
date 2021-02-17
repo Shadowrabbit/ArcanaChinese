@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark ash block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6df1\u8272\u7684\u7070\u70ec\u5757\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dark Ash Block",
-    "value": "toBeTranslate"
+    "value": "\u6df1\u8272\u7070\u70ec\u5757\u000d\u000a"
   },
 ]

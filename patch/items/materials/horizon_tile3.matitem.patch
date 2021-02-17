@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A solid flooring tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u7ed3\u5b9e\u7684\u5730\u677f\u7816\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Horizon Flooring",
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u5730\u677f\u000d\u000a"
   },
 ]

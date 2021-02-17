@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark girder utilized by Orion.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u730e\u6237\u5ea7\u4f7f\u7528\u7684\u6df1\u8272\u7eb5\u6881\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Dark Girder",
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u6df1\u8272\u7eb5\u6881\u000d\u000a\u000d\u000a"
   },
 ]

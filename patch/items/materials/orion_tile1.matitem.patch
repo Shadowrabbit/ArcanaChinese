@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A soft prefabricated wall panel.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u67d4\u8f6f\u7684\u9884\u5236\u623f\u5c4b\u5899\u677f\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Soft Prefab Wall",
-    "value": "toBeTranslate"
+    "value": "\u67d4\u8f6f\u7684\u9884\u5236\u623f\u5c4b\u5899\u000d\u000a"
   },
 ]

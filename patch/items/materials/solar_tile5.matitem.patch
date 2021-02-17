@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient constructing material made from umberstone. Highly durable.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u53e4\u8001\u7684\u5efa\u7b51\u6750\u6599\uff0c\u7531\u68d5\u571f\u77f3\u5236\u6210\uff0c\u975e\u5e38\u8010\u7528"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Umberstone Constructor",
-    "value": "toBeTranslate"
+    "value": "\u68d5\u571f\u77f3\u5efa\u9020\u7269"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A durable stack of bricks.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5806\u8010\u7528\u7684\u7816\u5757\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Stahlern Brick Tile",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u94c1\u822c\u7816\u74e6\u000d\u000a"
   },
 ]

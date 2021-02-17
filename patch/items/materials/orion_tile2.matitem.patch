@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white concrete flooring tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u767d\u8272\u6df7\u51dd\u571f\u5730\u7816\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "White Concrete Floor",
-    "value": "toBeTranslate"
+    "value": "\u767d\u8272\u6df7\u51dd\u571f\u5730\u677f\u000d\u000a\u000d\u000a"
   },
 ]

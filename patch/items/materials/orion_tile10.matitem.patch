@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sloped metal panel used by the Orion, painted white.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u730e\u6237\u5ea7\u4f7f\u7528\u7684\u503e\u659c\u91d1\u5c5e\u677f\uff0c\u6d82\u6210\u4e86\u767d\u8272\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Light Panel",
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u6d45\u8272\u9762\u677f\u000d\u000a\u000d\u000a"
   },
 ]

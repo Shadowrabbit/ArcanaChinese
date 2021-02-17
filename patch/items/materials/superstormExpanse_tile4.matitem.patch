@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A glowing stone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u95ea\u5149\u77f3\u5934"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Boltstone",
-    "value": "toBeTranslate"
+    "value": "\u95ea\u7535\u77f3\u5934"
   },
 ]

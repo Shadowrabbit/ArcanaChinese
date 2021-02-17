@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Gives unlimited energy for 10s. 60s cooldown. ^green;[F]^reset;",
-    "value": "待汉化"
+    "value": "\u7ed9\u4e88\u65e0\u9650\u80fd\u91cf\u6301\u7eed\u0031\u0030\u0073\u3002\u0036\u0030\u0073\u51b7\u5374\u65f6\u95f4\u3002\u005e\u0020\u0067\u0072\u0065\u0065\u006e\u003b\u0020\u005b\u0046\u005d\u0020\u005e\u0020\u0072\u0065\u0073\u0065\u0074"
   },
   {
     "op": "replace",
     "path": "/shortDescription",
     //"Energize",
-    "value": "待汉化"
+    "value": "\u4f9b\u7ed9\u80fd\u91cf"
   }
 ]

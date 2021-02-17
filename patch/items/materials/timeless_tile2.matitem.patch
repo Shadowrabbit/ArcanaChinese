@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A yellowish wood tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ec4\u8272\u7684\u6728\u5236\u74e6\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Timeless Wood",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u6052\u7684\u6728\u5934"
   },
 ]

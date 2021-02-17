@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient pillar made from umberstone and solar crystal. Highly durable.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u53e4\u8001\u7684\u67f1\u5b50\uff0c\u7531\u68d5\u571f\u77f3\u548c\u592a\u9633\u80fd\u6676\u4f53\u5236\u6210\uff0c\u975e\u5e38\u8010\u7528"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Umberstone Pillar",
-    "value": "toBeTranslate"
+    "value": "\u68d5\u571f\u77f3\u67f1"
   },
 ]

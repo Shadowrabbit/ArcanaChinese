@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A yellowish stone brick tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ec4\u8272\u7684\u77f3\u5934\u7816\u74e6\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Timeless Stone Brick",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u6052\u7684\u77f3\u5934\u7816\u000d\u000a"
   },
 ]

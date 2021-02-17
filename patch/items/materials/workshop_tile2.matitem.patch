@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A wall panel, painted in black.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5899\u677f\uff0c\u88ab\u6d82\u6210\u4e86\u9ed1\u8272"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Black Workshop Panel",
-    "value": "toBeTranslate"
+    "value": "\u9ed1\u8272\u8f66\u95f4\u9762\u677f"
   },
 ]

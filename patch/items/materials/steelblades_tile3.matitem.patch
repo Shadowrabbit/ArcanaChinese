@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A durable floor tile made from verrostin.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7ef4\u7f57\u65af\u6c40\u5236\u4f5c\u7684\u8010\u7528\u5730\u677f\u7816\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Flooring",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u5730\u677f"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal flooring tile used by the Workshop.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8f66\u95f4\u7528\u7684\u91d1\u5c5e\u5730\u677f\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Metal Flooring",
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u91d1\u5c5e\u5730\u677f"
   },
 ]

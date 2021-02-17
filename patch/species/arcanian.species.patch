@@ -3,72 +3,72 @@
     "op": "replace",
     "path": "/charCreationTooltip/title",
     //"Arcanian",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u4eba"
   },
   {
     "op": "replace",
     "path": "/charCreationTooltip/description",
     //"A race of desert dwellers, hardened by the rough nature of their environment. They evolved to a natural sense of the arcane. Now resting in their oases, they pursue matters of the arcane and scholarly."
-    "value": "待汉化"
+    "value": "\u6c99\u6f20\u5c45\u6c11\u7684\u4e00\u4e2a\u79cd\u65cf\uff0c\u7531\u4e8e\u73af\u5883\u7684\u6076\u52a3\u800c\u53d8\u5f97\u575a\u5f3a\u3002\u4ed6\u4eec\u8fdb\u5316\u51fa\u4e86\u4e00\u79cd\u81ea\u7136\u7684\u795e\u79d8\u611f\u3002\u73b0\u5728\u4ed6\u4eec\u5728\u7eff\u6d32\u91cc\u4f11\u606f\uff0c\u8ffd\u6c42\u795e\u79d8\u548c\u5b66\u672f\u7684\u4e8b\u7269\u3002"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/0",
     //"Skin colour",
-    "value": "待汉化"
+    "value": "\u76ae\u80a4\u989c\u8272"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/1",
     //"Hair style",
-    "value": "待汉化"
+    "value": "\u5218\u6d77\u98ce\u683c"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/2",
     //"Shirt",
-    "value": "待汉化"
+    "value": "\u886c\u886b"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/3",
     //"Legwear",
-    "value": "待汉化"
+    "value": "\u88e4\u88c5"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/4",
     //"Underwear",
-    "value": "待汉化"
+    "value": "\u5185\u8863"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/5",
     //"Hair colour",
-    "value": "待汉化"
+    "value": "\u5218\u6d77\u989c\u8272"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/6",
     //"Shirt colour",
-    "value": "待汉化"
+    "value": "\u886c\u886b\u989c\u8272"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/7",
     //"Legwear colour",
-    "value": "待汉化"
+    "value": "\u88e4\u88c5\u989c\u8272"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/8",
     //"ARCANIAN",
-    "value": "待汉化"
+    "value": "\u963f\u5361\u7eb3\u65cf"
   },
   {
     "op": "replace",
     "path": "/charGenTextLabels/9",
     //"Personality"
-    "value": "待汉化"
+    "value": "\u4e2a\u6027"
   }
 ]

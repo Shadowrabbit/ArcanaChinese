@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale blaststone block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u82cd\u767d\u7684\u77f3\u5757\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palestone Block",
-    "value": "toBeTranslate"
+    "value": "\u82cd\u767d\u77f3\u5757\u000d\u000a"
   },
 ]

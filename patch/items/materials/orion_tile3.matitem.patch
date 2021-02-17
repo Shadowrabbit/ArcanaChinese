@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A thin metal support beam, painted black.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u6839\u8584\u91d1\u5c5e\u652f\u6491\u6881\uff0c\u88ab\u6d82\u6210\u9ed1\u8272\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dark Thin Support",
-    "value": "toBeTranslate"
+    "value": "\u6df1\u8272\u8584\u652f\u6491\u000d\u000a\u000d\u000a"
   },
 ]
