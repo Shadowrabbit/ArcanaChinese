@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A glowing stone, purple and blue spikes can be seen growing from it.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u53d1\u5149\u7684\u77f3\u5934\uff0c\u4e0a\u9762\u957f\u7740\u7d2b\u8272\u548c\u84dd\u8272\u7684\u523a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gleamstone",
-    "value": "toBeTranslate"
+    "value": "\u95ea\u5149\u77f3"
   }
 ]

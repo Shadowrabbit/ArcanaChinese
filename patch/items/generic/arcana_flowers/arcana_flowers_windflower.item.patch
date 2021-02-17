@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A flower found grown in the Windswept fields.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u6735\u82b1\uff0c\u751f\u957f\u5728\u72c2\u98ce\u8086\u8650\u7684\u7530\u91ce\u91cc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Windflower",
-    "value": "toBeTranslate" 
+    "value": "\u98ce\u4e4b\u82b1\u000d\u000a\u000d\u000a" 
   },
 ]

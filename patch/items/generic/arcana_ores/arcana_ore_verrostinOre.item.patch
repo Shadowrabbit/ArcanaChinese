@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A verrostin ore, can be used for smelting.",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u77ff\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Ore",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u77ff"
   },
 ]

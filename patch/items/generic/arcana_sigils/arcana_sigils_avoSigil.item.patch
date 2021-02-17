@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An alien sigil, once a construct used by the ancients.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u964c\u751f\u7b26\u53f7\uff0c\u66fe\u7ecf\u662f\u53e4\u4eba\u4f7f\u7528\u7684\u5efa\u7b51\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Avo Sigil",
-    "value": "toBeTranslate"
+    "value": "\u963f\u6c83\u7eb9\u7ae0\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

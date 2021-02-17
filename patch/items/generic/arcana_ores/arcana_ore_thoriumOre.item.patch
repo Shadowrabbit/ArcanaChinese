@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An Eletrolite ore, can be used for smelting.",
-    "value": "toBeTranslate"
+    "value": "\u7535\u89e3\u8d28\u77ff\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Eletrolite Ore",
-    "value": "toBeTranslate"
+    "value": "\u7535\u89e3\u8d28\u77ff"
   },
 ]

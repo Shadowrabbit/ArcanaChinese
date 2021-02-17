@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Raw diathrylium found in Timeless planets. Can be used for smelting.",
-    "value": "toBeTranslate"
+    "value": "\u5728\u6c38\u6052\u7684\u884c\u661f\u4e0a\u53d1\u73b0\u7684\u672a\u52a0\u5de5\u7684\u53cc\u786b\u8159\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Raw Diathrylium",
-    "value": "toBeTranslate"
+    "value": "\u672a\u52a0\u5de5\u7684\u53cc\u786b\u8159"
   },
 ]

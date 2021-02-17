@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small crystal fragment.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u7684\u6c34\u6676\u788e\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Renatine Fragment",
-    "value": "toBeTranslate"
+    "value": "\u96f7\u7eb3\u6c40\u788e\u7247"
   }
 ]

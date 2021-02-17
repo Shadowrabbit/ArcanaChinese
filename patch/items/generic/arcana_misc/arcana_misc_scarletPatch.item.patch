@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A patch of scarlet plants, native to Sanguine planets.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u7247\u9c9c\u7ea2\u7684\u690d\u7269\uff0c\u539f\u4ea7\u4e8e\u0053\u0061\u006e\u0067\u0075\u0069\u006e\u0065\u661f\u7403\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scarlet Patch",
-    "value": "toBeTranslate"
+    "value": "\u7ea2\u6591"
   }
 ]

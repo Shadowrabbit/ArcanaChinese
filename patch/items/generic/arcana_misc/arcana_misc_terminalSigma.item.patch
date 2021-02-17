@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "An engraved stone artifact, forged from aura of the sun, moon and stars.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4ef6\u96d5\u523b\u7684\u77f3\u5934\u5de5\u827a\u54c1\uff0c\u7531\u592a\u9633\u3001\u6708\u4eae\u548c\u661f\u661f\u7684\u5149\u73af\u953b\u9020\u800c\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Terminal Sigma",
-    "value": "toBeTranslate"
+    "value": "\u7ec8\u7aef\u03c3"
   }
 ]

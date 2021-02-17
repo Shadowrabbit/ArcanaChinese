@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An orange-brown plating.",
-    "value": "toBeTranslate"
+    "value": "\u6a59\u9ec4\u8272\u9540\u5c42\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dry Plate",
-    "value": "toBeTranslate"
+    "value": "\u5e72\u71e5\u7684\u91d1\u5c5e\u677f\u000d\u000a"
   }
 ]

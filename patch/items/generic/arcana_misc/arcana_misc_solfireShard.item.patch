@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shard emitting blue fire at the center.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u4e2d\u5fc3\u53d1\u51fa\u84dd\u8272\u706b\u7130\u7684\u788e\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solfire Shard",
-    "value": "toBeTranslate"
+    "value": "\u84dd\u706b\u788e\u7247"
   }
 ]

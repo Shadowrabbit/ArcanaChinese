@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An advanced battery unit.",
-    "value": "toBeTranslate"
+    "value": "\u5148\u8fdb\u7684\u7535\u6c60\u7ec4\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Enhanced Battery",
-    "value": "toBeTranslate"
+    "value": "\u589e\u5f3a\u578b\u7535\u6c60\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

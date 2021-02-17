@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Crystal of the everlasting darkness.",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u6052\u9ed1\u6697\u7684\u6c34\u6676\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Evernight Crystal",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u591c\u6c34\u6676\u000d\u000a\u000d\u000a"
   }
 ]

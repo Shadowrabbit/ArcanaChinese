@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An emblem shaped like a butterfly, can be used to craft Monarch equipment.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8774\u8776\u5f62\u72b6\u7684\u5fbd\u7ae0\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u7edf\u6cbb\u8005\u7684\u88c5\u5907\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Monarch Emblem",
-    "value": "toBeTranslate"
+    "value": "\u7edf\u6cbb\u8005\u5fbd\u7ae0\u000d\u000a"
   }
 ]

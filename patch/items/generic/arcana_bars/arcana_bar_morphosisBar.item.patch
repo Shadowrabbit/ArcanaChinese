@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A morphosis bar, can be used to craft useful equipment.",
-    "value": "toBeTranslate"
+    "value": "\u5f62\u6001\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6709\u7528\u7684\u88c5\u5907\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Morphosis Bar",
-    "value": "toBeTranslate"
+    "value": "\u5f62\u6001\u952d\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Bunbun!",
-    "value": "toBeTranslate"
+    "value": "\u8e66\u8e66\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Bunbun",
-    "value": "toBeTranslate"
+    "value": "\u8e66\u8e66\uff01"
   },
 ]

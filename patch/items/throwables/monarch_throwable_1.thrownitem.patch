@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A throwing dart, emits light.",
-    "value": "待汉化"
+    "value": "\u6295\u63b7\u98de\u9556\uff0c\u4f1a\u53d1\u5149\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Illuminated Dart",
-    "value": "待汉化"
+    "value": "\u7167\u4eae\u98de\u9556\u000d\u000a\u000d\u000a"
   },
 ]

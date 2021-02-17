@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A rare material synthesized from solarium and illuminated essence.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u7a00\u6709\u6750\u6599\uff0c\u7531\u65e5\u5149\u548c\u7167\u4eae\u7cbe\u534e\u5408\u6210\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Holosium Star",
-    "value": "toBeTranslate"
+    "value": "\u970d\u6d1b\u65af\u661f"
   }
 ]

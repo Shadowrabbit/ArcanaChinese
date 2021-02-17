@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A burning shard of the neverceasing great fire.",
-    "value": "toBeTranslate"
+    "value": "\u4e0d\u65ad\u71c3\u70e7\u7684\u70c8\u706b\u788e\u7247\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Conflagration Shard",
-    "value": "toBeTranslate"
+    "value": "\u5927\u706b\u788e\u7247\u000d\u000a\u000d\u000a"
   },
 ]

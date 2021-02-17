@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An arcanium bar, can be used to craft basic Arcane equipment.",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u9020\u57fa\u672c\u7684\u963f\u5361\u7eb3\u88c5\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanium Bar",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u952d"
   },
 ]

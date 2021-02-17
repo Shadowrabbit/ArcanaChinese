@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of the endless gold.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u65e0\u5c3d\u9ec4\u91d1\u7684\u51dd\u56fa\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Chryso Essence",
-    "value": "toBeTranslate"
+    "value": "\u514b\u83b1\u7d22\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

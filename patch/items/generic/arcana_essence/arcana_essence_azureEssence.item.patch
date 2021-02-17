@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of the azure stars.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u5929\u84dd\u661f\u7684\u51dd\u56fa\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Azure Essence",
-    "value": "toBeTranslate"
+    "value": "\u5929\u84dd\u8272\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

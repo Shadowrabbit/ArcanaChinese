@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A green torch-like beacon.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7eff\u8272\u7684\u706b\u70ac\u72b6\u7684\u706f\u6807\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Fluorescent Beacon",
-    "value": "toBeTranslate"
+    "value": "\u8367\u5149\u706f\u6807\u000d\u000a"
   }
 ]

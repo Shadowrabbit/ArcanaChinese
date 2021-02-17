@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A piece of a broken down solar core.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u7834\u635f\u7684\u592a\u9633\u80fd\u6838\u5fc3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solar Core Fragment",
-    "value": "toBeTranslate"
+    "value": "\u592a\u9633\u80fd\u6838\u5fc3\u788e\u7247"
   }
 ]

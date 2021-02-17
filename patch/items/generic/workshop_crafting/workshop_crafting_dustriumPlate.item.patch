@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A heavy plate refined from dustrium.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u675c\u65af\u7279\u9c81\u59c6\u63d0\u70bc\u51fa\u6765\u7684\u539a\u76d8\u5b50\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Plate",
-    "value": "toBeTranslate"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u76d8\u5b50\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

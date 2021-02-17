@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bright red crystal. More commonly known as an avolite crystal in other parts of the universe.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u9c9c\u7ea2\u8272\u7684\u6c34\u6676\u3002\u5728\u5b87\u5b99\u7684\u5176\u4ed6\u90e8\u5206\uff0c\u66f4\u5e38\u88ab\u79f0\u4e3a\u4eba\u9020\u6c34\u6676"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Avostone",
-    "value": "toBeTranslate"
+    "value": "\u963f\u6c83\u77f3"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A cell machinary infused with superstorm essence.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5145\u6ee1\u8d85\u7ea7\u98ce\u66b4\u7cbe\u534e\u7684\u7ec6\u80de\u673a\u5668\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Regulus Cell",
-    "value": "toBeTranslate"
+    "value": "\u70ed\u77ee\u661f\u7ec6\u80de\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

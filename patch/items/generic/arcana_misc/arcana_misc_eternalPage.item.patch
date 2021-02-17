@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bright, golden book page.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u660e\u4eae\u7684\u91d1\u8272\u4e66\u9875\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Eternal Page",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u6052\u7684\u4e00\u9875\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

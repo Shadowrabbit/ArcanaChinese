@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "An ancient device that appears to be some sort of an energy core, its true purpose unknown.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u53e4\u8001\u7684\u88c5\u7f6e\uff0c\u770b\u8d77\u6765\u50cf\u67d0\u79cd\u80fd\u91cf\u6838\u5fc3\uff0c\u5b83\u7684\u771f\u6b63\u7528\u9014\u672a\u77e5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solar Core",
-    "value": "toBeTranslate"
+    "value": "\u592a\u9633\u80fd\u6838\u5fc3"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A rusty component made from verrostin.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u7531\u7ef4\u7f57\u65af\u6c40\u5236\u6210\u7684\u751f\u9508\u90e8\u4ef6\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Component",
-    "value": "toBeTranslate"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u7ec4\u4ef6"
   }
 ]

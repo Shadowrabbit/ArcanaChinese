@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An atumium bar, can be used to craft Solar equipment.",
-    "value": "toBeTranslate"
+    "value": "\u660e\u77fe\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u592a\u9633\u80fd\u88c5\u5907\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Atumium Bar",
-    "value": "toBeTranslate"
+    "value": "\u660e\u77fe\u952d"
   },
 ]

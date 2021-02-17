@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of arcane magic.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u51dd\u56fa\u7684\u963f\u5361\u7eb3\u9b54\u6cd5\u7cbe\u534e\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Essence",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u7cbe\u534e\u000d\u000a"
   },
 ]

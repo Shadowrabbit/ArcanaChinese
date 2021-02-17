@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bunch of blistering tendrils, dropped from the Cosmo Nemesis.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u675f\u8d77\u6ce1\u7684\u5377\u987b\uff0c\u4ece\u5b87\u5b99\u590d\u4ec7\u8005\u90a3\u91cc\u6389\u4e0b\u6765\u7684\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cosmo Tendrils",
-    "value": "toBeTranslate"
+    "value": "\u5b87\u5b99\u5377\u987b\u000d\u000a\u000d\u000a\u000d\u000a"
   }
 ]

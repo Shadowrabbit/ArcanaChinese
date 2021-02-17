@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A glitched composite that is utilized by Evo Cybernetics.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88ab\u0045\u0076\u006f\u0020\u0043\u0079\u0062\u0065\u0072\u006e\u0065\u0074\u0069\u0063\u0073\u5229\u7528\u7684\u6709\u7f3a\u9677\u7684\u5408\u6210\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Slipstream Composite",
-    "value": "toBeTranslate"
+    "value": "\u6ed1\u6d41\u590d\u5408\u6750\u6599"
   }
 ]

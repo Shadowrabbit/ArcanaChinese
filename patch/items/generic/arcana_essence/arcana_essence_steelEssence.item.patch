@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An artificial essence, forged from the fiery flames and the solid earth.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u4eba\u9020\u7684\u7cbe\u534e\uff0c\u7531\u70bd\u70ed\u7684\u706b\u7130\u548c\u575a\u5b9e\u7684\u571f\u58e4\u953b\u9020\u800c\u6210\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steel Essence",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

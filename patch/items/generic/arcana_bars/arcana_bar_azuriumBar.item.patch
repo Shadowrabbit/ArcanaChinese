@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An azurium bar, can be used to craft Astral equipment.",
-    "value": "toBeTranslate"
+    "value": "\u5929\u9752\u77f3\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u9020\u661f\u4f53\u88c5\u5907\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Azurium Bar",
-    "value": "toBeTranslate"
+    "value": "\u5929\u9752\u77f3\u952d"
   },
 ]

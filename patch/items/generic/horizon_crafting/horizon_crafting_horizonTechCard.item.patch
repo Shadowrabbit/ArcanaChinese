@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A mysterious tech card crafted from necroium.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u795e\u79d8\u7684\u6280\u672f\u5361\uff0c\u7531\u6b7b\u7075\u5236\u4f5c\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Tech Card",
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u6280\u672f\u5361"
   }
 ]

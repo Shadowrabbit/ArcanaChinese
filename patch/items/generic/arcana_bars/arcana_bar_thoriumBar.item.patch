@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An Eletrolite bar, can be used to craft Orion equipment.",
-    "value": "toBeTranslate"
+    "value": "\u7535\u89e3\u8d28\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u730e\u6237\u5ea7\u7684\u88c5\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Eletrolite Bar",
-    "value": "toBeTranslate"
+    "value": "\u7535\u89e3\u8d28\u952d"
   },
 ]

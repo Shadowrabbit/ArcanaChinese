@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of the reclusive frost.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u971c\u51bb\u7684\u51dd\u56fa\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ice Essence",
-    "value": "toBeTranslate"
+    "value": "\u51b0\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

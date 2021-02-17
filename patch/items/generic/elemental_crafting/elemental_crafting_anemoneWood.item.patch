@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark colored wood, once used by villages in Windswept planets.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u6df1\u8272\u7684\u6728\u6750\uff0c\u72c2\u98ce\u8086\u8650\u661f\u7403\u4e0a\u7684\u6751\u5e84\u4f7f\u7528\u8fc7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Anemone Wood",
-    "value": "toBeTranslate"
+    "value": "\u94f6\u83b2\u82b1\u6728"
   }
 ]
