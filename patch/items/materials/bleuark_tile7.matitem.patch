@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A smooth pillar crafted from seastone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u6839\u5149\u6ed1\u7684\u67f1\u5b50\uff0c\u7531\u6d77\u77f3\u96d5\u523b\u800c\u6210\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Seastone Pillar",
-    "value": "toBeTranslate"
+    "value": "\u6d77\u77f3\u67f1\u5b50\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

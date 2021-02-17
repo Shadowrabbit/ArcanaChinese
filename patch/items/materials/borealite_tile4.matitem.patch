@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A borealite beam.",
-    "value": "toBeTranslate"
+    "value": "\u787c\u94dd\u77f3\u6881\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Borealite Beam",
-    "value": "toBeTranslate"
+    "value": "\u787c\u94dd\u77f3\u6881\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

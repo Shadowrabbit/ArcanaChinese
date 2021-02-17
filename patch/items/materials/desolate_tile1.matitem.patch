@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark, smoldering rock.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u9ed1\u8272\u7684\u5192\u70df\u7684\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ruinous Stone",
-    "value": "toBeTranslate"
+    "value": "\u5e9f\u589f\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

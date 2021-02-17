@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wooden window.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6728\u5236\u7a97\u6237\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Window",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6728\u7a97"
   },
 ]

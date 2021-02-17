@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient building material carrying the desert heat.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u643a\u5e26\u6c99\u6f20\u70ed\u91cf\u7684\u53e4\u8001\u5efa\u7b51\u6750\u6599\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Dry Stone Block",
-    "value": "toBeTranslate"
+    "value": "\u5e72\u71e5\u7684\u77f3\u5757\u000d\u000a"
   },
 ]

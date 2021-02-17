@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A beam coated with anemone wood.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u6839\u8986\u76d6\u7740\u94f6\u83b2\u82b1\u6728\u7684\u6a2a\u6881\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // Arius Construct Beam",
-    "value": "toBeTranslate"
+    "value": "\u827e\u5229\u4e4c\u5efa\u7b51\u6881\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

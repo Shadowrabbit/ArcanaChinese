@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A magiwood beam. Good for building simple structures.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9b54\u6728\u6881\uff0c\u9002\u7528\u4e8e\u6784\u5efa\u7b80\u5355\u7684\u7ed3\u6784"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Beam",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6728\u6881"
   },
 ]

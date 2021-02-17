@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A deep blue chunk of wood.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u6df1\u84dd\u8272\u7684\u6728\u5934"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Ardent Wood",
-    "value": "toBeTranslate"
+    "value": "\u70ed\u60c5\u7684\u6728\u5934"
   },
 ]

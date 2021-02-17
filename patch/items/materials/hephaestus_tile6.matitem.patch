@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative magistone pillar.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7684\u9b54\u77f3\u67f1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magistone Pillar",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u77f3\u67f1"
   },
 ]

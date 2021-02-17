@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A glowing cyan crystal block, emits light.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u95ea\u5149\u7684\u9752\u8272\u6c34\u6676\u5757\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Glowtear Crystal",
-    "value": "toBeTranslate"
+    "value": "\u95ea\u5149\u6c34\u6676\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

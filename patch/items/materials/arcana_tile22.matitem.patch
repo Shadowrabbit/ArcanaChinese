@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A block of tree branches.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5806\u6811\u679d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tree Branch Block",
-    "value": "toBeTranslate"
+    "value": "\u6811\u679d\u5757"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative sandstone tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u88c5\u9970\u6027\u7684\u6c99\u77f3\u7816\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Decorative Sandstone",
-    "value": "toBeTranslate"
+    "value": "\u88c5\u9970\u6c99\u77f3\u000d\u000a\u000d\u000a"
   },
 ]

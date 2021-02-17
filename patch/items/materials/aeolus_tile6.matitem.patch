@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall made from ariostone.",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u5236\u4f5c\u7684\u5899\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Ariostone Wall",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u5899\u000d\u000a"
   },
 ]

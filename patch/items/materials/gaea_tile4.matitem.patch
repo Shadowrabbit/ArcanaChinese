@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A florastone roofing tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u7ed8\u82b1\u77f3\u5c4b\u9876\u74e6\u7247\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Florastone Roofing",
-    "value": "toBeTranslate"
+    "value": "\u7ed8\u82b1\u77f3\u5c4b\u9876\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

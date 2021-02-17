@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wooden fence made of magiwood.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9b54\u6728\u5236\u4f5c\u7684\u6728\u6805\u680f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Fence",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6728\u6805\u680f"
   },
 ]

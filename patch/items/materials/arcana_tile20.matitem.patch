@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A composition of flowers.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9c9c\u82b1\u7684\u7ec4\u5408\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Maple Flower Block",
-    "value": "toBeTranslate"
+    "value": "\u67ab\u82b1\u5757\u000d\u000a"
   },
 ]

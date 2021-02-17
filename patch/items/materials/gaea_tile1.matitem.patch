@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient stone brick block made of florastone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u7528\u7ed8\u82b1\u77f3\u5236\u6210\u7684\u53e4\u8001\u77f3\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Florastone Bricks",
-    "value": "toBeTranslate"
+    "value": "\u7ed8\u82b1\u77f3\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

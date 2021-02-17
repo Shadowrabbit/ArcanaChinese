@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A stone wall tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u77f3\u5934\u5899\u7816\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Aeon Stone Wall",
-    "value": "toBeTranslate"
+    "value": "\u300a\u6c38\u300b\u77f3\u5899\u000d\u000a\u000d\u000a"
   },
 ]

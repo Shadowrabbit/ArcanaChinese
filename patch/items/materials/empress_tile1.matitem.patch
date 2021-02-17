@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A golden patterned tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u6709\u56fe\u6848\u7684\u91d1\u8272\u74f7\u7816\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Gold Block",
-    "value": "toBeTranslate"
+    "value": "\u7687\u540e\u91d1\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

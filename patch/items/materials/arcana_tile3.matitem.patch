@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wooden bridge made of magiwood.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9b54\u6728\u5236\u4f5c\u7684\u6865"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Bridge",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6728\u6865"
   },
 ]

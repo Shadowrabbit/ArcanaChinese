@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall tile crafted with Atla gold.",
-    "value": "toBeTranslate"
+    "value": "\u7528\u963f\u7279\u62c9\u9ec4\u91d1\u5236\u4f5c\u7684\u5899\u7816\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Atlantis Wall",
-    "value": "toBeTranslate"
+    "value": "\u4e9a\u7279\u5170\u8482\u65af\u5899\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A smoothed seastone brick tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5149\u6ed1\u7684\u6d77\u77f3\u7816\u74e6\u7247\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Seastone Brick",
-    "value": "toBeTranslate"
+    "value": "\u6d77\u77f3\u7816\u000d\u000a\u000d\u000a"
   },
 ]

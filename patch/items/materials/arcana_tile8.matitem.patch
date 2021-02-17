@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Expertly treated ornate wood.",
-    "value": "toBeTranslate"
+    "value": "\u7ecf\u8fc7\u4e13\u4e1a\u5904\u7406\u7684\u534e\u4e3d\u6728\u6750\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ornate Magiwood",
-    "value": "toBeTranslate"
+    "value": "\u534e\u4e3d\u9b54\u6728\u000d\u000a\u000d\u000a"
   },
 ]

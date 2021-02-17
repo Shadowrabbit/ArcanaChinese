@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A soil mixed with wastes.",
-    "value": "toBeTranslate"
+    "value": "\u6df7\u6709\u5e9f\u7269\u7684\u571f\u58e4\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ferocious Soil",
-    "value": "toBeTranslate"
+    "value": "\u51f6\u6076\u7684\u571f\u58e4\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A golden patterned flooring.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5e26\u6709\u56fe\u6848\u7684\u91d1\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Gold Flooring",
-    "value": "toBeTranslate"
+    "value": "\u7687\u540e\u91d1\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient stone pillar made of florastone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u7ed8\u82b1\u77f3\u5236\u4f5c\u7684\u53e4\u8001\u77f3\u67f1\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Florastone Pillar",
-    "value": "toBeTranslate"
+    "value": "\u7ed8\u82b1\u77f3\u67f1\u5b50\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

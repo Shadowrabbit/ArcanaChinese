@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Dark, shadowy colored bricks.",
-    "value": "toBeTranslate"
+    "value": "\u6697\u8272\u7816\u5757\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Animus Bricks",
-    "value": "toBeTranslate"
+    "value": "\u654c\u610f\u7816\u5757\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

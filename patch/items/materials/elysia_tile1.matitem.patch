@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A carpeted wooden tile.",
-    "value": "toBeTranslate"
+    "value": "\u94fa\u6709\u5730\u6bef\u7684\u6728\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Resort Carpeted Timber",
-    "value": "toBeTranslate"
+    "value": "\u5ea6\u5047\u6751\u94fa\u5730\u6bef\u7684\u6728\u6750\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

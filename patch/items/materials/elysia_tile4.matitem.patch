@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale-colored wall support.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d45\u8272\u7684\u5899\u58c1\u652f\u67b6\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Resort White Support",
-    "value": "toBeTranslate"
+    "value": "\u767d\u8272\u5ea6\u5047\u6751\u652f\u6301\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A silver colored roofing tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u94f6\u8272\u7684\u5c4b\u9876\u74e6\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Havencrest Roofing",
-    "value": "toBeTranslate"
+    "value": "\u4f11\u606f\u5ba4\u5c4b\u9876"
   },
 ]

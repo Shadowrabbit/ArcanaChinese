@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A block of green crystals, emitting faint light.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u53d1\u5fae\u5149\u7684\u7eff\u8272\u6c34\u6676\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Evoaquatic Crystals",
-    "value": "toBeTranslate"
+    "value": "\u0045\u0056\u004f\u6c34\u4e0a\u6c34\u6676\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solid ice block sprinkled with arcane magic. Emits a faint light.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d12\u6709\u963f\u5361\u7eb3\u9b54\u6cd5\u7684\u575a\u56fa\u51b0\u5757\uff0c\u53d1\u51fa\u5fae\u5f31\u7684\u5149"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Ice",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u51b0"
   },
 ]

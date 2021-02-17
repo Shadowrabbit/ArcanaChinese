@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient building material fused with magifire.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u878d\u5408\u4e86\u9b54\u706b\u7684\u53e4\u8001\u5efa\u7b51\u6750\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magistone Block",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u77f3\u5757"
   },
 ]

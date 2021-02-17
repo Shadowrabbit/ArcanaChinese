@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sturdy dirt block filled with rusted materials.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u575a\u56fa\u7684\u6ce5\u571f\u5757\uff0c\u91cc\u9762\u88c5\u6ee1\u4e86\u751f\u9508\u7684\u6750\u6599\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ferocious Dirt",
-    "value": "toBeTranslate"
+    "value": "\u51f6\u6076\u7684\u6ce5\u571f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

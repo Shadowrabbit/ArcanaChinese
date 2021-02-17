@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solid roofing tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u7ed3\u5b9e\u7684\u5c4b\u9876\u74e6\u7247\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Roofing",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u5c4b\u9876\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

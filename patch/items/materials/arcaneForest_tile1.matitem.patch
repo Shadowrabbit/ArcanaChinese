@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blueish dirt block sprinkled with arcane magic.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d12\u6709\u963f\u5361\u7eb3\u9b54\u6cd5\u7684\u84dd\u8272\u6ce5\u571f\u5757\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Dirt",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u6ce5\u571f\u000d\u000a\u000d\u000a"
   },
 ]

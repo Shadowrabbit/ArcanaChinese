@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient flooring made with magistone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u9b54\u77f3\u5236\u4f5c\u7684\u53e4\u8001\u5730\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magistone Flooring",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u77f3\u5730\u677f"
   },
 ]

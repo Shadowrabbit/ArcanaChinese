@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A frozen dirt block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u51bb\u571f\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Frozen Dirt",
-    "value": "toBeTranslate"
+    "value": "\u51bb\u571f"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A brick flooring made from ariostone.",
-    "value": "toBeTranslate"
+    "value": "\u7528\u963f\u91cc\u5965\u77f3\u5236\u6210\u7684\u77f3\u7816\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Ariostone Flooring",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

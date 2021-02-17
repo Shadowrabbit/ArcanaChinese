@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A seastone flooring surfaced with Atla gold.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u94fa\u6709\u963f\u7279\u62c9\u9ec4\u91d1\u7684\u6d77\u77f3\u5730\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Seastone Flooring",
-    "value": "toBeTranslate"
+    "value": "\u6d77\u77f3\u5730\u677f\u000d\u000a"
   },
 ]

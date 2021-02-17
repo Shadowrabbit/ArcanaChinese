@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A black cobblestone block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u9ed1\u8272\u7684\u9e45\u5375\u77f3\u5757\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Desolate Cobblestone",
-    "value": "toBeTranslate"
+    "value": "\u8352\u51c9\u9e45\u5375\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

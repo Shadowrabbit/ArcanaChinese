@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Rough and unrefined, this wood looks freshly chopped.",
-    "value": "toBeTranslate"
+    "value": "\u7c97\u7cd9\u4e14\u672a\u52a0\u5de5\uff0c\u8fd9\u6728\u5934\u770b\u8d77\u6765\u662f\u521a\u780d\u4e0b\u6765\u7684\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Unrefined Magiwood",
-    "value": "toBeTranslate"
+    "value": "\u672a\u52a0\u5de5\u7684\u9b54\u6728\u000d\u000a"
   },
 ]

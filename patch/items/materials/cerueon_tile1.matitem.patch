@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blueish dirt tile, looks enchanted.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u5e26\u84dd\u8272\u7684\u6ce5\u74e6\uff0c\u770b\u8d77\u6765\u88ab\u65bd\u4e86\u9b54\u6cd5\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cerueon Dirt",
-    "value": "toBeTranslate"
+    "value": "\u851a\u84dd\u6ce5\u571f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

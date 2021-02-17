@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"This wood panelling was fashionable in a distant era.",
-    "value": "toBeTranslate"
+    "value": "\u8fd9\u79cd\u6728\u9576\u677f\u5728\u9065\u8fdc\u7684\u65f6\u4ee3\u5f88\u6d41\u884c\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Panelling",
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6728\u6728\u9576\u677f\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sloped panel.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u503e\u659c\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon Panel DEC",
-    "value": "toBeTranslate"
+    "value": "\u300a\u6c38\u300b\u9762\u677f\u901a\u8baf\u7cfb\u7edf"
   },
 ]

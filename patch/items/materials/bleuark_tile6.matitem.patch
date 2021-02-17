@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A support beam crafted with Atla gold and seastone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7531\u963f\u7279\u62c9\u9ec4\u91d1\u548c\u6d77\u77f3\u5236\u6210\u7684\u652f\u6491\u6881\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Atlantis Support Beam",
-    "value": "toBeTranslate"
+    "value": "\u4e9a\u7279\u5170\u8482\u65af\u652f\u6491\u6881\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

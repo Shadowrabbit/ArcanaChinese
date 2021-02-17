@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blood red flooring block.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u9c9c\u7ea2\u8272\u7684\u5730\u677f\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Animus Flooring",
-    "value": "toBeTranslate"
+    "value": "\u654c\u610f\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

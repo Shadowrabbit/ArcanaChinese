@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A carpeted green flooring, somewhat resembles the texture of bamboos.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u94fa\u6709\u5730\u6bef\u7684\u7eff\u8272\u5730\u677f\uff0c\u6709\u70b9\u8c61\u7af9\u5b50\u7684\u7eb9\u7406\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Resort Carpeted Flooring",
-    "value": "toBeTranslate"
+    "value": "\u5ea6\u5047\u6751\u5730\u6bef\u5730\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solid brick tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u575a\u56fa\u7684\u7816\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Stone Support Block",
-    "value": "toBeTranslate"
+    "value": "\u77f3\u5934\u652f\u6491\u5757"
   },
 ]

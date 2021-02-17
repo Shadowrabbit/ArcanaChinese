@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A panel made from scraps.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7531\u6b8b\u7247\u5236\u6210\u7684\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "S01 Panel B",
-    "value": "toBeTranslate"
+    "value": "\u0053\u0030\u0031\u9762\u677f\u0042\u000d\u000a\u000d\u000a"
   },
 ]

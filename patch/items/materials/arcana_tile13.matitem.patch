@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A composition of plants.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u690d\u7269\u7684\u6df7\u5408\u7269\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Leaf Block",
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u6811\u53f6\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

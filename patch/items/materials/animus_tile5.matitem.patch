@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark smooth stone brick.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5757\u9ed1\u8272\u7684\u5149\u6ed1\u77f3\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Animus Smooth Stone",
-    "value": "toBeTranslate"
+    "value": "\u654c\u610f\u5149\u6ed1\u77f3\u5934\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]

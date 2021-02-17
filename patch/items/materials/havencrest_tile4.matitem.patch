@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solid sandstone fence.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u575a\u56fa\u7684\u6c99\u77f3\u6805\u680f\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Sandstone Fence",
-    "value": "toBeTranslate"
+    "value": "\u6c99\u77f3\u6805\u680f\u000d\u000a\u000d\u000a"
   },
 ]

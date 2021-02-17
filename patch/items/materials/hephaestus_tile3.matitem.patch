@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dry stone bridge tile.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5e72\u71e5\u7684\u77f3\u6865\u7816\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dry Stone Bridge",
-    "value": "toBeTranslate"
+    "value": "\u5e72\u71e5\u7684\u77f3\u6865\u000d\u000a"
   },
 ]

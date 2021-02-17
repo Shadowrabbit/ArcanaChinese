@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gold plated roofing.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9540\u91d1\u7684\u5c4b\u9876\u000d\u000a\u000d\u000a\u000d\u000a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Roofing",
-    "value": "toBeTranslate"
+    "value": "\u7687\u540e\u5c4b\u9876\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
   },
 ]
