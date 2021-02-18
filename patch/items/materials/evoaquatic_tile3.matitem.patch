@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A yellowish rock tile.",
-    "value": "\u4e00\u5757\u9ec4\u8272\u7684\u5ca9\u77f3\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u9ec4\u8272\u7684\u5ca9\u77f3\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Evoaquatic Rock",
-    "value": "\u0045\u0056\u004f\u6c34\u4e0a\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u0045\u0056\u004f\u6c34\u4e0a\u5ca9\u77f3"
   }
 ]

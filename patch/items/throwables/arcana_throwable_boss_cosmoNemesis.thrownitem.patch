@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A shadowy stone covered in cherry blossom flowers...",
-    "value": "\u4e00\u5757\u8986\u76d6\u7740\u6a31\u82b1\u7684\u9634\u6697\u77f3\u5934\u000d\u000a"
+    "value": "\u4e00\u5757\u8986\u76d6\u7740\u6a31\u82b1\u7684\u9634\u6697\u77f3\u5934"
   },
   {
     "op": "replace",

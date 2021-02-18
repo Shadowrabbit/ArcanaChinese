@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A decorated loincloth.",
-    "value": "\u4e00\u6761\u88c5\u9970\u7684\u8170\u5e26\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u6761\u88c5\u9970\u7684\u8170\u5e26"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanian Loincloth",
-    "value": "\u963f\u5361\u7eb3\u4eba\u7684\u8170\u5e26\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u4eba\u7684\u8170\u5e26"
   }
 ]

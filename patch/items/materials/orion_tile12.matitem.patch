@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sloped inset panel.",
-    "value": "\u4e00\u4e2a\u503e\u659c\u7684\u5d4c\u5165\u5f0f\u9762\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u503e\u659c\u7684\u5d4c\u5165\u5f0f\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Inset Panel",
-    "value": "\u730e\u6237\u5ea7\u5d4c\u5165\u5f0f\u9762\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u730e\u6237\u5ea7\u5d4c\u5165\u5f0f\u9762\u677f"
   }
 ]

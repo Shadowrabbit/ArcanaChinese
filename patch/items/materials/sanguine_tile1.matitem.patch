@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A crimson grass block.",
-    "value": "\u4e00\u4e2a\u6df1\u7ea2\u8272\u7684\u8349\u5757\u000d\u000a"
+    "value": "\u4e00\u4e2a\u6df1\u7ea2\u8272\u7684\u8349\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Sanguine Grass Block",
-    "value": "\u8840\u7ea2\u8272\u8349\u5757\u000d\u000a"
+    "value": "\u8840\u7ea2\u8272\u8349\u5757"
   }
 ]

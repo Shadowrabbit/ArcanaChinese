@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of the swirling wind.",
-    "value": "\u4e00\u79cd\u65cb\u98ce\u7684\u51dd\u56fa\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u65cb\u98ce\u7684\u51dd\u56fa\u7cbe\u534e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wind Essence",
-    "value": "\u98ce\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u98ce\u7cbe\u534e"
   }
 ]

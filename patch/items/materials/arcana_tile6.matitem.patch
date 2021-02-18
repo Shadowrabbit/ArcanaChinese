@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Wood that has been prepared for building and crafting.",
-    "value": "\u51c6\u5907\u7528\u4e8e\u5efa\u9020\u548c\u624b\u5de5\u5236\u4f5c\u7684\u6728\u6750\u000d\u000a\u000d\u000a"
+    "value": "\u51c6\u5907\u7528\u4e8e\u5efa\u9020\u548c\u624b\u5de5\u5236\u4f5c\u7684\u6728\u6750"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Planks",
-    "value": "\u9b54\u6728\u6728\u677f\u000d\u000a"
+    "value": "\u9b54\u6728\u6728\u677f"
   }
 ]

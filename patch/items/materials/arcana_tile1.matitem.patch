@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A wooden window.",
-    "value": "\u4e00\u4e2a\u6728\u5236\u7a97\u6237\u000d\u000a"
+    "value": "\u4e00\u4e2a\u6728\u5236\u7a97\u6237"
   },
   {
     "op": "replace",

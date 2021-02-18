@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A dark panel refined from dustrium.",
-    "value": "\u4e00\u5757\u7528\u675c\u65af\u7279\u9c81\u59c6\u63d0\u70bc\u51fa\u6765\u7684\u9ed1\u8272\u9762\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u7528\u675c\u65af\u7279\u9c81\u59c6\u63d0\u70bc\u51fa\u6765\u7684\u9ed1\u8272\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Panel",
-    "value": "\u675c\u65af\u7279\u9c81\u59c6\u9762\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u9762\u677f"
   }
 ]

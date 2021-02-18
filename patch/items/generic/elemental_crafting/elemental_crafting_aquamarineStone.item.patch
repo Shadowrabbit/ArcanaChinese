@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"One of the many blue crystals in the abundance of the deep.",
-    "value": "\u6df1\u6d77\u4e2d\u4f17\u591a\u84dd\u8272\u6676\u4f53\u4e2d\u7684\u4e00\u79cd\u000d\u000a"
+    "value": "\u6df1\u6d77\u4e2d\u4f17\u591a\u84dd\u8272\u6676\u4f53\u4e2d\u7684\u4e00\u79cd"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A khonium bar, can be used to craft Lunar equipment.",
-    "value": "\u970d\u5c3c\u59c6\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6708\u7403\u88c5\u5907\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u970d\u5c3c\u59c6\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6708\u7403\u88c5\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Khonium Bar",
-    "value": "\u970d\u5c3c\u59c6\u952d\u000d\u000a\u000d\u000a"
+    "value": "\u970d\u5c3c\u59c6\u952d"
   }
 ]

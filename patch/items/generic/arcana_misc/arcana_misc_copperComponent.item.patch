@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A piece of wired component made with copper.",
-    "value": "\u4e00\u5757\u94dc\u5236\u7684\u7535\u7ebf\u5143\u4ef6\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u94dc\u5236\u7684\u7535\u7ebf\u5143\u4ef6"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A suspicious looking rock covered in green goo...",
-    "value": "\u4e00\u5757\u8986\u76d6\u7740\u7eff\u8272\u7c98\u6db2\u7684\u53ef\u7591\u77f3\u5934\u002e\u002e\u002e\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u8986\u76d6\u7740\u7eff\u8272\u7c98\u6db2\u7684\u53ef\u7591\u77f3\u5934\u002e\u002e\u002e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Evo Abomination",
-    "value": "\u618e\u6076\u000d\u000a"
+    "value": "\u618e\u6076"
   }
 ]

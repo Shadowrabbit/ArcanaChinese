@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of leggings, crafted from anima bars.",
-    "value": "\u4e00\u6761\u7ed1\u817f\uff0c\u7531\u7075\u9b42\u952d\u5236\u4f5c\u800c\u6210\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u6761\u7ed1\u817f\uff0c\u7531\u7075\u9b42\u952d\u5236\u4f5c\u800c\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Anima Leggings",
-    "value": "\u7075\u9b42\u62a4\u817f\u000d\u000a\u000d\u000a"
+    "value": "\u7075\u9b42\u62a4\u817f"
   }
 ]

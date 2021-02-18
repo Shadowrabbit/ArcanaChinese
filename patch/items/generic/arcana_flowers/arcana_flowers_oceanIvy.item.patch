@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A beautiful ivy with colors of the arcane seas.",
-    "value": "\u4e00\u79cd\u7f8e\u4e3d\u7684\u5e38\u6625\u85e4\uff0c\u5e26\u6709\u795e\u79d8\u6d77\u6d0b\u7684\u8272\u5f69\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u7f8e\u4e3d\u7684\u5e38\u6625\u85e4\uff0c\u5e26\u6709\u795e\u79d8\u6d77\u6d0b\u7684\u8272\u5f69"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ocean Ivy",
-    "value": "\u6d77\u6d0b\u5e38\u6625\u85e4\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6d77\u6d0b\u5e38\u6625\u85e4"
   }
 ]

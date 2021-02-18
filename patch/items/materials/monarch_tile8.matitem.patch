@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A grey brick wall tile.",
-    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u7816\u5899\u5757\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u7816\u5899\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Wall",
-    "value": "\u5bab\u6bbf\u5899\u000d\u000a"
+    "value": "\u5bab\u6bbf\u5899"
   }
 ]

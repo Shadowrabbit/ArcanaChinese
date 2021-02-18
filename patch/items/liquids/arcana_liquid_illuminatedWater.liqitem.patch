@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale colored liquid.",
-    "value": "\u4e00\u79cd\u6d45\u8272\u6db2\u4f53\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u6d45\u8272\u6db2\u4f53"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Illuminated Water",
-    "value": "\u53d1\u5149\u6c34\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u53d1\u5149\u6c34"
   }
 ]

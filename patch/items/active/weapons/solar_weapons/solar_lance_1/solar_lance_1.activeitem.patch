@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A burning lance made from solar crystals.",
-    "value": "\u592a\u9633\u6676\u4f53\u5236\u6210\u7684\u71c3\u70e7\u957f\u77db\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u592a\u9633\u6676\u4f53\u5236\u6210\u7684\u71c3\u70e7\u957f\u77db"
   },
   {
     "op": "replace",

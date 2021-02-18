@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sandstone block.",
-    "value": "\u4e00\u4e2a\u6c99\u77f3\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u6c99\u77f3\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Sandstone",
-    "value": "\u963f\u5361\u7eb3\u6c99\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u6c99\u77f3"
   }
 ]

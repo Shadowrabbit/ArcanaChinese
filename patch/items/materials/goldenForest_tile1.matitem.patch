@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shiny golden grass block.",
-    "value": "\u4e00\u5757\u91d1\u5149\u95ea\u95ea\u7684\u8349\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u91d1\u5149\u95ea\u95ea\u7684\u8349\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Golden Grass Block",
-    "value": "\u91d1\u8272\u8349\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u91d1\u8272\u8349\u5757"
   }
 ]

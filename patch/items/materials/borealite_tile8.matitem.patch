@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A borealite beam.",
-    "value": "\u787c\u94dd\u77f3\u6881\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u787c\u94dd\u77f3\u6881"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Opus Mega",
-    "value": "\u006d\u0061\u0067\u0061\u4f5c\u54c1\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u006d\u0061\u0067\u0061\u4f5c\u54c1"
   }
 ]

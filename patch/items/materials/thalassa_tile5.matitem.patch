@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Bricks made from aquamerine stone.",
-    "value": "\u6d77\u84dd\u5b9d\u77f3\u77f3\u5934\u5236\u4f5c\u7684\u7816\u000d\u000a\u000d\u000a"
+    "value": "\u6d77\u84dd\u5b9d\u77f3\u77f3\u5934\u5236\u4f5c\u7684\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Heavy Aquamarine Brick",
-    "value": "\u91cd\u578b\u6d77\u84dd\u5b9d\u77f3\u7816\u000d\u000a\u000d\u000a"
+    "value": "\u91cd\u578b\u6d77\u84dd\u5b9d\u77f3\u7816"
   }
 ]

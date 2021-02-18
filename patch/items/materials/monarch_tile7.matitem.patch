@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A grey stone pillar.",
-    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u77f3\u67f1\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u77f3\u67f1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Stone Pillar",
-    "value": "\u5bab\u6bbf\u77f3\u67f1\u000d\u000a"
+    "value": "\u5bab\u6bbf\u77f3\u67f1"
   }
 ]

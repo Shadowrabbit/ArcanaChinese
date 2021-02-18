@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "An emerald-colored wall support.",
-    "value": "\u4e00\u4e2a\u7fe1\u7fe0\u8272\u7684\u5899\u58c1\u652f\u67b6\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7fe1\u7fe0\u8272\u7684\u5899\u58c1\u652f\u67b6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Resort Green Support",
-    "value": "\u5ea6\u5047\u6751\u7eff\u8272\u652f\u6301\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u5ea6\u5047\u6751\u7eff\u8272\u652f\u6301"
   }
 ]

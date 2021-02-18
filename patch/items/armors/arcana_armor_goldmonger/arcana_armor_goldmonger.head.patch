@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A luxurious piece of visor worn only by the affluent.",
-    "value": "\u53ea\u6709\u5bcc\u4eba\u624d\u7a7f\u7684\u8c6a\u534e\u9762\u7532\u000d\u000a\u000d\u000a"
+    "value": "\u53ea\u6709\u5bcc\u4eba\u624d\u7a7f\u7684\u8c6a\u534e\u9762\u7532"
   },
   {
     "op": "replace",

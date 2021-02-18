@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A verrostin rifle with a backpack. Makes you look intimidating.",
-    "value": "\u5e26\u80cc\u5305\u7684\u7ef4\u7f57\u65af\u6c40\u6b65\u67aa\uff0c\u8ba9\u4f60\u770b\u8d77\u6765\u5f88\u5413\u4eba\u000d\u000a\u000d\u000a"
+    "value": "\u5e26\u80cc\u5305\u7684\u7ef4\u7f57\u65af\u6c40\u6b65\u67aa\uff0c\u8ba9\u4f60\u770b\u8d77\u6765\u5f88\u5413\u4eba"
   },
   {
     "op": "replace",

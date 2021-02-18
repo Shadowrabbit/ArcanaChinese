@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "The spear of the roaring seas.",
-    "value": "\u5486\u54ee\u7684\u6d77\u6d0b\u4e4b\u77db\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u5486\u54ee\u7684\u6d77\u6d0b\u4e4b\u77db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Seatide",
-    "value": "\u6d77\u6f6e\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6d77\u6f6e"
   }
 ]

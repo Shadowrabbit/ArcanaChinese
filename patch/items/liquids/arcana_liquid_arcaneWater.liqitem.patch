@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pool of water sprinkled with arcane magic.",
-    "value": "\u4e00\u6c60\u6c34\uff0c\u4e0a\u9762\u6d12\u6ee1\u7740\u963f\u5361\u7eb3\u9b54\u6cd5\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u6c60\u6c34\uff0c\u4e0a\u9762\u6d12\u6ee1\u7740\u963f\u5361\u7eb3\u9b54\u6cd5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Water",
-    "value": "\u963f\u5361\u7eb3\u6c34\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u6c34"
   }
 ]

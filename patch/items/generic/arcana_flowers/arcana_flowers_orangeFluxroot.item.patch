@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A flower with the shape of roots, found grown in blistering planets.",
-    "value": "\u4e00\u79cd\u6839\u72b6\u7684\u82b1\uff0c\u751f\u957f\u5728\u9177\u70ed\u7684\u661f\u7403\u4e0a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u6839\u72b6\u7684\u82b1\uff0c\u751f\u957f\u5728\u9177\u70ed\u7684\u661f\u7403\u4e0a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orange Fluxroot",
-    "value": "\u67f3\u6a59\u6839\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u67f3\u6a59\u6839"
   }
 ]

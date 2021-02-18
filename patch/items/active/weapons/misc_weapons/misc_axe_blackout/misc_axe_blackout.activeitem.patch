@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A one-handed axe.",
-    "value": "\u5355\u624b\u65a7\u5934\u000d\u000a\u000d\u000a"
+    "value": "\u5355\u624b\u65a7\u5934"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Blackout",
-    "value": "\u505c\u7535\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u505c\u7535"
   }
 ]

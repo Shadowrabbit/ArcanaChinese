@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sandstone flooring tile.",
-    "value": "\u4e00\u5757\u6c99\u77f3\u5730\u7816\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u6c99\u77f3\u5730\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Havencrest Flooring",
-    "value": "\u4f11\u606f\u5ba4\u5730\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u4f11\u606f\u5ba4\u5730\u677f"
   }
 ]

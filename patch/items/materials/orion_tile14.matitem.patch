@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pink light display panel.",
-    "value": "\u4e00\u4e2a\u7c89\u5149\u663e\u793a\u9762\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7c89\u5149\u663e\u793a\u9762\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Pink LED Panel",
-    "value": "\u7c89\u004c\u0045\u0044\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u7c89\u004c\u0045\u0044\u677f"
   }
 ]

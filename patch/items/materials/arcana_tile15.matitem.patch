@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wooden window.",
-    "value": "\u4e00\u4e2a\u6728\u5236\u7a97\u6237\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u6728\u5236\u7a97\u6237"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Filled Magiwood Window",
-    "value": "\u5145\u6ee1\u9b54\u6cd5\u6728\u7684\u7a97\u6237\u000d\u000a"
+    "value": "\u5145\u6ee1\u9b54\u6cd5\u6728\u7684\u7a97\u6237"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //   "A dark rifle made from necroium.",
-    "value": "\u7528\u6b7b\u5c38\u5236\u6210\u7684\u9ed1\u8272\u6b65\u67aa\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u7528\u6b7b\u5c38\u5236\u6210\u7684\u9ed1\u8272\u6b65\u67aa"
   },
   {
     "op": "replace",

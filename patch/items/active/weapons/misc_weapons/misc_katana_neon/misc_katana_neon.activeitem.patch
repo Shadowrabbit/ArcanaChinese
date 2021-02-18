@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     // "A blade that cuts even the night sky.",
-    "value": "\u4e00\u628a\u751a\u81f3\u80fd\u5212\u7834\u591c\u7a7a\u7684\u5251\u000d\u000a"
+    "value": "\u4e00\u628a\u751a\u81f3\u80fd\u5212\u7834\u591c\u7a7a\u7684\u5251"
   },
   {
     "op": "replace",

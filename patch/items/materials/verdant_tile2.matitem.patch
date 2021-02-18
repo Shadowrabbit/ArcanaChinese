@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     // "A brownish rock.",
-    "value": "\u4e00\u5757\u8910\u8272\u7684\u5ca9\u77f3\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u8910\u8272\u7684\u5ca9\u77f3"
   },
   {
     "op": "replace",

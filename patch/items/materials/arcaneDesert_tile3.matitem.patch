@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blaststone block, looks tough.",
-    "value": "\u4e00\u5757\u5ca9\u77f3\uff0c\u770b\u8d77\u6765\u5f88\u575a\u786c\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u5ca9\u77f3\uff0c\u770b\u8d77\u6765\u5f88\u575a\u786c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Blaststone",
-    "value": "\u963f\u5361\u7eb3\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u5ca9\u77f3"
   }
 ]

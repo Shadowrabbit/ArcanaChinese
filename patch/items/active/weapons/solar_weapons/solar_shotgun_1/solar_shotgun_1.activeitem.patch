@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"Fires a burst of solar projectiles.",
-    "value": "\u53d1\u5c04\u4e86\u4e00\u8fde\u4e32\u592a\u9633\u80fd\u70ae\u5f39\u000d\u000a"
+    "value": "\u53d1\u5c04\u4e86\u4e00\u8fde\u4e32\u592a\u9633\u80fd\u70ae\u5f39"
   },
   {
     "op": "replace",

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A necroium fragment, can be used for smelting.",
-    "value": "\u6b7b\u7075\u788e\u7247\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc\u000d\u000a\u000d\u000a"
+    "value": "\u6b7b\u7075\u788e\u7247\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Necroium Fragment",
-    "value": "\u6b7b\u7075\u788e\u7247\u000d\u000a\u000d\u000a"
+    "value": "\u6b7b\u7075\u788e\u7247"
   }
 ]

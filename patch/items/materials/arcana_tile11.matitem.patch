@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A magiwood log. Good for building simple structures.",
-    "value": "\u9b54\u6728\u539f\u6728\uff0c\u9002\u5408\u5efa\u9020\u7b80\u5355\u7684\u7ed3\u6784\u000d\u000a\u000d\u000a"
+    "value": "\u9b54\u6728\u539f\u6728\uff0c\u9002\u5408\u5efa\u9020\u7b80\u5355\u7684\u7ed3\u6784"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magiwood Log",
-    "value": "\u9b54\u6728\u539f\u6728\u000d\u000a\u000d\u000a"
+    "value": "\u9b54\u6728\u539f\u6728"
   }
 ]

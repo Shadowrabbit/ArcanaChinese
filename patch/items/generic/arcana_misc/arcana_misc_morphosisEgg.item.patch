@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A grenn, glowing egg. Dropped from the Evolapis.",
-    "value": "\u4e00\u4e2a\u7eff\u8272\u7684\u53d1\u5149\u86cb\u3002\u4ece\u0045\u0076\u006f\u006c\u0061\u0070\u0069\u0073\u6389\u4e0b\u6765\u7684\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7eff\u8272\u7684\u53d1\u5149\u86cb\u3002\u4ece\u0045\u0076\u006f\u006c\u0061\u0070\u0069\u0073\u6389\u4e0b\u6765\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Morphosis Egg",
-    "value": "\u5f62\u6001\u86cb\u000d\u000a"
+    "value": "\u5f62\u6001\u86cb"
   }
 ]

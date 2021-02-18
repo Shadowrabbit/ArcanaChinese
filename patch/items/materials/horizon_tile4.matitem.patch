@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A metal beam crafted from necroium.",
-    "value": "\u4e00\u4e2a\u7528\u6b7b\u7075\u5236\u4f5c\u7684\u91d1\u5c5e\u6881\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7528\u6b7b\u7075\u5236\u4f5c\u7684\u91d1\u5c5e\u6881"
   },
   {
     "op": "replace",

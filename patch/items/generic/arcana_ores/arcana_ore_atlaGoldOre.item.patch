@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gold ore, can be used for smelting.",
-    "value": "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u77f3\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u77f3\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Atla Gold Ore",
-    "value": "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u77f3"
   }
 ]

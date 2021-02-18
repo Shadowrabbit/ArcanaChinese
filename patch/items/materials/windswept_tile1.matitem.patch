@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dirt block covered with lush grass.",
-    "value": "\u4e00\u4e2a\u957f\u6ee1\u9752\u8349\u7684\u571f\u5757\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u957f\u6ee1\u9752\u8349\u7684\u571f\u5757"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Highland Dirt",
-    "value": "\u9ad8\u5730\u6ce5\u571f\u000d\u000a\u000d\u000a"
+    "value": "\u9ad8\u5730\u6ce5\u571f"
   }
 ]

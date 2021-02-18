@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A pale staff.",
-    "value": "\u82cd\u767d\u7684\u6756\u000d\u000a\u000d\u000a"
+    "value": "\u82cd\u767d\u7684\u6756"
   },
   {
     "op": "replace",

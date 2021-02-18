@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark jacket worn by the Workshop's engineers.",
-    "value": "\u4e00\u4ef6\u8f66\u95f4\u5de5\u7a0b\u5e08\u7a7f\u7684\u9ed1\u8272\u5939\u514b\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4ef6\u8f66\u95f4\u5de5\u7a0b\u5e08\u7a7f\u7684\u9ed1\u8272\u5939\u514b"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Architect's Jacket",
-    "value": "\u5efa\u7b51\u5e08\u5939\u514b\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u5efa\u7b51\u5e08\u5939\u514b"
   }
 ]

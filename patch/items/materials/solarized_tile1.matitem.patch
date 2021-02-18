@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of rock, covered with bright, burning grass.",
-    "value": "\u4e00\u5757\u5ca9\u77f3\uff0c\u4e0a\u9762\u8986\u76d6\u7740\u660e\u4eae\u7684\u71c3\u70e7\u7740\u7684\u8349\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u5ca9\u77f3\uff0c\u4e0a\u9762\u8986\u76d6\u7740\u660e\u4eae\u7684\u71c3\u70e7\u7740\u7684\u8349"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solarized Rock",
-    "value": "\u592a\u9633\u80fd\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u592a\u9633\u80fd\u5ca9\u77f3"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of thunder stroke rock.",
-    "value": "\u4e00\u5757\u96f7\u51fb\u5ca9\u77f3\u000d\u000a"
+    "value": "\u4e00\u5757\u96f7\u51fb\u5ca9\u77f3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Superstorm Rock",
-    "value": "\u8d85\u7ea7\u98ce\u66b4\u5ca9\u77f3\u000d\u000a"
+    "value": "\u8d85\u7ea7\u98ce\u66b4\u5ca9\u77f3"
   }
 ]

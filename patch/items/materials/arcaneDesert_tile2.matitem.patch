@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Soft and warm sand.",
-    "value": "\u67d4\u8f6f\u800c\u6e29\u6696\u7684\u6c99\u5b50\u000d\u000a\u000d\u000a"
+    "value": "\u67d4\u8f6f\u800c\u6e29\u6696\u7684\u6c99\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //Sand",
-    "value": "\u6c99\u5b50\u000d\u000a\u000d\u000a"
+    "value": "\u6c99\u5b50"
   }
 ]

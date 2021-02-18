@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A reinforced plate material used to manufacture most of Orion's goods.",
-    "value": "\u4e00\u79cd\u52a0\u56fa\u677f\u6750\u6599\uff0c\u7528\u4e8e\u5236\u9020\u730e\u6237\u5ea7\u5927\u90e8\u5206\u8d27\u7269\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u52a0\u56fa\u677f\u6750\u6599\uff0c\u7528\u4e8e\u5236\u9020\u730e\u6237\u5ea7\u5927\u90e8\u5206\u8d27\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ursaplate",
-    "value": "\u4e4c\u6c99\u677f\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e4c\u6c99\u677f"
   }
 ]

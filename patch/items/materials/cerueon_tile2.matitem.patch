@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blue flower tile, looks enchanted.",
-    "value": "\u4e00\u4e2a\u84dd\u8272\u9c9c\u82b1\u5757\uff0c\u770b\u8d77\u6765\u50cf\u88ab\u65bd\u4e86\u9b54\u6cd5\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u84dd\u8272\u9c9c\u82b1\u5757\uff0c\u770b\u8d77\u6765\u50cf\u88ab\u65bd\u4e86\u9b54\u6cd5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cerueon Flower Block",
-    "value": "\u851a\u84dd\u9c9c\u82b1\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u851a\u84dd\u9c9c\u82b1\u5757"
   }
 ]

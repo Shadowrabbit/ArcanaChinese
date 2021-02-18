@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Open this to recieve a mysterious reward!",
-    "value": "\u6253\u5f00\u5b83\uff0c\u5c31\u80fd\u5f97\u5230\u795e\u79d8\u7684\u5956\u8d4f\uff01\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6253\u5f00\u5b83\uff0c\u5c31\u80fd\u5f97\u5230\u795e\u79d8\u7684\u5956\u8d4f\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Golden Fortune Box",
-    "value": "\u9ec4\u91d1\u5e78\u8fd0\u7bb1\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u9ec4\u91d1\u5e78\u8fd0\u7bb1"
   }
 ]

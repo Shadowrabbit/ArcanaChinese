@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A piece of clothing, decorated with flowers.",
-    "value": "\u4e00\u4ef6\u88c5\u9970\u7740\u9c9c\u82b1\u7684\u8863\u670d\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4ef6\u88c5\u9970\u7740\u9c9c\u82b1\u7684\u8863\u670d"
   },
   {
     "op": "replace",

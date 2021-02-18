@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "An arcanium based machine pistol.",
-    "value": "\u4e00\u79cd\u963f\u5361\u7eb3\u673a\u5173\u67aa\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u963f\u5361\u7eb3\u673a\u5173\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Osiri Defender",
-    "value": "\u5965\u897f\u91cc\u540e\u536b\u000d\u000a"
+    "value": "\u5965\u897f\u91cc\u540e\u536b"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A chestplate made from morphosis bars.",
-    "value": "\u4e00\u4ef6\u80f8\u7532\uff0c\u7531\u5f62\u6001\u952d\u5236\u9020\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4ef6\u80f8\u7532\uff0c\u7531\u5f62\u6001\u952d\u5236\u9020"
   },
   {
     "op": "replace",

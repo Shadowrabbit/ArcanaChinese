@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Flame-infused wand of the ancient fire.",
-    "value": "\u6ce8\u5165\u706b\u7130\u7684\u8fdc\u53e4\u706b\u7130\u9b54\u6756\u000d\u000a\u000d\u000a"
+    "value": "\u6ce8\u5165\u706b\u7130\u7684\u8fdc\u53e4\u706b\u7130\u9b54\u6756"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Magifire Wand",
-    "value": "\u9b54\u6cd5\u706b\u7130\u6756\u000d\u000a\u000d\u000a"
+    "value": "\u9b54\u6cd5\u706b\u7130\u6756"
   }
 ]

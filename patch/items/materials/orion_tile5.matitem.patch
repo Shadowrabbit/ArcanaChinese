@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pipe-like metal support tile.",
-    "value": "\u4e00\u4e2a\u7ba1\u72b6\u7684\u91d1\u5c5e\u652f\u6491\u74e6\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7ba1\u72b6\u7684\u91d1\u5c5e\u652f\u6491\u74e6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Pipebeam Connector",
-    "value": "\u7ba1\u9053\u8fde\u63a5\u5668\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u7ba1\u9053\u8fde\u63a5\u5668"
   }
 ]

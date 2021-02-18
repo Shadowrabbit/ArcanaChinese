@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The cyclone of the raging storm.",
-    "value": "\u72c2\u98ce\u66b4\u96e8\u7684\u65cb\u98ce\u3002\u000d\u000a\u000d\u000a"
+    "value": "\u72c2\u98ce\u66b4\u96e8\u7684\u65cb\u98ce\u3002"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tempest",
-    "value": "\u66b4\u98ce\u96e8\u000d\u000a"
+    "value": "\u66b4\u98ce\u96e8"
   }
 ]

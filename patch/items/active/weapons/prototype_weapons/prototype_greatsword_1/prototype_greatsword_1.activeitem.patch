@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A prototype of a weapon.",
-    "value": "\u4e00\u79cd\u6b66\u5668\u7684\u539f\u578b\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u6b66\u5668\u7684\u539f\u578b"
   },
   {
     "op": "replace",

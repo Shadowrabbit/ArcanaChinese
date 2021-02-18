@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blue flower that grows in the islands of turbulent seas.",
-    "value": "\u4e00\u79cd\u84dd\u8272\u82b1\uff0c\u751f\u957f\u5728\u52a8\u8361\u7684\u6d77\u6d0b\u5c9b\u5c7f\u4e2d\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u84dd\u8272\u82b1\uff0c\u751f\u957f\u5728\u52a8\u8361\u7684\u6d77\u6d0b\u5c9b\u5c7f\u4e2d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Blue Spectralweed",
-    "value": "\u84dd\u8272\u5e7d\u7075\u8349\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u84dd\u8272\u5e7d\u7075\u8349"
   }
 ]

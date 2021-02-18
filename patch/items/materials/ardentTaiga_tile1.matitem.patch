@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An orangeish rock.",
-    "value": "\u6a58\u9ec4\u8272\u7684\u5ca9\u77f3\u000d\u000a\u000d\u000a"
+    "value": "\u6a58\u9ec4\u8272\u7684\u5ca9\u77f3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ardent Rock",
-    "value": "\u70ed\u60c5\u7684\u5ca9\u77f3\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u70ed\u60c5\u7684\u5ca9\u77f3"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A rusty tech card made from verrostin.",
-    "value": "\u4e00\u79cd\u7531\u7ef4\u7f57\u65af\u6c40\u5236\u6210\u7684\u751f\u9508\u79d1\u6280\u5361\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u7531\u7ef4\u7f57\u65af\u6c40\u5236\u6210\u7684\u751f\u9508\u79d1\u6280\u5361"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verrostin Tech Card",
-    "value": "\u7ef4\u7f57\u65af\u6c40\u79d1\u6280\u5361\u000d\u000a\u000d\u000a"
+    "value": "\u7ef4\u7f57\u65af\u6c40\u79d1\u6280\u5361"
   }
 ]

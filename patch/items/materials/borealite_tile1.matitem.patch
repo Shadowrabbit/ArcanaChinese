@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A borealite wall.",
-    "value": "\u787c\u94dd\u77f3\u5899\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u787c\u94dd\u77f3\u5899"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Borealite Wall",
-    "value": "\u787c\u94dd\u77f3\u5899\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u787c\u94dd\u77f3\u5899"
   }
 ]

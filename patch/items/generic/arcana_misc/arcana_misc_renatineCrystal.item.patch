@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A shining crystal radiating arcane magic.",
-    "value": "\u4e00\u5757\u53d1\u5149\u7684\u6c34\u6676\uff0c\u6563\u53d1\u7740\u963f\u5361\u7eb3\u9b54\u6cd5\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u53d1\u5149\u7684\u6c34\u6676\uff0c\u6563\u53d1\u7740\u963f\u5361\u7eb3\u9b54\u6cd5"
   },
   {
     "op": "replace",

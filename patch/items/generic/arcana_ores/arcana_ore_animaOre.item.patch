@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An anima ore, can be used for smelting.",
-    "value": "\u7075\u9b42\u77ff\u77f3\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u7075\u9b42\u77ff\u77f3\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Anima Ore",
-    "value": "\u7075\u9b42\u77ff\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u7075\u9b42\u77ff\u77f3"
   }
 ]

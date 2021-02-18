@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A grey brick tile..",
-    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u7816\u74e6\u000d\u000a"
+    "value": "\u4e00\u4e2a\u7070\u8272\u7684\u7816\u74e6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Stone Brick",
-    "value": "\u5bab\u6bbf\u77f3\u7816\u000d\u000a\u000d\u000a"
+    "value": "\u5bab\u6bbf\u77f3\u7816"
   }
 ]

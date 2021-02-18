@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "A devastating lance.",
-    "value": "\u5177\u6709\u6bc1\u706d\u6027\u7684\u957f\u77db\u000d\u000a"
+    "value": "\u5177\u6709\u6bc1\u706d\u6027\u7684\u957f\u77db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Destruction",
-    "value": "\u6bc1\u706d\u000d\u000a"
+    "value": "\u6bc1\u706d"
   }
 ]

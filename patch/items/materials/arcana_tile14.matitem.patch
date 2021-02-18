@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A composition of flowers.",
-    "value": "\u4e00\u79cd\u9c9c\u82b1\u7684\u7ec4\u5408\u7269\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u9c9c\u82b1\u7684\u7ec4\u5408\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcane Flower Block",
-    "value": "\u963f\u5361\u7eb3\u9c9c\u82b1\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u9c9c\u82b1\u5757"
   }
 ]

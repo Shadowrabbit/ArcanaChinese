@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A reddish cobblestone block.",
-    "value": "\u4e00\u5757\u7ea2\u8272\u7684\u9e45\u5375\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u7ea2\u8272\u7684\u9e45\u5375\u77f3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Blistering Cobblestone",
-    "value": "\u6eda\u70eb\u7684\u9e45\u5375\u77f3\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6eda\u70eb\u7684\u9e45\u5375\u77f3"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of dark leggings, worn by the Workshop's engineers.",
-    "value": "\u8f66\u95f4\u5de5\u7a0b\u5e08\u7a7f\u7684\u9ed1\u8272\u62a4\u817f\u000d\u000a"
+    "value": "\u8f66\u95f4\u5de5\u7a0b\u5e08\u7a7f\u7684\u9ed1\u8272\u62a4\u817f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Architect's Leggings",
-    "value": "\u5efa\u7b51\u5e08\u7684\u62a4\u817f\u000d\u000a"
+    "value": "\u5efa\u7b51\u5e08\u7684\u62a4\u817f"
   }
 ]

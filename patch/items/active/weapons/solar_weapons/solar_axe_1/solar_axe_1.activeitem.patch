@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A burning one-handed axe, forged from solar crystals.",
-    "value": "\u4e00\u628a\u71c3\u70e7\u7684\u5355\u624b\u65a7\uff0c\u7531\u592a\u9633\u6676\u4f53\u953b\u9020\u800c\u6210\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u628a\u71c3\u70e7\u7684\u5355\u624b\u65a7\uff0c\u7531\u592a\u9633\u6676\u4f53\u953b\u9020\u800c\u6210"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Fiery Crescent",
-    "value": "\u70bd\u70ed\u7684\u65b0\u6708\u000d\u000a\u000d\u000a"
+    "value": "\u70bd\u70ed\u7684\u65b0\u6708"
   }
 ]

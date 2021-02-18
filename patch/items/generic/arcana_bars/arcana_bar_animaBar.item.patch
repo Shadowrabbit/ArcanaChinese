@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"An anima bar, can be used to craft useful equipment.",
-    "value": "\u7075\u9b42\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6709\u7528\u7684\u88c5\u5907\u000d\u000a"
+    "value": "\u7075\u9b42\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u6709\u7528\u7684\u88c5\u5907"
   },
   {
     "op": "replace",

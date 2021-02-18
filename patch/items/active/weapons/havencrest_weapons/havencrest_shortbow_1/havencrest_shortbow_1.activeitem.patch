@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A shortbow made from arcanium, can instantly fire arrows.",
-    "value": "\u6765\u81ea\u963f\u5361\u7eb3\u7684\u77ed\u5f13\uff0c\u53ef\u4ee5\u7acb\u5373\u5c04\u51fa\u7bad\u000d\u000a\u000d\u000a"
+    "value": "\u6765\u81ea\u963f\u5361\u7eb3\u7684\u77ed\u5f13\uff0c\u53ef\u4ee5\u7acb\u5373\u5c04\u51fa\u7bad"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //  "Arcanium Shortbow",
-    "value": "\u963f\u5361\u7eb3\u77ed\u5f13\u000d\u000a\u000d\u000a"
+    "value": "\u963f\u5361\u7eb3\u77ed\u5f13"
   }
 ]

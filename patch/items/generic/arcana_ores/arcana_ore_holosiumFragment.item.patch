@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A holosium fragment, can be used for smelting.",
-    "value": "\u970d\u6d1b\u65af\u788e\u7247\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc\u000d\u000a\u000d\u000a"
+    "value": "\u970d\u6d1b\u65af\u788e\u7247\uff0c\u53ef\u7528\u4e8e\u51b6\u70bc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Holosium Fragment",
-    "value": "\u970d\u6d1b\u65af\u788e\u7247\u000d\u000a\u000d\u000a"
+    "value": "\u970d\u6d1b\u65af\u788e\u7247"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A chunk of fallen debris and salvages.",
-    "value": "\u4e00\u5927\u5757\u6389\u843d\u7684\u6b8b\u9ab8\u548c\u6253\u635e\u7269\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5927\u5757\u6389\u843d\u7684\u6b8b\u9ab8\u548c\u6253\u635e\u7269"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Debris Chunk",
-    "value": "\u788e\u7247\u5757\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u788e\u7247\u5757"
   }
 ]

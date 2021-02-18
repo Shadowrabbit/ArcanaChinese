@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative florastone wall.",
-    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7684\u7ed8\u82b1\u77f3\u5899\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7684\u7ed8\u82b1\u77f3\u5899"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Florastone Wall",
-    "value": "\u7ed8\u82b1\u77f3\u5899\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u7ed8\u82b1\u77f3\u5899"
   }
 ]

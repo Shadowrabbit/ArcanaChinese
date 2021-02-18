@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A sharp iron katana.",
-    "value": "\u4e00\u628a\u950b\u5229\u7684\u94c1\u5236\u6b66\u58eb\u5200\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u628a\u950b\u5229\u7684\u94c1\u5236\u6b66\u58eb\u5200"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Iron Katana",
-    "value": "\u94c1\u5236\u6b66\u58eb\u5200\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u94c1\u5236\u6b66\u58eb\u5200"
   }
 ]

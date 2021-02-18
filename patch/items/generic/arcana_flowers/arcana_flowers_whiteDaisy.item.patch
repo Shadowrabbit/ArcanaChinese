@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white daisy flower that can be often seen in arcane forests.",
-    "value": "\u4e00\u79cd\u767d\u8272\u7684\u96cf\u83ca\u82b1\uff0c\u5728\u963f\u5361\u7eb3\u68ee\u6797\u91cc\u7ecf\u5e38\u53ef\u4ee5\u770b\u5230\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u767d\u8272\u7684\u96cf\u83ca\u82b1\uff0c\u5728\u963f\u5361\u7eb3\u68ee\u6797\u91cc\u7ecf\u5e38\u53ef\u4ee5\u770b\u5230"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"White Daisy",
-    "value": "\u767d\u8272\u96cf\u83ca\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u767d\u8272\u96cf\u83ca"
   }
 ]

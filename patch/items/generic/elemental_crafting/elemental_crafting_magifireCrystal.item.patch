@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A warm crystal infused with ancient magic and the desert heat.",
-    "value": "\u4e00\u5757\u5145\u6ee1\u53e4\u8001\u9b54\u6cd5\u548c\u6c99\u6f20\u70ed\u91cf\u7684\u6e29\u6696\u6c34\u6676\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u5145\u6ee1\u53e4\u8001\u9b54\u6cd5\u548c\u6c99\u6f20\u70ed\u91cf\u7684\u6e29\u6696\u6c34\u6676"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Magifire Crystal",
-    "value": "\u9b54\u706b\u6c34\u6676\u000d\u000a\u000d\u000a"
+    "value": "\u9b54\u706b\u6c34\u6676"
   }
 ]

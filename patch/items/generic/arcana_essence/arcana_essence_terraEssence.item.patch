@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A solidified essence of the mother earth.",
-    "value": "\u4e00\u79cd\u5927\u5730\u4e4b\u6bcd\u7684\u51dd\u56fa\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u5927\u5730\u4e4b\u6bcd\u7684\u51dd\u56fa\u7cbe\u534e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Terra Essence",
-    "value": "\u5927\u5730\u7cbe\u534e\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u5927\u5730\u7cbe\u534e"
   }
 ]

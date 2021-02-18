@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //  "An arcanium based rifle.",
-    "value": "\u4e00\u628a\u963f\u5361\u7eb3\u57fa\u7840\u7684\u6b65\u67aa\u000d\u000a"
+    "value": "\u4e00\u628a\u963f\u5361\u7eb3\u57fa\u7840\u7684\u6b65\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //   "Osiri Riveter",
-    "value": "\u5965\u897f\u91cc\u94c6\u9489\u673a\u000d\u000a"
+    "value": "\u5965\u897f\u91cc\u94c6\u9489\u673a"
   }
 ]

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A pale double bladed weapon.",
-    "value": "\u4e00\u79cd\u82cd\u767d\u7684\u53cc\u5203\u6b66\u5668\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u82cd\u767d\u7684\u53cc\u5203\u6b66\u5668"
   },
   {
     "op": "replace",

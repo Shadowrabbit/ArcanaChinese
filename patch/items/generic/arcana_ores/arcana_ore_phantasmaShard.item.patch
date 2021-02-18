@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shard of the illusive abyss.",
-    "value": "\u865a\u5e7b\u6df1\u6e0a\u7684\u788e\u7247\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u865a\u5e7b\u6df1\u6e0a\u7684\u788e\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Phantasma Shard",
-    "value": "\u6050\u60e7\u788e\u7247\u000d\u000a\u000d\u000a"
+    "value": "\u6050\u60e7\u788e\u7247"
   }
 ]

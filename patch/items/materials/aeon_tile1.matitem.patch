@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A timeless flooring tile.",
-    "value": "\u6c38\u6052\u7684\u5730\u7816\u000d\u000a\u000d\u000a"
+    "value": "\u6c38\u6052\u7684\u5730\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon Flooring",
-    "value": "\u300a\u6c38\u300b\u5730\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u300a\u6c38\u300b\u5730\u677f"
   }
 ]

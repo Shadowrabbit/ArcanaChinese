@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //   "A dark broadsword.",
-    "value": "\u6697\u9ed1\u5bbd\u5251\u000d\u000a"
+    "value": "\u6697\u9ed1\u5bbd\u5251"
   },
   {
     "op": "replace",

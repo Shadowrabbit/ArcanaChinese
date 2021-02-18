@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A fragment of raw dustrium.",
-    "value": "\u4e00\u5757\u672a\u52a0\u5de5\u7684\u675c\u65af\u7279\u91cc\u59c6\u7684\u788e\u7247\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u672a\u52a0\u5de5\u7684\u675c\u65af\u7279\u91cc\u59c6\u7684\u788e\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Raw Dustrium",
-    "value": "\u672a\u52a0\u5de5\u7684\u675c\u65af\u7279\u91cc\u59c6\u000d\u000a"
+    "value": "\u672a\u52a0\u5de5\u7684\u675c\u65af\u7279\u91cc\u59c6"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blue flooring surfaced with pink aquamarine.",
-    "value": "\u4e00\u5757\u84dd\u8272\u7684\u5730\u677f\uff0c\u4e0a\u9762\u94fa\u7740\u7c89\u7ea2\u8272\u7684\u6d77\u84dd\u5b9d\u77f3\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u84dd\u8272\u7684\u5730\u677f\uff0c\u4e0a\u9762\u94fa\u7740\u7c89\u7ea2\u8272\u7684\u6d77\u84dd\u5b9d\u77f3"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aquamarine Flooring",
-    "value": "\u6d77\u84dd\u5b9d\u77f3\u5730\u677f\u000d\u000a\u000d\u000a"
+    "value": "\u6d77\u84dd\u5b9d\u77f3\u5730\u677f"
   }
 ]

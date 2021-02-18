@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A cell machinary infused with arcane essence.",
-    "value": "\u4e00\u4e2a\u5145\u6ee1\u963f\u5361\u7eb3\u7cbe\u534e\u7684\u7ec6\u80de\u673a\u5668\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u4e2a\u5145\u6ee1\u963f\u5361\u7eb3\u7cbe\u534e\u7684\u7ec6\u80de\u673a\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Jupiter Cell",
-    "value": "\u6728\u661f\u7ec6\u80de\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6728\u661f\u7ec6\u80de"
   }
 ]

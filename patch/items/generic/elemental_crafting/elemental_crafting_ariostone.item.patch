@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Fragment of the harmonic wind.",
-    "value": "\u548c\u8c10\u4e4b\u98ce\u7684\u788e\u7247\u000d\u000a\u000d\u000a"
+    "value": "\u548c\u8c10\u4e4b\u98ce\u7684\u788e\u7247"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ariostone",
-    "value": "\u963f\u91cc\u5965\u77f3\u000d\u000a"
+    "value": "\u963f\u91cc\u5965\u77f3"
   }
 ]

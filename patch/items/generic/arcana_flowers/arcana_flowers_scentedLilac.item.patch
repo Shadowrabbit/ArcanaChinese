@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A magenta lilac flower, sometimes found in the desolate mountains.",
-    "value": "\u4e00\u79cd\u7d2b\u7ea2\u8272\u4e01\u9999\u82b1\uff0c\u6709\u65f6\u5728\u8352\u51c9\u7684\u5c71\u4e0a\u53ef\u4ee5\u627e\u5230\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u7d2b\u7ea2\u8272\u4e01\u9999\u82b1\uff0c\u6709\u65f6\u5728\u8352\u51c9\u7684\u5c71\u4e0a\u53ef\u4ee5\u627e\u5230"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scented Lilac",
-    "value": "\u82ac\u82b3\u7684\u4e01\u9999\u82b1\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u82ac\u82b3\u7684\u4e01\u9999\u82b1"
   }
 ]

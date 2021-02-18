@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blueish dirt tile.",
-    "value": "\u4e00\u5757\u84dd\u8272\u7684\u6ce5\u7816\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u5757\u84dd\u8272\u7684\u6ce5\u7816"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Evoaquatic Dirt",
-    "value": "\u0045\u0056\u004f\u6c34\u4e0a\u6ce5\u571f\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u0045\u0056\u004f\u6c34\u4e0a\u6ce5\u571f"
   }
 ]

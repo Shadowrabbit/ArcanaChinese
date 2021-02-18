@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A material radiating an overwhelming aura, its durability unknown.",
-    "value": "\u4e00\u79cd\u6750\u6599\uff0c\u6563\u53d1\u7740\u65e0\u6cd5\u6297\u62d2\u7684\u5149\u73af\uff0c\u5176\u8010\u4e45\u6027\u672a\u77e5\u000d\u000a\u000d\u000a"
+    "value": "\u4e00\u79cd\u6750\u6599\uff0c\u6563\u53d1\u7740\u65e0\u6cd5\u6297\u62d2\u7684\u5149\u73af\uff0c\u5176\u8010\u4e45\u6027\u672a\u77e5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Nullatus Bar",
-    "value": "\u52aa\u62c9\u5854\u65af\u952d\u000d\u000a\u000d\u000a"
+    "value": "\u52aa\u62c9\u5854\u65af\u952d"
   }
 ]

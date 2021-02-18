@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A necroium bar, can be used to craft Horizon equipment.",
-    "value": "\u6b7b\u7075\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u5730\u5e73\u7ebf\u88c5\u5907\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6b7b\u7075\u952d\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u4f5c\u5730\u5e73\u7ebf\u88c5\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Necroium Bar",
-    "value": "\u6b7b\u7075\u952d\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u6b7b\u7075\u952d"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An upgraded tech card used in most Orion machines.",
-    "value": "\u5927\u591a\u6570\u730e\u6237\u5ea7\u673a\u5668\u5747\u53ef\u4f7f\u7528\u7684\u5347\u7ea7\u6280\u672f\u5361\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u5927\u591a\u6570\u730e\u6237\u5ea7\u673a\u5668\u5747\u53ef\u4f7f\u7528\u7684\u5347\u7ea7\u6280\u672f\u5361"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Tech Card",
-    "value": "\u730e\u6237\u5ea7\u6280\u672f\u5361\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a\u000d\u000a"
+    "value": "\u730e\u6237\u5ea7\u6280\u672f\u5361"
   }
 ]

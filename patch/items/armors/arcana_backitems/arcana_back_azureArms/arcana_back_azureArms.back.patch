@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Decorative azure branches.",
-    "value": "\u88c5\u9970\u6027\u7684\u5929\u84dd\u8272\u6811\u679d\u000d\u000a\u000d\u000a"
+    "value": "\u88c5\u9970\u6027\u7684\u5929\u84dd\u8272\u6811\u679d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Azure Arms",
-    "value": "\u5929\u84dd\u8272\u624b\u81c2\u000d\u000a"
+    "value": "\u5929\u84dd\u8272\u624b\u81c2"
   }
 ]
