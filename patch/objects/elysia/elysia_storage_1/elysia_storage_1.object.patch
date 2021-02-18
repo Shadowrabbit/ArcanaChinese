@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A resort cabinet."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Resort Cabinet"
+    "value": "toBeTranslate"
+  }
+]

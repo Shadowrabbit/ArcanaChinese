@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A cool cyberpunk looking table.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    // "Cyberpunk Cyan Table",
+    "value": "toBeTranslate"
+  }
+]

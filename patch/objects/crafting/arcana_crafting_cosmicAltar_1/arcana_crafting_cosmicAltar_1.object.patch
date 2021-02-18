@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An altar used to craft some rather suspicious items..."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Cosmic Altar"
+    "value": "toBeTranslate"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A large crate. Can store a large amount of items."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Steelblades Crate L"
+    "value": "toBeTranslate"
+  }
+]

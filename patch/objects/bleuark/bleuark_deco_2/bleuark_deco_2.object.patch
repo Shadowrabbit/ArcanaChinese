@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A gold bordered wall display of a giant chalice."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Chalice Wall Display"
+    "value": "toBeTranslate"
+  }
+]

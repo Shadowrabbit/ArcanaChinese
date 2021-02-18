@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A designated teleporter connected to the Nova Station. \n^red;Destroyed when broken."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Nova Station Teleporter"
+    "value": "toBeTranslate"
+  }
+]

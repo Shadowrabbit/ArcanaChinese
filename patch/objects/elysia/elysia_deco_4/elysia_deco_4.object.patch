@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A tall glass display, wouldn't want to accidentally break it."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Tall Glass Display"
+    "value": "toBeTranslate"
+  }
+]

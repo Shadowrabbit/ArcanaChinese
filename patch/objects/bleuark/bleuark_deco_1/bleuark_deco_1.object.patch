@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A fancy plant pot made of Atla gold."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Bleuark Plant Pot"
+    "value": "toBeTranslate"
+  }
+]

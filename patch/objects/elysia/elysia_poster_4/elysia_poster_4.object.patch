@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A large poster advertising a resort named Elysia."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Elysia Large Poster"
+    "value": "toBeTranslate"
+  }
+]

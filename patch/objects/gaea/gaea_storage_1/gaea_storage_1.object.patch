@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"An ancient chest fused with spirits of the verdant earth."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Florastone Chest"
+    "value": "toBeTranslate"
+  }
+]

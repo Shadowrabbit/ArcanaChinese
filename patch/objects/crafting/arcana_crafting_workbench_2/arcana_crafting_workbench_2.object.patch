@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A magic infused workbench, allows you to create furniture and materials."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Arcanium Workstation"
+    "value": "toBeTranslate"
+  }
+]

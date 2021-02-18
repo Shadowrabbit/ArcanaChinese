@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Some sort of a carved stone tablet."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Large Stone Tablet"
+    "value": "toBeTranslate"
+  }
+]

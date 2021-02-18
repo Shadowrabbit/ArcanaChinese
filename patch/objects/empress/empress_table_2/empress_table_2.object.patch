@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A dark table covered in gold. Looks expensive."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Luxurious Table"
+    "value": "toBeTranslate"
+  }
+]

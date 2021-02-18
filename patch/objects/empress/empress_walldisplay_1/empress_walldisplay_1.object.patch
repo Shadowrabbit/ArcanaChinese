@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A large golden wall clock. Appears to be purely decorative, its hour hand is permanently pointing at 3."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Golden Clock"
+    "value": "toBeTranslate"
+  }
+]

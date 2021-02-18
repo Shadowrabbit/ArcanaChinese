@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A table that allows you to craft various useful arcane inventions."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Magician's Table"
+    "value": "toBeTranslate"
+  }
+]

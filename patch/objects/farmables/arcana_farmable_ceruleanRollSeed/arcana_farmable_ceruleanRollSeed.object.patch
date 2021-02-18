@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A roll that grows on plants? Sweet!"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Cerulean Roll Seed"
+    "value": "toBeTranslate"
+  }
+]

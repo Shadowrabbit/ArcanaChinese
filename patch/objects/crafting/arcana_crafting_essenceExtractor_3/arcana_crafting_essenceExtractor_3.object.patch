@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A modern essence extractor for extracting azure and mirage essence."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Orion Essence Extractor"
+    "value": "toBeTranslate"
+  }
+]

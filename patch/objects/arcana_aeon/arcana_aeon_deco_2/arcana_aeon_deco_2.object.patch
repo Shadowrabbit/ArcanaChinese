@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A decorative clockwork hanging on the wall.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Aeon Clockwork",
+    "value": "toBeTranslate"
+  }
+]

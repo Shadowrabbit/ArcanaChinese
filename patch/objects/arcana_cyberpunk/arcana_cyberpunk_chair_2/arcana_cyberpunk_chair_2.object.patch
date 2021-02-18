@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A cool cyberpunk stool.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Cyberpunk Cyan Stool",
+    "value": "toBeTranslate"
+  }
+]

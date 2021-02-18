@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A planter box, containing ocean ivy."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ocean Ivy Planter"
+    "value": "toBeTranslate"
+  }
+]

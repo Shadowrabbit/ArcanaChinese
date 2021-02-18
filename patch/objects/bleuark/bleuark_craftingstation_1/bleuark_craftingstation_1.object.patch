@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"The inventor's table is used to produce various crafting stations."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"^orange;Inventor's Table^white;"
+    "value": "toBeTranslate"
+  }
+]

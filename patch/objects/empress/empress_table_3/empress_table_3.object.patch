@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A black and gold counter, gives off an opulent feel."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Empress Counter"
+    "value": "toBeTranslate"
+  }
+]

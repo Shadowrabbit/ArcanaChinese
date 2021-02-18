@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A gear. Part of a well-oiled machine. Actually, it's a bit rusty.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Large Gear",
+    "value": "toBeTranslate"
+  }
+]

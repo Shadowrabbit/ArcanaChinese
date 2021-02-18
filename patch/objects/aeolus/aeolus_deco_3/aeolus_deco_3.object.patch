@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "Some sort of a geometrical monument.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ariostone Monument",
+    "value": "toBeTranslate"
+  }
+]

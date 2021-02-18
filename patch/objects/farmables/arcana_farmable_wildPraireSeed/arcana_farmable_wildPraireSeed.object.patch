@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A flower that's abundant in verdant planets."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Wild Praire Seed"
+    "value": "toBeTranslate"
+  }
+]

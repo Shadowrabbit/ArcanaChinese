@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A store that sells a bunch of themed furniture."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Frogg Furnishing"
+    "value": "toBeTranslate"
+  }
+]

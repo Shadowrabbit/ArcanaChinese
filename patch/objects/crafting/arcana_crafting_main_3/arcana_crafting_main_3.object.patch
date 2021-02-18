@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A modern crafting table, lets you craft various useful Orion inventions."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Cyberneticist's Table"
+    "value": "toBeTranslate"
+  }
+]

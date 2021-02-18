@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A questionable vendor selling mystery boxes that contains random rewards."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Wheel of Fortune Vendor"
+    "value": "toBeTranslate"
+  }
+]

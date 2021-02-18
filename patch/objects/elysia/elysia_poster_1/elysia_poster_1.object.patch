@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"It's a poster of some sort of a tropical resort, named Elysia."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Elysia Advertisement"
+    "value": "toBeTranslate"
+  }
+]

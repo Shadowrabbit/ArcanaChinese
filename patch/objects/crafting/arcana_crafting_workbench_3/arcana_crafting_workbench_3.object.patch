@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A modern crafting table, lets you craft furniture and materials."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Orion Workstation"
+    "value": "toBeTranslate"
+  }
+]

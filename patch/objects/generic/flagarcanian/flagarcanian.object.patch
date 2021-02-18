@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"arcanian Flag"
+    "value": "toBeTranslate"
+  }
+]

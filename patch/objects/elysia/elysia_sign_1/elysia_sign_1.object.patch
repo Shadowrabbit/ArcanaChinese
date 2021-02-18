@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A wall poster, displaying some details about the Elysia Resort."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Elysia Info Sign"
+    "value": "toBeTranslate"
+  }
+]

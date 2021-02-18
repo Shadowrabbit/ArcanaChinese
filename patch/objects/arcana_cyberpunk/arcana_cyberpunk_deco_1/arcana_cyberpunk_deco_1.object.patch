@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A cyberpunk plant box.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Cyberpunk Pink Plants",
+    "value": "toBeTranslate"
+  }
+]

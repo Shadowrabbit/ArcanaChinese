@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A gold-framed sign, advertises products from a boutique store."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Empress Info Sign"
+    "value": "toBeTranslate"
+  }
+]

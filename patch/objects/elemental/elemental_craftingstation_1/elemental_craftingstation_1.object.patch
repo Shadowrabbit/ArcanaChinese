@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A basic crafting station for elementally infused items."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Wooden Elemental Table"
+    "value": "toBeTranslate"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A basic extractor for extracting arcane essence."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Wooden Essence Extractor"
+    "value": "toBeTranslate"
+  }
+]
