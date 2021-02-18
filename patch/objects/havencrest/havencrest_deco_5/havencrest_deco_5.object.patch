@@ -1,24 +1,14 @@
-{
-  "objectName" : "havencrest_deco_5",
-  "colonyTags" : ["misc"],
-  "rarity" : "Rare",
-  "description" : "A banner displaying the desert oasis, Havencrest.",
-  "shortdescription" : "Havencrest Banner",
-  "race" : "generic",
-  "category" : "decorative",
-  "price" : 100,
-
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "dualImage" : "havencrest_deco_5.png:<color>",
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "top" ]
-
-    }
-  ]
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A banner displaying the desert oasis, Havencrest."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Havencrest Banner"
+    "value": "toBeTranslate"
+  }
+]

@@ -1,24 +1,14 @@
-{
-  "objectName" : "havencrest_deco_7",
-  "colonyTags" : ["misc"],
-  "rarity" : "Rare",
-  "description" : "A decorative plant basin.",
-  "shortdescription" : "Oasis Plant Basin",
-  "race" : "generic",
-  "category" : "decorative",
-  "price" : 100,
-
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "dualImage" : "havencrest_deco_7.png:<color>",
-      "imagePosition" : [-16, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-
-    }
-  ]
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A decorative plant basin."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Oasis Plant Basin"
+    "value": "toBeTranslate"
+  }
+]

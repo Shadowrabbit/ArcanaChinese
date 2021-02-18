@@ -1,24 +1,14 @@
-{
-  "objectName" : "monarch_deco_3",
-  "colonyTags" : ["misc"],
-  "rarity" : "Rare",
-  "description" : "A monochromatic plant pot.",
-  "shortdescription" : "Monarch Plant Pot",
-  "race" : "generic",
-  "category" : "decorative",
-  "price" : 100,
-
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "dualImage" : "monarch_deco_3.png:<color>",
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "bottom" ]
-
-    }
-  ]
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A monochromatic plant pot."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Monarch Plant Pot"
+    "value": "toBeTranslate"
+  }
+]
