@@ -1,3 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A tiny metal cabinet."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Tiny Workshop Cabinet"
+    "value": "toBeTranslate"
+  }
+]
 {
   "objectName" : "workshop_container_6",
   "colonyTags" : ["misc","storage"],

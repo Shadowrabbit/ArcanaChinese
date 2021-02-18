@@ -1,24 +1,14 @@
-{
-  "objectName" : "workshop_poster_1",
-  "colonyTags" : ["misc"],
-  "rarity" : "Rare",
-  "description" : "Some sort of a blueprint-like poster detailing the layout of a ship.",
-  "shortdescription" : "Ship Layout Plan",
-  "race" : "generic",
-  "category" : "decorative",
-  "price" : 100,
-
-  "inventoryIcon" : "icon.png",
-  "orientations" : [
-    {
-      "dualImage" : "workshop_poster_1.png:<color>",
-      "imagePosition" : [-8, 0],
-      "frames" : 1,
-      "animationCycle" : 0.5,
-
-      "spaceScan" : 0.1,
-      "anchors" : [ "background" ]
-
-    }
-  ]
-}
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"Some sort of a blueprint-like poster detailing the layout of a ship."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Ship Layout Plan"
+    "value": "toBeTranslate"
+  }
+]
