@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A chequered flag bearing an emblem.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u9762\u5e26\u6709\u5fbd\u7ae0\u7684\u65b9\u683c\u65d7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Lakerock Standard",
-    "value": "toBeTranslate"
+    "value": "\u6e56\u77f3\u89c4\u8303"
   }
 ]

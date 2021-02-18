@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A table made with pure gold.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7eaf\u91d1\u5236\u4f5c\u7684\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cairene Table",
-    "value": "toBeTranslate"
+    "value": "\u5f00\u7f57\u684c\u5b50"
   }
 ]

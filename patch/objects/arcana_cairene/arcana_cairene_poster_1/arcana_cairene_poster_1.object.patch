@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A poster.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d77\u62a5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Music Poster",
-    "value": "toBeTranslate"
+    "value": "\u97f3\u4e50\u6d77\u62a5"
   }
 ]

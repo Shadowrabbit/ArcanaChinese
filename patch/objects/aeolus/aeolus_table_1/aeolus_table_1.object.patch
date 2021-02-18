@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blue table made from ariostone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u963f\u91cc\u5965\u77f3\u5236\u4f5c\u7684\u84dd\u8272\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ariostone Table",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u684c\u5b50"
   }
 ]

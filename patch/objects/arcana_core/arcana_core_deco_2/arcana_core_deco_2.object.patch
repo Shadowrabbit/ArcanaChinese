@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A core trophy.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6838\u5fc3\u5956\u676f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Core-l Trophy",
-    "value": "toBeTranslate"
+    "value": "\u6838\u5fc3\u004c\u5956\u676f"
   }
 ]

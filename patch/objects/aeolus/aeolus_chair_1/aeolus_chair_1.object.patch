@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small blue chair made from ariostone.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u963f\u91cc\u5965\u77f3\u5236\u4f5c\u7684\u5c0f\u53f7\u84dd\u8272\u6905\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Ariostone Chair",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u6905\u5b50"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A painting.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5e45\u753b"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Core",
-    "value": "toBeTranslate"
+    "value": "\u6838\u5fc3"
   }
 ]

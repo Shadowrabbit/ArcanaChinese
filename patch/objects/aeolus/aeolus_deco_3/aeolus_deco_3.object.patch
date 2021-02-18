@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "Some sort of a geometrical monument.",
-    "value": "toBeTranslate"
+    "value": "\u67d0\u79cd\u51e0\u4f55\u5f62\u72b6\u7684\u7eaa\u5ff5\u7891"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ariostone Monument",
-    "value": "toBeTranslate"
+    "value": "\u963f\u91cc\u5965\u77f3\u7eaa\u5ff5\u7891"
   }
 ]

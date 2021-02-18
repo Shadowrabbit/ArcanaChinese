@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display of floating pyramids.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6f02\u6d6e\u7740\u7684\u91d1\u5b57\u5854\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Cairene Reversed Pyramids",
-    "value": "toBeTranslate"
+    "value": "\u5f00\u7f57\u53cd\u8f6c\u7684\u91d1\u5b57\u5854"
   }
 ]

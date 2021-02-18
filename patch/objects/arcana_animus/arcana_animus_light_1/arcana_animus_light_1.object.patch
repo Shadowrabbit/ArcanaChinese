@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A blood-red stone lamp.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8840\u7ea2\u8272\u7684\u77f3\u5934\u706f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     // "Animus Lamp",
-    "value": "toBeTranslate"
+    "value": "\u654c\u610f\u706f"
   }
 ]

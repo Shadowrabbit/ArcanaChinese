@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tall stone pillar.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ad8\u77f3\u67f1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tall Ariostone Pillar",
-    "value": "toBeTranslate"
+    "value": "\u9ad8\u963f\u91cc\u5965\u77f3\u67f1"
   }
 ]

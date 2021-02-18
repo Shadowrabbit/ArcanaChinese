@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A long table made from core fragments.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6838\u5fc3\u788e\u7247\u5236\u4f5c\u7684\u957f\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Core Long Table",
-    "value": "toBeTranslate"
+    "value": "\u6838\u5fc3\u957f\u684c\u5b50"
   }
 ]

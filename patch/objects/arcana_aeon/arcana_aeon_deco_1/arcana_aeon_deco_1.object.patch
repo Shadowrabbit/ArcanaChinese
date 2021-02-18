@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gear. Part of a well-oiled machine. Actually, it's a bit rusty.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9f7f\u8f6e\uff0c\u662f\u8fd0\u8f6c\u826f\u597d\u7684\u673a\u5668\u7684\u4e00\u90e8\u5206\u3002\u5b9e\u9645\u4e0a\uff0c\u5b83\u6709\u70b9\u751f\u9508"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Gear",
-    "value": "toBeTranslate"
+    "value": "\u5927\u9f7f\u8f6e"
   }
 ]

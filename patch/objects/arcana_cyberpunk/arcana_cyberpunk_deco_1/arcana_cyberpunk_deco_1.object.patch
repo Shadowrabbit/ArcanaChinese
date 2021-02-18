@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     // "A cyberpunk plant box.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8d5b\u535a\u670b\u514b\u690d\u7269\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cyberpunk Pink Plants",
-    "value": "toBeTranslate"
+    "value": "\u8d5b\u535a\u670b\u514b\u7c89\u8272\u690d\u7269"
   }
 ]

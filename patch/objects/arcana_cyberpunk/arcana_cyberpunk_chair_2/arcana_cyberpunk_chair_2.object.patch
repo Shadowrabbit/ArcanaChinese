@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A cool cyberpunk stool.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5f88\u9177\u7684\u8d5b\u535a\u670b\u514b\u51f3\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cyberpunk Cyan Stool",
-    "value": "toBeTranslate"
+    "value": "\u8d5b\u535a\u670b\u514b\u9752\u8272\u51f3\u5b50"
   }
 ]

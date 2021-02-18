@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A fancy wooden table.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5f20\u7cbe\u81f4\u7684\u6728\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gingko Table",
-    "value": "toBeTranslate"
+    "value": "\u94f6\u674f\u684c\u5b50"
   }
 ]

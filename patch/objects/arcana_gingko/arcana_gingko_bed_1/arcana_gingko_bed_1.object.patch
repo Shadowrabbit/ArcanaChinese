@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A firm bed with silky sheets.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5f20\u94fa\u7740\u4e1d\u7ef8\u5e8a\u5355\u7684\u786c\u5e8a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gingko Bed",
-    "value": "toBeTranslate"
+    "value": "\u94f6\u674f\u5e8a"
   }
 ]

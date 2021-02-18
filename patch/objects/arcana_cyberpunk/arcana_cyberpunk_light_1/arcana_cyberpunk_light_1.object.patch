@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A cyberpunk light device.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8d5b\u535a\u670b\u514b\u706f\u8bbe\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cyberpunk Pink Light",
-    "value": "toBeTranslate"
+    "value": "\u8d5b\u535a\u670b\u514b\u7c89\u8272\u706f"
   }
 ]

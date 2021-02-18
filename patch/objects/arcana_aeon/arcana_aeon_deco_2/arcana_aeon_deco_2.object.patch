@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative clockwork hanging on the wall.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u60ac\u6302\u5728\u5899\u4e0a\u7684\u88c5\u9970\u6027\u5de5\u4f5c\u949f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Aeon Clockwork",
-    "value": "toBeTranslate"
+    "value": "\u6c38\u5de5\u4f5c\u949f"
   }
 ]

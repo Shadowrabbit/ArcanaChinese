@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A rack for holding swords.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u4e8e\u5b58\u653e\u5251\u7684\u67b6\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Lakerock Sword Rack",
-    "value": "toBeTranslate"
+    "value": "\u6e56\u77f3\u7f6e\u5251\u67b6"
   }
 ]

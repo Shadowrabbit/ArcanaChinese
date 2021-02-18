@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A beautifully woven banner.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u6761\u7f16\u7ec7\u7cbe\u7f8e\u7684\u6a2a\u5e45"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Lakerock Banner",
-    "value": "toBeTranslate"
+    "value": "\u5927\u7684\u6e56\u77f3\u6a2a\u5e45"
   }
 ]

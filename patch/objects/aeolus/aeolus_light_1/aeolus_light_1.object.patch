@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Some sort of a light device.",
-    "value": "toBeTranslate"
+    "value": "\u67d0\u79cd\u5149\u8bbe\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Windswept Refraction",
-    "value": "toBeTranslate"
+    "value": "\u72c2\u98ce\u8086\u8650\u6298\u5149"
   }
 ]

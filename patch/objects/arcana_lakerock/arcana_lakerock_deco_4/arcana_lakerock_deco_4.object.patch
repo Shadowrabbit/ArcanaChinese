@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shelf filled with books and potions.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u6ee1\u4e66\u7c4d\u548c\u836f\u6c34\u7684\u67b6\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Lakerock Shelf",
-    "value": "toBeTranslate"
+    "value": "\u6e56\u77f3\u4e66\u67b6"
   }
 ]

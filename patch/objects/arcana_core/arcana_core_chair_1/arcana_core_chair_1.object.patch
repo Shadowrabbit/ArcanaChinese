@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A stool made from core fragments.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7531\u6838\u5fc3\u788e\u7247\u5236\u4f5c\u7684\u51f3\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Core Stool",
-    "value": "toBeTranslate"
+    "value": "\u6838\u5fc3\u51f3\u5b50"
   }
 ]
