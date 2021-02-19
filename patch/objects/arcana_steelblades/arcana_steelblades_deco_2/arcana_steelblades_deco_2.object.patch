@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tiny tree of metal boxes.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u68f5\u5c0f\u578b\u91d1\u5c5e\u76d2\u5b50\u6811"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steel Tree",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u6811"
   }
 ]

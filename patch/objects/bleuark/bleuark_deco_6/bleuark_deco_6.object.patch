@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wand for display."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c55\u793a\u7528\u7684\u9b54\u6756"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wand Display"
-    "value": "toBeTranslate"
+    "value": "\u9b54\u6756\u5c55\u793a"
   }
 ]

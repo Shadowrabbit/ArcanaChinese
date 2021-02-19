@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pillar-like reactor."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u67f1\u72b6\u53cd\u5e94\u5806"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steelblades Reactor H"
-    "value": "toBeTranslate"
+    "value": "\u94a2\u5203\u519b\u961f\u53cd\u5e94\u5806\u0048"
   }
 ]

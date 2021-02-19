@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Some sort of a flower shop."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u82b1\u5e97"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Florist Vendor"
-    "value": "toBeTranslate"
+    "value": "\u82b1\u5e97\u8d29\u552e\u673a"
   }
 ]

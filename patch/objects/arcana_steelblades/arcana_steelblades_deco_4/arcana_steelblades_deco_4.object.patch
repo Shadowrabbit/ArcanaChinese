@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bunch of rusty steel panes."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5806\u751f\u9508\u7684\u94a2\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steel Panes"
-    "value": "toBeTranslate"
+    "value": "\u94a2\u677f"
   }
 ]

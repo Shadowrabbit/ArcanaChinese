@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u5c5e\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steelblades Table"
-    "value": "toBeTranslate"
+    "value": "\u94a2\u5203\u519b\u961f\u684c\u5b50"
   }
 ]

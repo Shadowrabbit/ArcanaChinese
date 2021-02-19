@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A store that sells a bunch of themed furniture."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u51fa\u552e\u5404\u79cd\u4e3b\u9898\u5bb6\u5177\u7684\u5546\u5e97"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Frogg Furnishing"
-    "value": "toBeTranslate"
+    "value": "\u0046\u0072\u006f\u0067\u0067\u5bb6\u5177"
   }
 ]

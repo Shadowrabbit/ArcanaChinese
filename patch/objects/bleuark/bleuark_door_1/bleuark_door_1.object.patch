@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A door constructed from atla gold and seastone."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u963f\u7279\u62c9\u9ec4\u91d1\u548c\u6d77\u77f3\u5236\u4f5c\u7684\u95e8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Bleuark Door"
-    "value": "toBeTranslate"
+    "value": "\u5e03\u9c81\u514b\u95e8"
   }
 ]

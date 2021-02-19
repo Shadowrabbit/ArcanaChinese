@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shady looking salesman.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5916\u8868\u53ef\u7591\u7684\u63a8\u9500\u5458"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Shady Vendor",
-    "value": "toBeTranslate"
+    "value": "\u53ef\u7591\u8d29\u552e\u673a"
   }
 ]

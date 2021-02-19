@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A fancy plant pot made of Atla gold."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u534e\u4e3d\u7684\u690d\u7269\u76c6\u683d\uff0c\u7528\u963f\u7279\u62c9\u9ec4\u91d1\u5236\u4f5c\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Bleuark Plant Pot"
-    "value": "toBeTranslate"
+    "value": "\u5e03\u9c81\u514b\u690d\u7269\u76c6\u683d"
   }
 ]

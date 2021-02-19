@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal cabinet. Can store a large amount of items."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u5c5e\u67dc\u3002\u53ef\u4ee5\u50a8\u5b58\u5927\u91cf\u7269\u54c1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steelblades Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u94a2\u5203\u519b\u961f\u67dc\u5b50"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A good source of information."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5f88\u597d\u7684\u4fe1\u606f\u6765\u6e90"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Info Booth"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u4fe1\u606f\u4ead"
   }
 ]

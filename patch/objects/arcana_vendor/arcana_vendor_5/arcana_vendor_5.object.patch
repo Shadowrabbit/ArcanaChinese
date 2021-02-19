@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A shop for exchanging essence for pixels."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u7cbe\u534e\u4ea4\u6362\u50cf\u7d20\u7684\u5546\u5e97"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Essence Exchange"
-    "value": "toBeTranslate"
+    "value": "\u7cbe\u534e\u4ea4\u6613\u6240"
   }
 ]

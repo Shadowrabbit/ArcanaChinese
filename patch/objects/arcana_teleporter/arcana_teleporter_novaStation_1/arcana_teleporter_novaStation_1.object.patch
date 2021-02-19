@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A designated teleporter connected to the Nova Station. \n^red;Destroyed when broken."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8fde\u63a5\u5230\u004e\u006f\u0076\u0061\u7ad9\u7684\u6307\u5b9a\u4f20\u9001\u5668\uff0c\u005c\u006e\u0020\u005e\u0020\u0072\u0065\u0064\uff1b\u635f\u574f\u65f6\u88ab\u7834\u574f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Nova Station Teleporter"
-    "value": "toBeTranslate"
+    "value": "\u004e\u006f\u0076\u0061\u7ad9\u4f20\u9001\u5668"
   }
 ]

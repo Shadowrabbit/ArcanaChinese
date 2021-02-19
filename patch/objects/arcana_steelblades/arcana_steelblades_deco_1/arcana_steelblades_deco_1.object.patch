@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative turret. Pew!",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u70ae\u5854\uff0c\u7830\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steelblades Turret",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u5203\u519b\u961f\u70ae\u5854"
   }
 ]

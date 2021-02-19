@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The inventor's table is used to produce various crafting stations."
-    "value": "toBeTranslate"
+    "value": "\u53d1\u660e\u8005\u7684\u684c\u5b50\uff0c\u88ab\u7528\u6765\u5236\u4f5c\u5404\u79cd\u5404\u6837\u7684\u5de5\u4f5c\u7ad9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"^orange;Inventor's Table^white;"
-    "value": "toBeTranslate"
+    "value": "^orange;\u53d1\u660e\u8005\u7684\u684c\u5b50^white;"
   }
 ]

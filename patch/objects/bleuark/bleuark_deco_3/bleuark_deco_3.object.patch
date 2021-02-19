@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A statue completely made from atla gold."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5ea7\u5b8c\u5168\u7531\u963f\u7279\u62c9\u9ec4\u91d1\u6253\u9020\u7684\u96d5\u50cf"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Triton Statue"
-    "value": "toBeTranslate"
+    "value": "\u6d77\u795e\u96d5\u50cf"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A vendor selling a variety of books."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8d29\u552e\u673a\uff0c\u51fa\u552e\u5404\u79cd\u4e66"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Bookstore Vendor"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u4e66\u5e97\u8d29\u552e\u673a"
   }
 ]

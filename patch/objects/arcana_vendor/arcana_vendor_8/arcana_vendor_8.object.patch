@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The captain of the station.",
-    "value": "toBeTranslate"
+    "value": "\u8f66\u7ad9\u7ad9\u957f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Station Vendor",
-    "value": "toBeTranslate"
+    "value": "\u8f66\u7ad9\u8d29\u552e\u673a"
   }
 ]

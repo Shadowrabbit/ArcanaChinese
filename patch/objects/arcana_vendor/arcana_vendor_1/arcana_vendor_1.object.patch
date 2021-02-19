@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A questionable vendor selling mystery boxes that contains random rewards."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u53ef\u7591\u7684\u8d29\u552e\u673a\uff0c\u51fa\u552e\u542b\u6709\u968f\u673a\u5956\u52b1\u7684\u795e\u79d8\u76d2\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wheel of Fortune Vendor"
-    "value": "toBeTranslate"
+    "value": "\u5e78\u8fd0\u4e4b\u8f6e\u8d29\u552e\u673a"
   }
 ]

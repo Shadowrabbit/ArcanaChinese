@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large chest made from atla gold."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7bb1\u5b50\uff0c\u7528\u963f\u7279\u62c9\u9ec4\u91d1\u5236\u4f5c\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Atla Gold Chest"
-    "value": "toBeTranslate"
+    "value": "\u963f\u7279\u62c9\u9ec4\u91d1\u7bb1\u5b50"
   }
 ]

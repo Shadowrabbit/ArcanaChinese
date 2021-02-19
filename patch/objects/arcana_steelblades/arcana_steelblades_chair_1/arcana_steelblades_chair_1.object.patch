@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small metal couch.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u91d1\u5c5e\u7761\u6905"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Steelblades Couch",
-    "value": "toBeTranslate"
+    "value": "\u94a2\u5203\u519b\u961f\u7761\u6905"
   }
 ]

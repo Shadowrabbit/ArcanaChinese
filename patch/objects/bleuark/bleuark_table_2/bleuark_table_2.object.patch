@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A simplistic Bleuark round table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7b80\u5355\u7684\u5e03\u9c81\u514b\u5706\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Bleuark Round Table"
-    "value": "toBeTranslate"
+    "value": "\u5e03\u9c81\u514b\u5706\u684c"
   }
 ]

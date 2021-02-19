@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gold bordered wall display of a giant chalice."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c55\u793a\u5de8\u5927\u5723\u676f\u7684\u91d1\u8fb9\u5899"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Chalice Wall Display"
-    "value": "toBeTranslate"
+    "value": "\u5723\u676f\u5899\u5c55\u793a"
   }
 ]
