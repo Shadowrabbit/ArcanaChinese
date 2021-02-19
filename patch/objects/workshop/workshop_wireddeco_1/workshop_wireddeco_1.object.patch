@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark workshop monitor."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6df1\u8272\u7684\u8f66\u95f4\u76d1\u6d4b\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Monitor"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u76d1\u6d4b\u5668"
   }
 ]

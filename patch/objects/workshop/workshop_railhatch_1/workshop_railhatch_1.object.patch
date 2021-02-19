@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large sleek hatch that has a built-in rail connector for use with elevators."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u800c\u5149\u6ed1\u7684\u8231\u53e3\uff0c\u6709\u4e00\u4e2a\u5185\u7f6e\u7684\u8f68\u9053\u8fde\u63a5\u5668\uff0c\u7528\u4e8e\u7535\u68af"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Rail Hatch V"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u8f68\u9053\u8231\u53e3\u0056"
   }
 ]

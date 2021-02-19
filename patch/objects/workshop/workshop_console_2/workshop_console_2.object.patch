@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wide workshop console made of metal."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5bbd\u7684\u91d1\u5c5e\u5236\u8f66\u95f4\u63a7\u5236\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wide Workshop Console"
-    "value": "toBeTranslate"
+    "value": "\u5bbd\u7684\u8f66\u95f4\u63a7\u5236\u53f0"
   }
 ]

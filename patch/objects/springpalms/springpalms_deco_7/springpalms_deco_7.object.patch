@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pile of wooden planks."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5806\u6728\u677f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Plank Pile"
-    "value": "toBeTranslate"
+    "value": "\u6728\u677f\u5806"
   }
 ]

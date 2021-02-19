@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A locker. Store some stuff, why don't you?"
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5bc4\u5b58\u67dc\u3002\u50a8\u5b58\u4e00\u4e9b\u4e1c\u897f\uff0c\u4e3a\u4ec0\u4e48\u4e0d\u5462\uff1f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ship Locker",
-    "value": "toBeTranslate"
+    "value": "\u98de\u8239\u5bc4\u5b58\u67dc"
   }
 ]

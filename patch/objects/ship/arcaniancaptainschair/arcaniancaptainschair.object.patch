@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The Captain sits here to fly the ship."
-    "value": "toBeTranslate"
+    "value": "\u8239\u957f\u5750\u5728\u8fd9\u91cc\u9a7e\u9a76\u98de\u8239"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanian Captain's Chair"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u4eba\u7684\u8239\u957f\u6905"
   }
 ]

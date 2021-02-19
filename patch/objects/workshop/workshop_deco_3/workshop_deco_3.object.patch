@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A system of terminals, looks complicated to the eye."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7ec8\u7aef\u7cfb\u7edf\uff0c\u770b\u8d77\u6765\u5f88\u590d\u6742"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Central Terminal"
-    "value": "toBeTranslate"
+    "value": "\u4e2d\u592e\u7ec8\u7aef"
   }
 ]

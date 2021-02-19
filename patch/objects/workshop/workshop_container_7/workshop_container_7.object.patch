@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal cabinet utilized by the Workshop of Gears."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9f7f\u8f6e\u8f66\u95f4\u4f7f\u7528\u7684\u91d1\u5c5e\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u67dc\u5b50"
   }
 ]

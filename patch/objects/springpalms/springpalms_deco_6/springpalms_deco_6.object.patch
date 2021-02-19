@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A collection of some paper notes."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e9b\u7eb8\u8d28\u7b14\u8bb0\u7684\u96c6\u5408"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wall Notes"
-    "value": "toBeTranslate"
+    "value": "\u5899\u58c1\u7b14\u8bb0"
   }
 ]

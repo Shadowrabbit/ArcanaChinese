@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bunch of colorful textiles."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5806\u4e94\u989c\u516d\u8272\u7684\u7eba\u7ec7\u54c1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Hanging Textiles"
-    "value": "toBeTranslate"
+    "value": "\u60ac\u6302\u7684\u7eba\u7ec7\u54c1"
   }
 ]

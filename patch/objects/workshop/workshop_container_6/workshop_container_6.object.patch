@@ -3,13 +3,13 @@
     "op": "replace",
     "path": "/description",
     //"A tiny metal cabinet."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5fae\u578b\u91d1\u5c5e\u67dc\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tiny Workshop Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u5fae\u578b\u8f66\u95f4\u67dc\u5b50"
   }
 ]
 {

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark display, showing the layout of a ship."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6df1\u8272\u663e\u793a\u5668\uff0c\u663e\u793a\u8239\u7684\u5e03\u5c40"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Map Display"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u5730\u56fe\u663e\u793a"
   }
 ]

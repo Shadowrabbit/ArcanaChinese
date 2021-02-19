@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A banner of the village of Springpalms."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u68d5\u6988\u6751\u5e84\u7684\u65d7\u5e1c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Springpalms Banner"
-    "value": "toBeTranslate"
+    "value": "\u68d5\u6988\u65d7\u5e1c"
   }
 ]

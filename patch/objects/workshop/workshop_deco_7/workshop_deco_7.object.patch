@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A rack for storing blast rifles."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6765\u5b58\u653e\u51b2\u950b\u67aa\u7684\u67b6\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Rifle Rack"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u67aa\u652f\u5b58\u653e\u67b6"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Accepts Liquid Erchius as fuel for the ship's FTL dive."
-    "value": "toBeTranslate"
+    "value": "\u63a5\u53d7\u6db2\u6001\u0020\u0045\u0072\u0063\u0068\u0069\u0075\u0073\u0020\u4f5c\u4e3a\u98de\u8239\u0020\u0046\u0054\u004c\u0020\u6f5c\u6c34\u7684\u71c3\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"FTL Fuel Hatch"
-    "value": "toBeTranslate"
+    "value": "\u0046\u0054\u004c\u0020\u71c3\u6599\u8231"
   }
 ]

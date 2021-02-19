@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A black console made of metal."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u8272\u7684\u91d1\u5c5e\u63a7\u5236\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Small Workshop Console"
-    "value": "toBeTranslate"
+    "value": "\u5c0f\u53f7\u8f66\u95f4\u63a7\u5236\u53f0"
   }
 ]

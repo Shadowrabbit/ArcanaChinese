@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A door suitable for a spaceship."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9002\u5408\u5b87\u5b99\u98de\u8239\u7684\u95e8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"arcanian Ship Door"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u4eba\u7684\u98de\u8239\u95e8"
   }
 ]

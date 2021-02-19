@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A simple workshop table, often used by the engineers for inventing and assembling."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7b80\u5355\u7684\u8f66\u95f4\u684c\u5b50\uff0c\u5e38\u88ab\u5de5\u7a0b\u5e08\u7528\u6765\u53d1\u660e\u548c\u88c5\u914d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Table"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u684c\u5b50"
   }
 ]

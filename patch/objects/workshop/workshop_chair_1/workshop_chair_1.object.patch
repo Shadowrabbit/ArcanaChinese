@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A comfortable orange chair that suits the workshop's engineers."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u628a\u8212\u9002\u7684\u6a59\u8272\u6905\u5b50\uff0c\u5f88\u9002\u5408\u8f66\u95f4\u7684\u5de5\u7a0b\u5e08"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Chair"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u6905"
   }
 ]

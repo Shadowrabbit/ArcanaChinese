@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal locker utilized by the Workshop of Gears."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9f7f\u8f6e\u8f66\u95f4\u4f7f\u7528\u7684\u91d1\u5c5e\u5bc4\u5b58\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Lockers"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u5bc4\u5b58\u67dc"
   }
 ]

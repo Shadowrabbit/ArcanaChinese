@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Ship-based Artificial Intelligence Lattice, or S.A.I.L for short."
-    "value": "toBeTranslate"
+    "value": "\u57fa\u4e8e\u8239\u8236\u7684\u4eba\u5de5\u667a\u80fd\u6676\u683c\uff0c\u7b80\u79f0\u4e3a\u0020\u0053\u002e\u0041\u002e\u0049\u002e\u004c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"S.A.I.L"
-    "value": "toBeTranslate"
+    "value": "\u0053\u002e\u0041\u002e\u0049\u002e\u004c"
   }
 ]

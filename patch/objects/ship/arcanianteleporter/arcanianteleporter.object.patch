@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Trusty teleporter, what would we do without you?"
-    "value": "toBeTranslate"
+    "value": "\u53ef\u9760\u7684\u4f20\u9001\u5668\uff0c\u5982\u679c\u6ca1\u6709\u60a8\uff0c\u6211\u4eec\u4f1a\u600e\u4e48\u505a\uff1f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Teleporter"
-    "value": "toBeTranslate"
+    "value": "\u4f20\u9001\u5668"
   }
 ]

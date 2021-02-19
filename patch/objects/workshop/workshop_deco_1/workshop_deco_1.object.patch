@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small greenery in the midst of the Workshop's machinery."
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u673a\u5668\u4e2d\u95f4\u7684\u4e00\u5c0f\u7247\u7eff\u690d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Plant Box"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u79cd\u690d\u7bb1"
   }
 ]

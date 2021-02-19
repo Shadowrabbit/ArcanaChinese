@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A smoke generator."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u70df\u96fe\u53d1\u751f\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Solar Smoke Machine"
-    "value": "toBeTranslate"
+    "value": "\u592a\u9633\u80fd\u70df\u96fe\u53d1\u751f\u5668"
   }
 ]

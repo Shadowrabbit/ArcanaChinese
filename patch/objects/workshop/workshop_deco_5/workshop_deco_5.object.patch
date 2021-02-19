@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A giant ship engine, decorative."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5de8\u5927\u7684\u88c5\u9970\u6027\u7684\u8239\u8236\u5f15\u64ce"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Ship Engine"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u8239\u8236\u5f15\u64ce"
   }
 ]

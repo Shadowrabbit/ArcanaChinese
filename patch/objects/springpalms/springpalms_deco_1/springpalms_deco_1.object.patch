@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A stone plant box."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u77f3\u5934\u79cd\u690d\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Springpalms Plant Box"
-    "value": "toBeTranslate"
+    "value": "\u68d5\u6988\u79cd\u690d\u7bb1"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A lighting device."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u706f\u5149\u8bbe\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Light L"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u706f\u004c"
   }
 ]

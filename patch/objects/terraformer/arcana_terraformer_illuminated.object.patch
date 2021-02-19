@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Transforms a planet's climate into an illuminated landscape."
-    "value": "toBeTranslate"
+    "value": "\u5c06\u4e00\u4e2a\u661f\u7403\u7684\u6c14\u5019\u8f6c\u53d8\u6210\u4e00\u4e2a\u660e\u4eae\u7684\u666f\u89c2"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Illuminated Terraformer"
-    "value": "toBeTranslate"
+    "value": "\u53d1\u5149\u7684\u73af\u5883\u6539\u9020\u673a"
   }
 ]

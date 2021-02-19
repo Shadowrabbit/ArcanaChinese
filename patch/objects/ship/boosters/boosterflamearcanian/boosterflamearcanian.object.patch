@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"I wonder how quickly that would cook a burger."
-    "value": "toBeTranslate"
+    "value": "\u6211\u60f3\u77e5\u9053\u5b83\u80fd\u591a\u5feb\u5236\u4f5c\u597d\u4e00\u4e2a\u6c49\u5821"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Booster Flame"
-    "value": "toBeTranslate"
+    "value": "\u5347\u538b\u5668\u706b\u7130"
   }
 ]

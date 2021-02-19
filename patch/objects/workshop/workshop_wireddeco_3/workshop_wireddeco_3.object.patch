@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tiny wall display screen."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5fae\u578b\u7684\u5899\u58c1\u663e\u793a\u5c4f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tiny Display Screen"
-    "value": "toBeTranslate"
+    "value": "\u5fae\u578b\u663e\u793a\u5c4f"
   }
 ]
