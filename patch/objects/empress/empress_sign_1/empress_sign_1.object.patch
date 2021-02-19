@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gold-framed sign, advertises products from a boutique store."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u6846\u6807\u5fd7\uff0c\u4e3a\u4e00\u5bb6\u7cbe\u54c1\u5e97\u7684\u4ea7\u54c1\u505a\u5e7f\u544a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Info Sign"
-    "value": "toBeTranslate"
+    "value": "\u5973\u7687\u4fe1\u606f\u6807\u5fd7"
   }
 ]

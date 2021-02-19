@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A fancy black and gold couch."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5f20\u6f02\u4eae\u7684\u9ed1\u91d1\u8272\u7761\u6905"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Boutique Couch"
-    "value": "toBeTranslate"
+    "value": "\u7cbe\u54c1\u7761\u6905"
   }
 ]

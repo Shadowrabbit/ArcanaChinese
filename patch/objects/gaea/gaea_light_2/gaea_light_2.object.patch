@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A stone lamp."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u77f3\u5934\u706f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Verdant Lamp"
-    "value": "toBeTranslate"
+    "value": "\u9752\u7fe0\u706f"
   }
 ]

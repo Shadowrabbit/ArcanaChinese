@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A basic crafting station for elementally infused items."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u4e8e\u5143\u7d20\u6ce8\u5165\u7269\u54c1\u7684\u57fa\u672c\u5236\u4f5c\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wooden Elemental Table"
-    "value": "toBeTranslate"
+    "value": "\u6728\u5236\u5143\u7d20\u684c"
   }
 ]

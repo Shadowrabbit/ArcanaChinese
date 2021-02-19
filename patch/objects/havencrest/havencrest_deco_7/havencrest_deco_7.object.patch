@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative plant basin."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7684\u690d\u7269\u76c6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Plant Basin"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u690d\u7269\u76c6"
   }
 ]

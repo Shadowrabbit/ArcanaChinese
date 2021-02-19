@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An arcanium crafting table, lets you craft various useful arcane inventions."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u963f\u5361\u7eb3\u5236\u4f5c\u684c\uff0c\u53ef\u4ee5\u8ba9\u4f60\u5236\u4f5c\u5404\u79cd\u6709\u7528\u7684\u963f\u5361\u7eb3\u53d1\u660e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Academician's Table"
-    "value": "toBeTranslate"
+    "value": "\u5b66\u8005\u7684\u684c\u5b50"
   }
 ]

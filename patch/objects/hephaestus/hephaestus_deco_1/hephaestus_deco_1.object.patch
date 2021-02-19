@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A container of crystals."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6c34\u6676\u5bb9\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magifire Crystals"
-    "value": "toBeTranslate"
+    "value": "\u9b54\u706b\u6c34\u6676"
   }
 ]

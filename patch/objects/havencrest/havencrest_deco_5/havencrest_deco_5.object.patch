@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A banner displaying the desert oasis, Havencrest."
-    "value": "toBeTranslate"
+    "value": "\u5c55\u793a\u6c99\u6f20\u7eff\u6d32\u7684\u6a2a\u5e45"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Havencrest Banner"
-    "value": "toBeTranslate"
+    "value": "\u4f11\u606f\u5ba4\u6a2a\u5e45"
   }
 ]

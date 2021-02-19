@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark table covered in gold. Looks expensive."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9540\u91d1\u7684\u6df1\u8272\u684c\u5b50\uff0c\u770b\u8d77\u6765\u5f88\u6602\u8d35"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Luxurious Small Table"
-    "value": "toBeTranslate"
+    "value": "\u5962\u534e\u7684\u5c0f\u53f7\u684c\u5b50"
   }
 ]

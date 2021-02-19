@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The flag of the Protectorate. Use ^green;[E]^white; to bookmark a teleportation location."
-    "value": "toBeTranslate"
+    "value": "\u4fdd\u62a4\u56fd\u7684\u65d7\u5e1c\u3002\u4f7f\u7528^green;[E]^white;\u5c06\u4f20\u9001\u4f4d\u7f6e\u6dfb\u52a0\u4e3a\u4e66\u7b7e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"arcanian Flag"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u65d7\u5e1c"
   }
 ]

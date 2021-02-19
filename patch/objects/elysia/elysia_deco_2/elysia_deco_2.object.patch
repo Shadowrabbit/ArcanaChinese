@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A green glass info display."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7eff\u8272\u7684\u73bb\u7483\u4fe1\u606f\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Info Glass Display"
-    "value": "toBeTranslate"
+    "value": "\u4fe1\u606f\u73bb\u7483\u5c55\u793a"
   }
 ]

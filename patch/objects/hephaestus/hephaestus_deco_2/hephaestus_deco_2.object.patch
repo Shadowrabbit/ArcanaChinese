@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pillar made of dry plates."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u5e72\u677f\u5236\u6210\u7684\u652f\u67f1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dry-Plate Pillar"
-    "value": "toBeTranslate"
+    "value": "\u5e72\u677f\u652f\u67f1"
   }
 ]

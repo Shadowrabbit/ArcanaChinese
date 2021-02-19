@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall poster, displaying some details about the Elysia Resort."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5f20\u5899\u4e0a\u7684\u6d77\u62a5\uff0c\u5c55\u793a\u4e86\u0045\u006c\u0079\u0073\u0069\u0061\u5ea6\u5047\u9152\u5e97\u7684\u4e00\u4e9b\u7ec6\u8282"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Elysia Info Sign"
-    "value": "toBeTranslate"
+    "value": "\u0045\u006c\u0079\u0073\u0069\u0061\u4fe1\u606f\u6807\u5fd7"
   }
 ]

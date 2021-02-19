@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A modern fabricator that can produce lots of unique equipment!"
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u80fd\u751f\u4ea7\u8bb8\u591a\u72ec\u7279\u8bbe\u5907\u7684\u73b0\u4ee3\u5236\u9020\u673a\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Fabricator"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u5236\u9020\u673a"
   }
 ]

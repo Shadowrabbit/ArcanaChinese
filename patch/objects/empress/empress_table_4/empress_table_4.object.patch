@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small black and gold display stand."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u7684\u9ed1\u91d1\u8272\u5c55\u793a\u67b6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Boutique Small Stand"
-    "value": "toBeTranslate"
+    "value": "\u7cbe\u54c1\u5c0f\u53f7\u67b6\u5b50"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A modern essence extractor for extracting azure and mirage essence."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u73b0\u4ee3\u7684\u7cbe\u534e\u63d0\u53d6\u5668\uff0c\u7528\u4e8e\u63d0\u53d6\u5929\u84dd\u548c\u5e7b\u8c61\u7684\u7cbe\u534e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Essence Extractor"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u7cbe\u534e\u63d0\u53d6\u5668"
   }
 ]

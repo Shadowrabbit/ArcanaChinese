@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small boutique chair. Makes you feel important while sitting in it."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u7684\u7cbe\u54c1\u6905\u5b50\uff0c\u5750\u5728\u4e0a\u9762\u8ba9\u4f60\u89c9\u5f97\u81ea\u5df1\u5f88\u91cd\u8981"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Boutique Chair"
-    "value": "toBeTranslate"
+    "value": "\u7cbe\u54c1\u6905\u5b50"
   }
 ]

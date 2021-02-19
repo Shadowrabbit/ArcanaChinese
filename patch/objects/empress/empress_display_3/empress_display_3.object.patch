@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A glassed display of a golden accessory."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u914d\u9970\u7684\u73bb\u7483\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Accessory Display"
-    "value": "toBeTranslate"
+    "value": "\u914d\u9970\u5c55\u793a"
   }
 ]

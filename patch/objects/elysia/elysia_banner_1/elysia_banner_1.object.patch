@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small bright green banner."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u7684\u4eae\u7eff\u8272\u6a2a\u5e45"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Short Green Banner"
-    "value": "toBeTranslate"
+    "value": "\u77ed\u7eff\u8272\u6a2a\u5e45"
   }
 ]

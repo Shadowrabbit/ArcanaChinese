@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A modern crafting table, lets you craft furniture and materials."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u73b0\u4ee3\u7684\u5236\u4f5c\u684c\uff0c\u53ef\u4ee5\u8ba9\u4f60\u5236\u4f5c\u5bb6\u5177\u548c\u6750\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Workstation"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u5de5\u4f5c\u7ad9"
   }
 ]

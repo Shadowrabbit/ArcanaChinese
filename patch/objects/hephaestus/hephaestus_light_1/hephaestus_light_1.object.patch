@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A hanging lamp."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u60ac\u6302\u7684\u706f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Hanging Magifire Lamp"
-    "value": "toBeTranslate"
+    "value": "\u60ac\u6302\u7684\u9b54\u706b\u706f"
   }
 ]

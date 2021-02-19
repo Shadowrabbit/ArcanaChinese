@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bookcase made with sandstone and decorated with tiny arcanium crystals."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6c99\u77f3\u5236\u6210\u7684\u4e66\u67dc\uff0c\u4e0a\u9762\u88c5\u9970\u7740\u5fae\u5c0f\u7684\u963f\u5361\u7eb3\u6c34\u6676"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Bookcase"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u4e66\u67dc"
   }
 ]

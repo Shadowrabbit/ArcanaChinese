@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tall glass display, wouldn't want to accidentally break it."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ad8\u5927\u7684\u73bb\u7483\u9648\u5217\u67dc\uff0c\u53ef\u4e0d\u60f3\u4e0d\u5c0f\u5fc3\u628a\u5b83\u5f04\u574f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tall Glass Display"
-    "value": "toBeTranslate"
+    "value": "\u9ad8\u7684\u73bb\u7483\u5c55\u793a"
   }
 ]

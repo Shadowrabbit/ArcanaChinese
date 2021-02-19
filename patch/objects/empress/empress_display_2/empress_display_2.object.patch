@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A glassed display of a diamond ring."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u94bb\u77f3\u6212\u6307\u7684\u73bb\u7483\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ring Display"
-    "value": "toBeTranslate"
+    "value": "\u6212\u6307\u5c55\u793a"
   }
 ]

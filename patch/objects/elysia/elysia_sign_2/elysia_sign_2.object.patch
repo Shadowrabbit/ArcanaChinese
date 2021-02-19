@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A green teleporter wall sign."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7eff\u8272\u7684\u4f20\u9001\u5668\u5899\u58c1\u6807\u5fd7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Elysia Teleporter Sign"
-    "value": "toBeTranslate"
+    "value": "\u0045\u006c\u0079\u0073\u0069\u0061\u4f20\u9001\u5668\u6807\u5fd7"
   }
 ]

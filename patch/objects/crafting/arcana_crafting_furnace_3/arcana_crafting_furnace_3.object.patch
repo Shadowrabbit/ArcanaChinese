@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A modern smelter, used to produce high tier materials."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u73b0\u4ee3\u5316\u7684\u51b6\u70bc\u5382\uff0c\u7528\u6765\u751f\u4ea7\u9ad8\u7ea7\u6750\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Smelter"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u51b6\u70bc\u5382"
   }
 ]

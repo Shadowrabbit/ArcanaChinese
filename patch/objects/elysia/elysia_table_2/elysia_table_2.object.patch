@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A sleek resort desk."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u65f6\u9ae6\u7684\u5ea6\u5047\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Resort Desk"
-    "value": "toBeTranslate"
+    "value": "\u5ea6\u5047\u684c"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A drawer with a sandstone surface."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6c99\u77f3\u8868\u9762\u7684\u62bd\u5c49"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Drawer"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u62bd\u5c49"
   }
 ]

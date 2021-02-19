@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A green resort couch, comfortable and relaxing to rest on."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7eff\u8272\u5ea6\u5047\u7761\u6905\uff0c\u8eba\u5728\u4e0a\u9762\u65e2\u8212\u670d\u53c8\u653e\u677e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Elysia Couch"
-    "value": "toBeTranslate"
+    "value": "\u0045\u006c\u0079\u0073\u0069\u0061\u7761\u6905"
   }
 ]

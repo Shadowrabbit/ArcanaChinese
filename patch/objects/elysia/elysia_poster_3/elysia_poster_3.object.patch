@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large poster of the tropical resort Elysia."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u7684\u70ed\u5e26\u5ea6\u5047\u80dc\u5730\u0045\u006c\u0079\u0073\u0069\u0061\u7684\u6d77\u62a5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Elysia Large Advertisement"
-    "value": "toBeTranslate"
+    "value": "\u0045\u006c\u0079\u0073\u0069\u0061\u5e7f\u544a"
   }
 ]

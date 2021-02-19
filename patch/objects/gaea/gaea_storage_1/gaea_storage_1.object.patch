@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An ancient chest fused with spirits of the verdant earth."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u53e4\u8001\u7684\u7bb1\u5b50\uff0c\u878d\u5408\u4e86\u9752\u7fe0\u5927\u5730\u7684\u7075\u9b42"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Florastone Chest"
-    "value": "toBeTranslate"
+    "value": "\u7ed8\u82b1\u77f3\u7bb1\u5b50"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An anvil infused with arcane magic."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5145\u6ee1\u963f\u5361\u7eb3\u9b54\u6cd5\u7684\u94c1\u7827"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanium Anvil"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u94c1\u7827"
   }
 ]

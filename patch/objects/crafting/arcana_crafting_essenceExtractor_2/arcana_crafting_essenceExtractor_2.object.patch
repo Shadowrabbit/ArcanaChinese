@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An arcanium-reinforced essence extractor."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u963f\u5361\u7eb3\u52a0\u56fa\u8fc7\u7684\u7cbe\u534e\u63d0\u53d6\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanium Essence Extractor"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u7cbe\u534e\u63d0\u53d6\u5668"
   }
 ]

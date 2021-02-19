@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A black and gold counter, gives off an opulent feel."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u91d1\u8272\u7684\u67dc\u53f0\uff0c\u7ed9\u4eba\u4e00\u79cd\u534e\u4e3d\u7684\u611f\u89c9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Counter"
-    "value": "toBeTranslate"
+    "value": "\u5973\u7687\u67dc\u53f0"
   }
 ]

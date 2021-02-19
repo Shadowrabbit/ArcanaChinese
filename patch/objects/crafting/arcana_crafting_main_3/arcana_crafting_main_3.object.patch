@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A modern crafting table, lets you craft various useful Orion inventions."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u73b0\u4ee3\u5316\u7684\u5236\u4f5c\u684c\uff0c\u53ef\u4ee5\u8ba9\u4f60\u5236\u4f5c\u5404\u79cd\u6709\u7528\u7684\u730e\u6237\u5ea7\u53d1\u660e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cyberneticist's Table"
-    "value": "toBeTranslate"
+    "value": "\u63a7\u5236\u8bba\u5b66\u8005\u7684\u684c\u5b50"
   }
 ]

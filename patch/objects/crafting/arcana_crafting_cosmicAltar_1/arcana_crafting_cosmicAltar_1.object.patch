@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An altar used to craft some rather suspicious items..."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u6765\u5236\u4f5c\u4e00\u4e9b\u53ef\u7591\u7269\u54c1\u7684\u796d\u575b\u2026\u2026"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cosmic Altar"
-    "value": "toBeTranslate"
+    "value": "\u5b87\u5b99\u796d\u575b"
   }
 ]

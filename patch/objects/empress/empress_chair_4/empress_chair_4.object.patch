@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A fancy boutique counter."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6f02\u4eae\u7684\u7cbe\u54c1\u67dc\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Empress Counter"
-    "value": "toBeTranslate"
+    "value": "\u5973\u7687\u67dc\u53f0"
   }
 ]

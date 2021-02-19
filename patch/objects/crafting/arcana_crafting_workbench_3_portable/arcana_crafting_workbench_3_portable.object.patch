@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A portable version of the Orion workstation."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u4fbf\u643a\u5f0f\u7684\u730e\u6237\u5ea7\u5de5\u4f5c\u7ad9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Portable Workstation"
-    "value": "toBeTranslate"
+    "value": "\u4fbf\u643a\u5f0f\u5de5\u4f5c\u7ad9"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small candle made from arcanium."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u7684\u963f\u5361\u7eb3\u5236\u6210\u7684\u8721\u70db"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Candle"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u8721\u70db"
   }
 ]

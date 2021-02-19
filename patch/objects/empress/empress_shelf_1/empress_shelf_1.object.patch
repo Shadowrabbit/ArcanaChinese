@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall shelf with a gold surface."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u8868\u9762\u7684\u5899\u58c1\u67b6\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Luxurious Wall Shelf"
-    "value": "toBeTranslate"
+    "value": "\u5962\u534e\u7684\u5899\u58c1\u67b6"
   }
 ]

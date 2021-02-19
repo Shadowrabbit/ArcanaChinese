@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative sandstone stand filled with plants."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5145\u6ee1\u690d\u7269\u7684\u88c5\u9970\u6027\u6c99\u77f3\u67b6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Plant Stand"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u690d\u7269\u67b6"
   }
 ]

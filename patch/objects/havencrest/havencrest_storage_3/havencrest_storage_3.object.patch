@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large container made from sandstone."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7684\u6c99\u77f3\u5236\u4f5c\u7684\u5bb9\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scholar's Box"
-    "value": "toBeTranslate"
+    "value": "\u5b66\u8005\u7684\u7bb1\u5b50"
   }
 ]

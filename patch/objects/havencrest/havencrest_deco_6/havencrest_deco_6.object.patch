@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative structure."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7ed3\u6784"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tall Oasis Structure"
-    "value": "toBeTranslate"
+    "value": "\u9ad8\u7684\u7eff\u6d32\u7ed3\u6784"
   }
 ]

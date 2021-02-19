@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A resort cabinet."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5ea6\u5047\u67dc\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Resort Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u5ea6\u5047\u67dc\u5b50"
   }
 ]

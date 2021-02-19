@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large sandstone table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7684\u6c99\u77f3\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Oasis Table"
-    "value": "toBeTranslate"
+    "value": "\u5927\u53f7\u7684\u7eff\u6d32\u684c\u5b50"
   }
 ]

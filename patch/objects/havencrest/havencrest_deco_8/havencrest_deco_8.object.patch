@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A roof support."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c4b\u9876\u652f\u6491"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Support"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u652f\u6491"
   }
 ]

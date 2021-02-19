@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large sandstone table, suited for a knowledgeable scholar."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7684\u6c99\u77f3\u684c\uff0c\u9002\u5408\u77e5\u8bc6\u6e0a\u535a\u7684\u5b66\u8005"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Scholar's Table"
-    "value": "toBeTranslate"
+    "value": "\u5b66\u8005\u7684\u684c\u5b50"
   }
 ]

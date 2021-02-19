@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A decorative sandstone support structure, powered by an arcane crystal."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u88c5\u9970\u6027\u7684\u6c99\u77f3\u652f\u6491\u7ed3\u6784\uff0c\u7531\u963f\u5361\u7eb3\u6676\u4f53\u63d0\u4f9b\u80fd\u91cf"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Oasis Support Structure"
-    "value": "toBeTranslate"
+    "value": "\u7eff\u6d32\u652f\u6491\u7ed3\u6784"
   }
 ]

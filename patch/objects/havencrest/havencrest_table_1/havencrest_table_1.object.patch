@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A floating sandstone table powered by an arcane crystal."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7531\u963f\u5361\u7eb3\u6c34\u6676\u9a71\u52a8\u7684\u6d6e\u52a8\u6c99\u77f3\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Floating Oasis Table"
-    "value": "toBeTranslate"
+    "value": "\u6d6e\u52a8\u7eff\u6d32\u684c"
   }
 ]

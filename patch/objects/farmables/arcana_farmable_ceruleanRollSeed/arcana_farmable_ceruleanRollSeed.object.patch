@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A roll that grows on plants? Sweet!"
-    "value": "toBeTranslate"
+    "value": "\u5728\u690d\u7269\u4e0a\u751f\u957f\u7684\u9762\u5305\u5377\uff1f\u751c\uff01"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Cerulean Roll Seed"
-    "value": "toBeTranslate"
+    "value": "\u5929\u9752\u5377\u79cd\u5b50"
   }
 ]

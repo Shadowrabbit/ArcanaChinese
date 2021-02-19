@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A gold-framed mirror."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u6846\u955c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Golden Mirror"
-    "value": "toBeTranslate"
+    "value": "\u91d1\u5236\u955c\u5b50"
   }
 ]

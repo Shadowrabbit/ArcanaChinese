@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A table that allows you to craft various useful arcane inventions."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5f20\u684c\u5b50\uff0c\u80fd\u8ba9\u4f60\u521b\u9020\u5404\u79cd\u6709\u7528\u7684\u963f\u5361\u7eb3\u53d1\u660e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Magician's Table"
-    "value": "toBeTranslate"
+    "value": "\u9b54\u672f\u5e08\u7684\u684c\u5b50"
   }
 ]

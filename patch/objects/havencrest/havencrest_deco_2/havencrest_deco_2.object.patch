@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tiny sandstone plant box."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5fae\u578b\u6c99\u77f3\u79cd\u690d\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tiny Oasis Plant Box"
-    "value": "toBeTranslate"
+    "value": "\u5fae\u578b\u7eff\u6d32\u79cd\u690d\u7bb1"
   }
 ]

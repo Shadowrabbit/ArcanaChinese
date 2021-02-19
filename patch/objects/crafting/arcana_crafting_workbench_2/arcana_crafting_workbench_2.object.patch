@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A magic infused workbench, allows you to create furniture and materials."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5145\u6ee1\u9b54\u529b\u7684\u5de5\u4f5c\u53f0\uff0c\u53ef\u4ee5\u8ba9\u4f60\u521b\u9020\u5bb6\u5177\u548c\u6750\u6599"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Arcanium Workstation"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u5de5\u4f5c\u7ad9"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large golden wall clock. Appears to be purely decorative, its hour hand is permanently pointing at 3."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u7684\u91d1\u8272\u6302\u949f\u3002\u770b\u8d77\u6765\u7eaf\u7cb9\u662f\u88c5\u9970\u6027\u7684\uff0c\u5b83\u7684\u65f6\u9488\u6c38\u4e45\u6307\u5411\u0033"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Golden Clock"
-    "value": "toBeTranslate"
+    "value": "\u91d1\u6302\u949f"
   }
 ]
