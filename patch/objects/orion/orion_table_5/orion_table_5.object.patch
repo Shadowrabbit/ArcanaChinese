@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large white table. Looks high tech."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u770b\u8d77\u6765\u9ad8\u79d1\u6280\u7684\u5927\u53f7\u767d\u8272\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Tech Table"
-    "value": "toBeTranslate"
+    "value": "\u5927\u53f7\u79d1\u6280\u684c"
   }
 ]

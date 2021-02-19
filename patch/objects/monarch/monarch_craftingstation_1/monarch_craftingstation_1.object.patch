@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A crafting station for the Monarch Palace."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7edf\u6cbb\u8005\u5bab\u6bbf\u7528\u7684\u5de5\u4f5c\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Monarch Crafting Bench"
-    "value": "toBeTranslate"
+    "value": "\u7edf\u6cbb\u8005\u5de5\u4f5c\u53f0\u957f\u6905"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall hydroponic containing some sort of plants."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u542b\u6709\u67d0\u79cd\u690d\u7269\u7684\u5899\u5f0f\u6c34\u57f9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wall Decorative Hydroponic"
-    "value": "toBeTranslate"
+    "value": "\u5899\u58c1\u88c5\u9970\u6027\u6c34\u57f9"
   }
 ]

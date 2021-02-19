@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display model of a vehicle."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u8f86\u6c7d\u8f66\u7684\u5c55\u793a\u6a21\u578b"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Model, Scouter"
-    "value": "toBeTranslate"
+    "value": "\u6a21\u578b\uff0c\u4fa6\u5bdf\u8005"
   }
 ]

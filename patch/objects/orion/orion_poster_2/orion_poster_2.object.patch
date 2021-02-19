@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A poster."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d77\u62a5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Infinity Express Poster"
-    "value": "toBeTranslate"
+    "value": "\u300c\u65e0\u9650\u5feb\u8f66\u300d\u6d77\u62a5"
   }
 ]

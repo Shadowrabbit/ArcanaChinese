@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A giant statue."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5de8\u5927\u7684\u96d5\u50cf"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palatial Statue"
-    "value": "toBeTranslate"
+    "value": "\u5bab\u6bbf\u96d5\u50cf"
   }
 ]

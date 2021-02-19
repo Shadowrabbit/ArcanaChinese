@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large door."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u95e8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Necroium Door"
-    "value": "toBeTranslate"
+    "value": "\u5927\u53f7\u6b7b\u7075\u95e8"
   }
 ]

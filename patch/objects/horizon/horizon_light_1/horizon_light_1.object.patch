@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A purple light."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7d2b\u8272\u7684\u706f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Purple Ceiling Light"
-    "value": "toBeTranslate"
+    "value": "\u7d2b\u8272\u7684\u5929\u82b1\u677f\u706f"
   }
 ]

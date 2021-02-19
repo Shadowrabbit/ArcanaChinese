@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A giant black and white cube display."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5de8\u5927\u7684\u9ed1\u767d\u7acb\u65b9\u4f53\u663e\u793a\u5c4f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Giant Abstract Cube"
-    "value": "toBeTranslate"
+    "value": "\u5de8\u5927\u62bd\u8c61\u6d3e\u7acb\u65b9\u4f53"
   }
 ]

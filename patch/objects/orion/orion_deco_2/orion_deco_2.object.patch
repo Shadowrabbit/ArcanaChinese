@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display of a modern tablet device."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u73b0\u4ee3\u5e73\u677f\u7535\u8111\u8bbe\u5907\u7684\u663e\u793a\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tablet Display"
-    "value": "toBeTranslate"
+    "value": "\u5e73\u677f\u7535\u8111\u663e\u793a\u5668"
   }
 ]

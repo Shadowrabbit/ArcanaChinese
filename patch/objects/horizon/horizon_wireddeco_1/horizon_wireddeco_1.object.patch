@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A monitor, utilized by the fleets of the Horizon."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u76d1\u89c6\u5668\uff0c\u5730\u5e73\u7ebf\u8230\u961f\u4f7f\u7528\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Standing Monitor"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u7ad9\u7acb\u5f0f\u76d1\u89c6\u5668"
   }
 ]

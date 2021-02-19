@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A poster."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d77\u62a5"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Weapon Poster"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u6b66\u5668\u6d77\u62a5"
   }
 ]

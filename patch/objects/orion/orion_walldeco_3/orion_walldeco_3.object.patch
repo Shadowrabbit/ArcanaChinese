@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall hydroponic container, currently empty."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5899\u58c1\u6c34\u57f9\u7bb1\uff0c\u73b0\u5728\u662f\u7a7a\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Wall Empty Hydroponic"
-    "value": "toBeTranslate"
+    "value": "\u5899\u58c1\u7a7a\u7684\u6c34\u57f9"
   }
 ]

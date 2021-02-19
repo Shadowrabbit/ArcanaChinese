@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A high tech looking bookcase."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ad8\u7684\u79d1\u6280\u611f\u4e66\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Tech Bookcase"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u79d1\u6280\u4e66\u67dc"
   }
 ]

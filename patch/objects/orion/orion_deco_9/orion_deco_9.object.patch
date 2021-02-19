@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display platform."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c55\u793a\u5e73\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Display Platform"
-    "value": "toBeTranslate"
+    "value": "\u5c55\u793a\u5e73\u53f0"
   }
 ]

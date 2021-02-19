@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A desk."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u4e66\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Desk"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u4e66\u684c"
   }
 ]

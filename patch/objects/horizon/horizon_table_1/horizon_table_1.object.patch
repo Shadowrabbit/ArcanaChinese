@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark pedestal."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6df1\u8272\u57fa\u5ea7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Pedestal"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u57fa\u5ea7"
   }
 ]

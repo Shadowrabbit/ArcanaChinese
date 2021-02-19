@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display model of a combat mech."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6218\u6597\u673a\u68b0\u7684\u5c55\u793a\u6a21\u578b"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Model, Vanguard"
-    "value": "toBeTranslate"
+    "value": "\u6a21\u578b\uff0c\u5148\u950b\u961f"
   }
 ]

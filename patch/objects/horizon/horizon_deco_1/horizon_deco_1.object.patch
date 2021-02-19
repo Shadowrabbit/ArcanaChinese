@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A barricade."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u8def\u969c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Barricade"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u8def\u969c"
   }
 ]

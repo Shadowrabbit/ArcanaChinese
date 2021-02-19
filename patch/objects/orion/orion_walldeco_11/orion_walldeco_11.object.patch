@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A neon sign."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9713\u8679\u6807\u5fd7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Neon City Sign"
-    "value": "toBeTranslate"
+    "value": "\u9713\u8679\u57ce\u5e02\u6807\u5fd7"
   }
 ]

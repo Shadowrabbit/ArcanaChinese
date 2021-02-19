@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small blue lighting device."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u7684\u84dd\u8272\u706f\u5149\u8bbe\u5907"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Small Machinery LED"
-    "value": "toBeTranslate"
+    "value": "\u5c0f\u53f7\u673a\u68b0\u004c\u0045\u0044"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A heavy stone gate."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91cd\u578b\u77f3\u5934\u95e8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Stone Gate"
-    "value": "toBeTranslate"
+    "value": "\u5bab\u6bbf\u77f3\u5934\u95e8"
   }
 ]

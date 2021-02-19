@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An electronic display."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7535\u5b50\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Display"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u5c55\u793a"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large, sinister looking pod."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7684\u4e0d\u8be6\u5206\u79bb\u8231"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Mysterious Pod"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u795e\u79d8\u5206\u79bb\u8231"
   }
 ]

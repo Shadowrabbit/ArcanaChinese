@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small cabinet with a white metal surface."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u767d\u8272\u91d1\u5c5e\u8868\u9762\u7684\u5c0f\u53f7\u67dc\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Mini Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u8ff7\u4f60\u67dc\u5b50"
   }
 ]

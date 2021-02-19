@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small, metal crate for storing items."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5b58\u653e\u7269\u54c1\u7684\u5c0f\u53f7\u91d1\u5c5e\u5206\u683c\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Small Galvanic Crate"
-    "value": "toBeTranslate"
+    "value": "\u5c0f\u53f7\u7535\u529b\u5206\u683c\u7bb1"
   }
 ]

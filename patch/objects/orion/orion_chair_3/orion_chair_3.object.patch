@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white, sleek high chair."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u767d\u8272\u7684\u65f6\u9ae6\u9ad8\u6905"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Tech Chair"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u79d1\u6280\u6905"
   }
 ]

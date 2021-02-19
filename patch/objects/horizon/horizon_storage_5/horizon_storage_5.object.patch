@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A wall locker."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5899\u58c1\u5bc4\u5b58\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Locker"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u5bc4\u5b58\u67dc"
   }
 ]

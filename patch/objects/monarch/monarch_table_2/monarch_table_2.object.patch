@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pale stone palace table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u82cd\u767d\u7684\u77f3\u5934\u5bab\u6bbf\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Table"
-    "value": "toBeTranslate"
+    "value": "\u5bab\u6bbf\u684c\u5b50"
   }
 ]

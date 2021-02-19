@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A black and white bookcase."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u767d\u76f8\u95f4\u7684\u4e66\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Monarch Bookcase"
-    "value": "toBeTranslate"
+    "value": "\u7edf\u6cbb\u8005\u4e66\u67dc"
   }
 ]

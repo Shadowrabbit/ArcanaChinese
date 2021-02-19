@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A tall server storage."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ad8\u7684\u670d\u52a1\u5668\u5b58\u50a8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Tall Server"
-    "value": "toBeTranslate"
+    "value": "\u9ad8\u670d\u52a1\u5668"
   }
 ]

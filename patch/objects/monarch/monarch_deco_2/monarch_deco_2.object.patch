@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A hanging stone decoration."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u60ac\u6302\u7684\u77f3\u5934\u88c5\u9970"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Hanging Stone Deco"
-    "value": "toBeTranslate"
+    "value": "\u60ac\u6302\u77f3\u5934\u88c5\u9970"
   }
 ]

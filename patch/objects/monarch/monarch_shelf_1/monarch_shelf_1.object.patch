@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A stone palace wall shelf."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u77f3\u5934\u5bab\u6bbf\u5899\u4e66\u67b6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Palace Shelf"
-    "value": "toBeTranslate"
+    "value": "\u5bab\u6bbf\u4e66\u67b6"
   }
 ]

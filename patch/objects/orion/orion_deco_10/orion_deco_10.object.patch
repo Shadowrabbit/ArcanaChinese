@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An obsidian statue."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9ed1\u66dc\u77f3\u96d5\u50cf"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Statue, Shinobi"
-    "value": "toBeTranslate"
+    "value": "\u5fcd\u8005\u96d5\u50cf"
   }
 ]

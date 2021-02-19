@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pretty amber blossom tree."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u68f5\u6f02\u4eae\u7684\u7425\u73c0\u82b1\u6811"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Amber Blossom Tree"
-    "value": "toBeTranslate"
+    "value": "\u7425\u73c0\u82b1\u6811"
   }
 ]

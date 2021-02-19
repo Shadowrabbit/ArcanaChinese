@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A hydroponic unit for growing plants."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7528\u4e8e\u79cd\u690d\u7269\u7684\u6c34\u57f9"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Decorative Hydroponics"
-    "value": "toBeTranslate"
+    "value": "\u88c5\u9970\u6c34\u57f9"
   }
 ]

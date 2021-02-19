@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A purple life support pod."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u7d2b\u8272\u7684\u6551\u751f\u8231"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Purple LSP"
-    "value": "toBeTranslate"
+    "value": "\u7d2b\u8272\u6551\u751f\u8231"
   }
 ]

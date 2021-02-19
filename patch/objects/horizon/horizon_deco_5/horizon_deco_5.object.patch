@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A floating, powered platform."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6d6e\u52a8\u7684\u52a8\u529b\u5e73\u53f0"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Floating Platform"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u6d6e\u52a8\u5e73\u53f0"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal support."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u5c5e\u652f\u6491"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Support"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u652f\u6491"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A monochromatic plant pot."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5355\u8272\u7684\u690d\u7269\u76c6\u683d"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Monarch Plant Pot"
-    "value": "toBeTranslate"
+    "value": "\u7edf\u6cbb\u8005\u690d\u7269\u76c6\u683d"
   }
 ]

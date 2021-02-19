@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A bright wall light."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u660e\u4eae\u7684\u5899\u706f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Bright Wall Light"
-    "value": "toBeTranslate"
+    "value": "\u660e\u4eae\u7684\u5899\u706f"
   }
 ]

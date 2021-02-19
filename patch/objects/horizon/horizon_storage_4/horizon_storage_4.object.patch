@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal cabinet."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91d1\u5c5e\u67dc"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Cabinet"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u67dc\u5b50"
   }
 ]

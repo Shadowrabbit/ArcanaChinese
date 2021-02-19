@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A neon display sign."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9713\u8679\u5c55\u793a\u6807\u5fd7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Neon Display Sign"
-    "value": "toBeTranslate"
+    "value": "\u9713\u8679\u5c55\u793a\u6807\u5fd7"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"An orion monitor displaying a bunch of statistics."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c55\u793a\u5404\u79cd\u6570\u636e\u7684\u730e\u6237\u5ea7\u76d1\u6d4b\u5668"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Monitor"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u76d1\u6d4b\u5668"
   }
 ]

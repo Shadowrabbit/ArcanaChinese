@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A monochromatic plant box."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5355\u8272\u7684\u79cd\u690d\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Luminous Wall Plant Box"
-    "value": "toBeTranslate"
+    "value": "\u591c\u5149\u5899\u4e0a\u79cd\u690d\u7bb1"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A small geometrical table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5c0f\u53f7\u51e0\u4f55\u5f62\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Small Geo Table"
-    "value": "toBeTranslate"
+    "value": "\u5c0f\u53f7\u51e0\u4f55\u684c"
   }
 ]

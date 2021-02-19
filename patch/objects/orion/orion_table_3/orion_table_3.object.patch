@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white metal table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u767d\u8272\u91d1\u5c5e\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Standard Orion Table"
-    "value": "toBeTranslate"
+    "value": "\u89c4\u8303\u7684\u730e\u6237\u5ea7\u684c\u5b50"
   }
 ]

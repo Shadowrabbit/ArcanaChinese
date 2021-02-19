@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark chair with a purple seat."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5e26\u7d2b\u8272\u5750\u57ab\u7684\u6df1\u8272\u6905\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Ebonark Chair"
-    "value": "toBeTranslate"
+    "value": "\u9ed1\u6a80\u6728\u6905\u5b50"
   }
 ]

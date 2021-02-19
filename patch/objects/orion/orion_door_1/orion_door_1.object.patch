@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large durable door."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u7684\u8010\u4e45\u95e8"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Reinforced Orion Door"
-    "value": "toBeTranslate"
+    "value": "\u52a0\u56fa\u7684\u730e\u6237\u5ea7\u95e8"
   }
 ]

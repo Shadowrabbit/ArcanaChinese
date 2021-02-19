@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A metal planter pot for growing plants."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u79cd\u690d\u690d\u7269\u7684\u91d1\u5c5e\u82b1\u76c6"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Metal Planter Pot"
-    "value": "toBeTranslate"
+    "value": "\u91d1\u5c5e\u79cd\u690d\u76c6"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large, sleek closet."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u65f6\u9ae6\u58c1\u6a71"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Orion Closet"
-    "value": "toBeTranslate"
+    "value": "\u730e\u6237\u5ea7\u58c1\u6a71"
   }
 ]

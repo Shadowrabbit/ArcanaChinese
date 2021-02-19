@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large monitor display."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u76d1\u6d4b\u5668\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Large Orion Monitor"
-    "value": "toBeTranslate"
+    "value": "\u5927\u53f7\u730e\u6237\u5ea7\u76d1\u6d4b\u5668"
   }
 ]

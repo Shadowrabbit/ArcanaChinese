@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A LED open sign."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u004c\u0045\u0044\u6253\u5f00\u6807\u5fd7"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Open Sign"
-    "value": "toBeTranslate"
+    "value": "\u6253\u5f00\u6807\u5fd7"
   }
 ]

@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark table."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u6df1\u8272\u684c\u5b50"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Table"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u684c\u5b50"
   }
 ]

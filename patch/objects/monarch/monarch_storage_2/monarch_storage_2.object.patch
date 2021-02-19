@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A white palace desk."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u767d\u8272\u7684\u5bab\u6bbf\u4e66\u684c"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Monarch Desk"
-    "value": "toBeTranslate"
+    "value": "\u7edf\u6cbb\u8005\u4e66\u684c"
   }
 ]

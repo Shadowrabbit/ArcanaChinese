@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A large Horizon crate."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5927\u53f7\u5730\u5e73\u7ebf\u5206\u683c\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Horizon Crate L"
-    "value": "toBeTranslate"
+    "value": "\u5730\u5e73\u7ebf\u5206\u683c\u7bb1\u004c"
   }
 ]

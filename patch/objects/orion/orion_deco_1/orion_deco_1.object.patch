@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A display of a tech gadget."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u79d1\u6280\u914d\u4ef6\u5c55\u793a"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gadget Display"
-    "value": "toBeTranslate"
+    "value": "\u914d\u4ef6\u5c55\u793a"
   }
 ]
