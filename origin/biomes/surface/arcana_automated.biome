@@ -188,10 +188,10 @@
         "mode" : "floor",
         "priority" : 1,
         "variants" : 1,
-        "distribution" : "/biomes/distributions.config:mainBiomeMicrodungeon",
+        "distribution" : "/biomes/distributions.config:uncommon",
 
         "type" : "microdungeon",
-        "microdungeons" : [ "arcana_desolate_dungeon_1" ]
+        "microdungeons" : [ "arcana_workshop_dungeon_2" ]
       },
       {
         "mode" : "floor",

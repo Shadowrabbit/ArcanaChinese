@@ -15,7 +15,7 @@
     "variants" : 5,
     "lightTransparent" : false,
     "occludesBelow" : true,
-    "multiColored" : false,
+    "multiColored" : true,
     "zLevel" : 1312,
     "radiantLight" : [30, 60, 90]
   }

@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"The strongest steel. Can be used to craft Steelblades weapons & armor.",
-    "value": "\u6700\u575a\u56fa\u7684\u94a2\u94c1\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u9020\u300a\u94a2\u5203\u300b\u519b\u961f\u7684\u6b66\u5668\u548c\u76d4\u7532"
+    "value": "\u6700\u575a\u56fa\u7684\u94a2\u94c1\uff0c\u53ef\u4ee5\u7528\u6765\u5236\u9020\u300c\u94a2\u5203\u300d\u519b\u961f\u7684\u6b66\u5668\u548c\u76d4\u7532"
   },
   {
     "op": "replace",

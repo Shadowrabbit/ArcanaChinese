@@ -28,7 +28,7 @@
     {
       "levelFunction" : "manipulatorArmorLevelMaxEnergyMultiplier",
       "stat" : "maxEnergy",
-      "amount" : 4
+      "amount" : 6
     },
     {
       "levelFunction" : "manipulatorArmorLevelMaxHealthMultiplier",

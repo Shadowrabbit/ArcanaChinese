@@ -1,8 +1,9 @@
 {
-  "version" : "0.3.05",
   "author" : "Shadowrabbit,Kiki33",
-  "description" : "none",
+  "description" : "本mod对作者✧ S V Λ ° ✦的“Arcana”进行汉化，主要涉及物体、物体、种族、科技、文献等。\n\n本mod不含本体，需要订阅原mod。原mod地址如下：\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=2359135864\n本mod不含字体，推荐订阅本体星核汉化，并下载字体文件\nhttps://steamcommunity.com/sharedfiles/filedetails/?id=807695810\n\n项目地址：https://github.com/Shadowrabbit/ArcanaChinese\n欢迎用爱发电",
+  "friendlyName" : "[SR]Arcana汉化补丁",
   "name" : "ArcanaChinese",
   "priority" : 9000,
-  "friendlyName" : "ArcanaChinese"
+  "tags" : "User Interface",
+  "version" : "0.3.05"
 }

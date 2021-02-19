@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"Bringer of the radiant light and the colorless void.",
-    "value": "\u300a\u7070\u8272\u5149\u8f89\u300b\u548c\u300a\u65e0\u8272\u300b\u7684\u4f7f\u8005"
+    "value": "\u300c\u7070\u8272\u5149\u8f89\u300d\u548c\u300c\u65e0\u8272\u300d\u7684\u4f7f\u8005"
   },
   {
     "op": "replace",

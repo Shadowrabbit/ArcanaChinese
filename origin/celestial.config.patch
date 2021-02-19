@@ -348,7 +348,7 @@
 				"description" : "Superstorm Planet",
 				"smallImage" : "/celestial/system/planet_small.png",
 
-				"terrestrialType" : [ "arcana_superstormExpanse", "arcana_stahlernBadlands", "arcana_timeless", "arcana_neonSea"]
+				"terrestrialType" : [ "arcana_superstormExpanse", "arcana_stahlernBadlands", "arcana_timeless", "arcana_neonSea", "arcana_automated"]
 			  },
 
 			  "variationParameters" : [

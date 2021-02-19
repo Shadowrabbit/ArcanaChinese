@@ -14,7 +14,7 @@
   "orientations" : [
     {
       "dualImage" : "workshop_deco_3.png:<color>",
-      "imagePosition" : [-8, 0],
+      "imagePosition" : [-32, 0],
       "frames" : 1,
       "animationCycle" : 0.5,
 

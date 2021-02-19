@@ -20,6 +20,11 @@
     "buyFactor" : 4.0,
     "sellFactor" : 0.2,
     "items" : [
+	  { "item" : "arcana_codex_workshop_1-codex" },
+	  { "item" : "arcana_codex_workshop_2-codex" },
+	  { "item" : "arcana_codex_workshop_3-codex" },
+	  { "item" : "arcana_codex_misc_1-codex" },
+	  { "item" : "arcana_codex_misc_2-codex" },
 	  { "item" : "arcana_codex_aeon_1-codex" },
 	  { "item" : "arcana_codex_aeon_2-codex" },
 	  { "item" : "arcana_codex_horizon_1-codex" },

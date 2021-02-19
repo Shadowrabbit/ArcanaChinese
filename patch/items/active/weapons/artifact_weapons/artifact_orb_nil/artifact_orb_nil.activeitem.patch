@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A device extracting power from a fragment of the Zero Mirror.",
-    "value": "\u4e00\u79cd\u53ef\u4ee5\u4ece\u300a\u96f6\u955c\u300b\u788e\u7247\u4e2d\u63d0\u53d6\u80fd\u91cf\u7684\u88c5\u7f6e"
+    "value": "\u4e00\u79cd\u53ef\u4ee5\u4ece\u300c\u96f6\u955c\u300d\u788e\u7247\u4e2d\u63d0\u53d6\u80fd\u91cf\u7684\u88c5\u7f6e"
   },
   {
     "op": "replace",

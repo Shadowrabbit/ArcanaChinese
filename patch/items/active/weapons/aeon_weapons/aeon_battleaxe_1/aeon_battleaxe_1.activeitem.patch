@@ -3,7 +3,7 @@
     "op": "replace",
     "path": "/description",
     //"A battleaxe created with the timeless aeons.",
-    "value": "\u4e00\u628a\u7528\u6c38\u6052\u7684\u300a\u6c38\u300b\u5236\u9020\u7684\u6218\u65a7"
+    "value": "\u4e00\u628a\u7528\u6c38\u6052\u7684\u300c\u6c38\u300d\u5236\u9020\u7684\u6218\u65a7"
   },
   {
     "op": "replace",

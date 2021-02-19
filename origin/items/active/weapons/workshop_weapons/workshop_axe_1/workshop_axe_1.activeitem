@@ -13,10 +13,10 @@
 
   "inventoryIcon" : "icon.png",
 
-  "animation" : "/items/active/weapons/melee/axe/solar_axe_1.animation",
+  "animation" : "/items/active/weapons/melee/axe/workshop_axe_1.animation",
   "animationParts" : {
     "blade" : "workshop_axe_1.png",
-    "handle" : ""
+    "handle" : "fullbright.png"
   },
   "animationCustom" : {
     "sounds" : {

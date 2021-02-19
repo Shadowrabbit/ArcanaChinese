@@ -1,7 +1,7 @@
 {
   "input" : [
-    { "item" : "workshop_crafting_dustriumPlate", "count" : 8 },
-	{ "item" : "workshop_crafting_dustriumPanel", "count" : 8 },
+    { "item" : "workshop_crafting_dustriumPlate", "count" : 4 },
+	{ "item" : "workshop_crafting_dustriumPanel", "count" : 4 },
 	{ "item" : "orion_crafting_enhancedBattery", "count" : 1 }
   ],
   "output" : { "item" : "workshop_axe_1", "count" : 1 },

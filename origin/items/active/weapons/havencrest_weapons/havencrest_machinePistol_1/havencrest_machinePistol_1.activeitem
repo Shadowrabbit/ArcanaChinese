@@ -56,7 +56,7 @@
       "idle" : {
         "armRotation" : 0,
         "weaponRotation" : 0,
-        "twoHanded" : true,
+        "twoHanded" : false,
 
         "allowRotate" : true,
         "allowFlip" : true
@@ -65,7 +65,7 @@
         "duration" : 0,
         "armRotation" : 8,
         "weaponRotation" : 8,
-        "twoHanded" : true,
+        "twoHanded" : false,
 
         "allowRotate" : false,
         "allowFlip" : false
@@ -74,7 +74,7 @@
         "duration" : 0.04,
         "armRotation" : 8,
         "weaponRotation" : 8,
-        "twoHanded" : true,
+        "twoHanded" : false,
 
         "allowRotate" : false,
         "allowFlip" : false
