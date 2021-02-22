@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pistol, crafted from Dustrium."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u675c\u65af\u7279\u9c81\u59c6\u5236\u4f5c\u7684\u624b\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Pistol"
-    "value": "toBeTranslate"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u624b\u67aa"
   }
 ]

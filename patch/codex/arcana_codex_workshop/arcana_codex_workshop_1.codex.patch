@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/contentPages/0",
     //"The Workshop is hosted by a group of talented engineers and specialized in mass producing combat machinery. Many planets occupied by the Workshop have turned into the Automated, or planets that are composed entirely of metal and machine parts. While they the Workshop supplies many galactic companies with their goods, direct interaction with the workers of the Workshop is discouraged as they are highly hostile to outsiders."
-    "value": "toBeTranslate"
+    "value": "\u8be5\u8f66\u95f4\u7531\u4e00\u7fa4\u6709\u624d\u534e\u7684\u5de5\u7a0b\u5e08\u4e3b\u6301\uff0c\u4ed6\u4eec\u4e13\u95e8\u4ece\u4e8b\u6279\u91cf\u751f\u4ea7\u6218\u6597\u673a\u68b0\u3002\u8bb8\u591a\u88ab\u8f66\u95f4\u5360\u9886\u7684\u884c\u661f\u5df2\u7ecf\u53d8\u6210\u4e86\u81ea\u52a8\u884c\u661f\uff0c\u6216\u8005\u8bf4\u662f\u53d8\u6210\u5b8c\u5168\u7531\u91d1\u5c5e\u548c\u673a\u5668\u90e8\u4ef6\u7ec4\u6210\u7684\u884c\u661f\u3002\u867d\u7136\u8f66\u95f4\u4e3a\u8bb8\u591a\u661f\u7cfb\u7684\u516c\u53f8\u63d0\u4f9b\u8d27\u7269\uff0c\u4f46\u4e0d\u9f13\u52b1\u4e0e\u8f66\u95f4\u5de5\u4eba\u76f4\u63a5\u4e92\u52a8\uff0c\u56e0\u4e3a\u4ed6\u4eec\u5bf9\u5916\u4eba\u6781\u4e3a\u654c\u89c6\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     // "A piece of Workshop of Gears document."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4efd\u5173\u4e8e\u9f7f\u8f6e\u8f66\u95f4\u7684\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"The Workshop"
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4"
   }
 ]

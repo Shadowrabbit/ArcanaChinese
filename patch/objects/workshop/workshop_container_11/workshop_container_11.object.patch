@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"The essence of the turning wheel of Machina.",
-    "value": "toBeTranslate"
+    "value": "\u9a6c\u9f50\u7eb3\u8f6c\u8f6e\u7684\u7cbe\u534e"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Machina Essence",
-    "value": "toBeTranslate"
+    "value": "\u9a6c\u9f50\u7eb3\u7cbe\u534e"
   }
 ]

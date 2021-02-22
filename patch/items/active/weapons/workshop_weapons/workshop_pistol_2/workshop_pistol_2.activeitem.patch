@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A pistol utilized by Section 8 of the Workshop of Gears."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9f7f\u8f6e\u8f66\u95f4\u7b2c\u0038\u90e8\u5206\u4f7f\u7528\u7684\u624b\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8 Pistol"
-    "value": "toBeTranslate"
+    "value": "\u0047\u0053\u0038\u624b\u67aa"
   }
 ]

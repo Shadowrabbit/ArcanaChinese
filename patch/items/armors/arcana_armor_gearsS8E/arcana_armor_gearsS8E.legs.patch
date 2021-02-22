@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A piece of leggings."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u5bf9\u62a4\u817f"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8E Leggings",
-    "value": "toBeTranslate"
+    "value": "\u0047\u0053\u0038\u0045\u62a4\u817f"
   }
 ]

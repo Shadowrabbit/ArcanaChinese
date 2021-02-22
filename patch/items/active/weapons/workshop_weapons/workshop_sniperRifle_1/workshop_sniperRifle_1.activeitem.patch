@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A dark rifle made from Dustrium."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u652f\u7531\u675c\u65af\u7279\u9c81\u59c6\u5236\u6210\u7684\u6df1\u8272\u6b65\u67aa"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Sniper Rifle"
-    "value": "toBeTranslate"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u72d9\u51fb\u6b65\u67aa"
   }
 ]

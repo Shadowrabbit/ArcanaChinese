@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A chestplate."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u80f8\u7532"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8E Chestplate",
-    "value": "toBeTranslate"
+    "value": "\u0047\u0053\u0038\u0045\u80f8\u7532"
   }
 ]

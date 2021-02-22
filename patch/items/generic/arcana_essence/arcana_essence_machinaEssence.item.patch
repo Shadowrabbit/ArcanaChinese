@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A giant metal crate with an orange frame.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5e26\u6a58\u8272\u6846\u67b6\u7684\u5de8\u578b\u91d1\u5c5e\u5206\u683c\u7bb1"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"XXL Engineer's Crate",
-    "value": "toBeTranslate"
+    "value": "\u0058\u0058\u004c\u5de5\u7a0b\u5e08\u7684\u5206\u683c\u7bb1"
   }
 ]

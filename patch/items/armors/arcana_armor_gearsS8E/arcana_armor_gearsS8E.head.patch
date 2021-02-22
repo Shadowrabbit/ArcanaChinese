@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A heavy armor.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u91cd\u578b\u5934\u76d4"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8E Helmet",
-    "value": "toBeTranslate"
+    "value": "\u0047\u0053\u0038\u0045\u5934\u76d4"
   }
 ]

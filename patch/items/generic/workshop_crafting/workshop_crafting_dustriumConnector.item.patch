@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A mechinary part, crafted from Dustrium.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u673a\u68b0\u90e8\u5206\uff0c\u7531\u675c\u65af\u7279\u9c81\u59c6\u5236\u4f5c\u7684"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Dustrium Connector",
-    "value": "toBeTranslate"
+    "value": "\u675c\u65af\u7279\u9c81\u59c6\u8fde\u63a5\u5668"
   }
 ]

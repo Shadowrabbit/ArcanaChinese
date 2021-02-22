@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"These cosy beds can stack on top of each other.",
-    "value": "toBeTranslate"
+    "value": "\u8fd9\u4e9b\u8212\u9002\u7684\u5e8a\u53ef\u4ee5\u5806\u53e0\u5728\u4e00\u8d77"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Workshop Bunk Bed",
-    "value": "toBeTranslate"
+    "value": "\u8f66\u95f4\u94fa\u4f4d\u5e8a"
   }
 ]

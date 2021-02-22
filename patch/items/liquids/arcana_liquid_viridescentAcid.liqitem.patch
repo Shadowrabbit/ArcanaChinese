@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"Viridescent Acid",
-    "value": "toBeTranslate"
+    "value": "\u9752\u7fe0\u9178"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"A highly acidic liquid, found in Viridescent planets.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u79cd\u9ad8\u9178\u6027\u6db2\u4f53\uff0c\u5b58\u5728\u4e8e\u0056\u0069\u0072\u0069\u0064\u0065\u0073\u0063\u0065\u006e\u0074\u661f\u7403\u4e0a"
   }
 ]

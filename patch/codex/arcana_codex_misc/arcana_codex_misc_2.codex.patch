@@ -3,18 +3,18 @@
     "op": "replace",
     "path": "/contentPages/0",
     //"A seemingly simple step beyond the regular fusion reactions, but nearly impossible to produce. Not to mention impractical as well, fusing three elements into one produces items that are far weaker than concentrating all resources into only one element. A Tri-Fusion's product would also be highly unstable and likely won't be of any use."
-    "value": "toBeTranslate"
+    "value": "\u8fd9\u770b\u4f3c\u7b80\u5355\u7684\u6b65\u9aa4\uff0c\u8d85\u8d8a\u4e86\u5e38\u89c4\u7684\u805a\u53d8\u53cd\u5e94\uff0c\u51e0\u4e4e\u4e0d\u53ef\u80fd\u5b9e\u73b0\u3002\u66f4\u4e0d\u5207\u5b9e\u9645\u5730\u662f\uff0c\u5c06\u4e09\u4e2a\u5143\u7d20\u878d\u5408\u4e3a\u4e00\u4e2a\u5143\u7d20\u6240\u4ea7\u751f\u7684\u6548\u679c\u8fdc\u8fdc\u4e0d\u5982\u5c06\u6240\u6709\u8d44\u6e90\u96c6\u4e2d\u5728\u4e00\u4e2a\u5143\u7d20\u4e0a\u3002\u4e09\u805a\u548c\u53cd\u5e94\u7684\u4ea7\u7269\u4e5f\u5c06\u662f\u9ad8\u5ea6\u4e0d\u7a33\u5b9a\u7684\uff0c\u53ef\u80fd\u4e0d\u4f1a\u6709\u4efb\u4f55\u7528\u9014\u3002"
   },
   {
     "op": "replace",
     "path": "/description",
     //"A short documentation of an arcane process."
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u5173\u4e8e\u963f\u5361\u7eb3\u8fdb\u7a0b\u7684\u7b80\u77ed\u6587\u4ef6"
   },
   {
     "op": "replace",
     "path": "/title",
     //"Tri Fusion"
-    "value": "toBeTranslate"
+    "value": "\u4e09\u805a\u548c\u53cd\u5e94"
   }
 ]

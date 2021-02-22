@@ -3,12 +3,12 @@
     "op": "replace",
     "path": "/description",
     //"A variant heavy axe utilized by Section 8 of the Workshop of Gears.",
-    "value": "toBeTranslate"
+    "value": "\u4e00\u4e2a\u9f7f\u8f6e\u8f66\u95f4\u7b2c\u0038\u90e8\u5206\u4f7f\u7528\u7684\u53d8\u4f53\u91cd\u578b\u65a7\u5934"
   },
   {
     "op": "replace",
     "path": "/shortdescription",
     //"Gears S8V Axe",
-    "value": "toBeTranslate"
+    "value": "\u0047\u0053\u0038\u0056\u65a7\u5934"
   }
 ]
