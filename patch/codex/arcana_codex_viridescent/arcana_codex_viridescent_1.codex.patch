@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //"The Viridescent is a green, toxic planet filled with rivers of acidic ichor. Some ancient remains still linger, but the planet has long been inhospitable for most species. Toxic plant life can be found rarely, most of which have evolved to be lethal on touch, while some others adapted land-mobility and even flight."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of document about the Viridescent planets."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"The Viridescent"
+    "value": "toBeTranslate"
+  }
+]

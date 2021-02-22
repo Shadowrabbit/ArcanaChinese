@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A pistol used by the Section 8 elites of the Workshop of Gears."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Workshop S8E Pistol"
+    "value": "toBeTranslate"
+  }
+]

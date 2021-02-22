@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A tech chip found in weapondry used by Secion 8 of the Workshop of Gears.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"GS8 Tech Chip",
+    "value": "toBeTranslate"
+  }
+]

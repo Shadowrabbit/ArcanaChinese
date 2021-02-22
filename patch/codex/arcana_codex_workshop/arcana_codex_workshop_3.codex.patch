@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    //"The Workshop of Gears is composed of 8 Planet sections and a singular Sun section overseeing the rest. Each Planet section focuses on one type of production, such as ammunition production for section 7 and firearm production for section 8. The Sun section, on the other hand, controls the flow and trading of the goods produced. The sections also tend to operate in close proximity of each other to facilitate the speed of transportation."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    // "A piece of Workshop of Gears document."
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/title",
+    //"Structure of The Workshop"
+    "value": "toBeTranslate"
+  }
+]

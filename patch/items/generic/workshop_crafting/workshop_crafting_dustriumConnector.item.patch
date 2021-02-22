@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A mechinary part, crafted from Dustrium.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Dustrium Connector",
+    "value": "toBeTranslate"
+  }
+]

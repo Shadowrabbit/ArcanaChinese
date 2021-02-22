@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"A battleaxe used by Section 8 of the Workshop of Gears.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Gears S8 Battleaxe",
+    "value": "toBeTranslate"
+  }
+]

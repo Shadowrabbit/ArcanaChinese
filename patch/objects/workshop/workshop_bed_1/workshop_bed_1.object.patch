@@ -1,0 +1,14 @@
+﻿[
+  {
+    "op": "replace",
+    "path": "/description",
+    //"These cosy beds can stack on top of each other.",
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    //"Workshop Bunk Bed",
+    "value": "toBeTranslate"
+  }
+]
