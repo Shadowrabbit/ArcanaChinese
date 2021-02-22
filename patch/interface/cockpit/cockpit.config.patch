@@ -1,0 +1,398 @@
+[
+  {
+    "op": "replace",
+    "path": "/starTypeNames/arcana_star_arcane",
+    //"value": "Arcane Star"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/arcana_star_illuminated",
+    //"value": "Illuminated Star"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/starTypeNames/arcana_star_superstorm",
+    //"value": "Superstorm Star"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_arcaneForest",
+    "value": [
+      //      "^#49a193;The Arcane Forest ^white;glows with ancient magic.",
+      //      "^#49a193;The Arcane Forest ^white;glows with ancient magic.",
+      //      "^#49a193;The Arcane Forest ^white;glows with ancient magic."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_arcaneForest",
+    //"value": "Arcane Forest"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_arcaneDesert",
+    "value": [
+      //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic.",
+      //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic.",
+      //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_arcaneDesert",
+    //"value": "Arcane Desert"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_arcaneTundra",
+    "value": [
+      //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic.",
+      //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic.",
+      //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_arcaneTundra",
+    //"value": "Arcane Tundra"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_verdant",
+    "value": [
+      //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths.",
+      //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths.",
+      //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_verdant",
+    //"value": "Verdant"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_blistering",
+    "value": [
+      //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here.",
+      //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here.",
+      //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_blistering",
+    //    "value": "Blistering"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_windswept",
+    "value": [
+      //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;.",
+      //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;.",
+      //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_windswept",
+    //    "value": "Windswept"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_turbulent",
+    "value": [
+      //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;.",
+      //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;.",
+      //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_turbulent",
+    //    "value": "Turbulent"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_arcaneSea",
+    "value": [
+      //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;.",
+      //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;.",
+      //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_arcaneSea",
+    //    "value": "Arcane Sea"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_goldenForest",
+    "value": [
+      //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;.",
+      //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;.",
+      //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_goldenForest",
+    //    "value": "Golden Forest"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_illuminated",
+    "value": [
+      //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet.",
+      //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet.",
+      //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_illuminated",
+    //    "value": "Illuminated"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_desolate",
+    "value": [
+      //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet.",
+      //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet.",
+      //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_desolate",
+    //    "value": "Desolate"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_sanguine",
+    "value": [
+      //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet.",
+      //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet.",
+      //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_sanguine",
+    //    "value": "Sanguine"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_ferocious",
+    "value": [
+      //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws.",
+      //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws.",
+      //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_ferocious",
+    //    "value": "Ferocious"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_animus",
+    "value": [
+      //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills.",
+      //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills.",
+      //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_animus",
+    //    "value": "Animus"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_evoaquatic",
+    "value": [
+      //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings.",
+      //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings.",
+      //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_evoaquatic",
+    //    "value": "Evoaquatic"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_ardentTaiga",
+    "value": [
+      //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers.",
+      //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers.",
+      //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_ardentTaiga",
+    //    "value": "Ardent Taiga"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_superstormExpanse",
+    "value": [
+      //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy.",
+      //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy.",
+      //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_superstormExpanse",
+    //    "value": "Superstorm Expanse"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_stahlernBadlands",
+    "value": [
+      //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands.",
+      //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands.",
+      //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_stahlernBadlands",
+    //    "value": "Stahlern Badlands"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_timeless",
+    "value": [
+      //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers.",
+      //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers.",
+      //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_timeless",
+    //    "value": "Timeless"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_automated",
+    "value": [
+      //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet.",
+      //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet.",
+      //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_automated",
+    //    "value": "Automated"
+    "value": "toBeTranslate"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/arcana_neonSea",
+    "value": [
+      //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water.",
+      //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water.",
+      //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water."
+      "toBeTranslate",
+      "toBeTranslate",
+      "toBeTranslate"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/planetTypeNames/arcana_neonSea",
+    //    "value": "Neon Sea"
+    "value": "toBeTranslate"
+  }
+]
