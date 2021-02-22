@@ -3,19 +3,19 @@
     "op": "replace",
     "path": "/starTypeNames/arcana_star_arcane",
     //"value": "Arcane Star"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u661f"
   },
   {
     "op": "replace",
     "path": "/starTypeNames/arcana_star_illuminated",
     //"value": "Illuminated Star"
-    "value": "toBeTranslate"
+    "value": "\u7167\u4eae\u661f"
   },
   {
     "op": "replace",
     "path": "/starTypeNames/arcana_star_superstorm",
     //"value": "Superstorm Star"
-    "value": "toBeTranslate"
+    "value": "\u8d85\u7ea7\u98ce\u66b4\u661f"
   },
   {
     "op": "replace",
@@ -24,16 +24,16 @@
       //      "^#49a193;The Arcane Forest ^white;glows with ancient magic.",
       //      "^#49a193;The Arcane Forest ^white;glows with ancient magic.",
       //      "^#49a193;The Arcane Forest ^white;glows with ancient magic."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "^#49a193; \u963f\u5361\u7eb3\u68ee\u6797 ^white; \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#49a193; \u963f\u5361\u7eb3\u68ee\u6797 ^white; \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#49a193; \u963f\u5361\u7eb3\u68ee\u6797 ^white; \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_arcaneForest",
     //"value": "Arcane Forest"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u68ee\u6797"
   },
   {
     "op": "replace",
@@ -42,16 +42,16 @@
       //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic.",
       //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic.",
       //      "^#e09a7a;The Arcane Desert ^white;glows with ancient magic."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "^#e09a7a; \u963f\u5361\u7eb3\u6c99\u6f20 ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#e09a7a; \u963f\u5361\u7eb3\u6c99\u6f20 ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#e09a7a; \u963f\u5361\u7eb3\u6c99\u6f20 ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_arcaneDesert",
     //"value": "Arcane Desert"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u6c99\u6f20"
   },
   {
     "op": "replace",
@@ -60,16 +60,16 @@
       //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic.",
       //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic.",
       //      "^#bcb7ec;The Arcane Tundra ^white;glows with ancient magic."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "^#bcb7ec; \u963f\u5361\u7eb3\u51bb\u571f ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#bcb7ec; \u963f\u5361\u7eb3\u51bb\u571f ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5.",
+      "^#bcb7ec; \u963f\u5361\u7eb3\u51bb\u571f ^white;. \u6563\u53d1\u7740\u53e4\u8001\u7684\u9b54\u6cd5."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_arcaneTundra",
     //"value": "Arcane Tundra"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u51bb\u571f"
   },
   {
     "op": "replace",
@@ -78,16 +78,16 @@
       //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths.",
       //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths.",
       //      "^#b9dd46;The Verdant ^white;hosts an abundance of vegetation and overgrownths."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "^#b9dd46; \u9752\u7fe0 ^white; \u62e5\u6709\u4e30\u5bcc\u7684\u690d\u88ab\u548c\u8fc7\u5ea6\u751f\u957f\u7269\u79cd.",
+      "^#b9dd46; \u9752\u7fe0 ^white; \u62e5\u6709\u4e30\u5bcc\u7684\u690d\u88ab\u548c\u8fc7\u5ea6\u751f\u957f\u7269\u79cd.",
+      "^#b9dd46; \u9752\u7fe0 ^white; \u62e5\u6709\u4e30\u5bcc\u7684\u690d\u88ab\u548c\u8fc7\u5ea6\u751f\u957f\u7269\u79cd."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_verdant",
     //"value": "Verdant"
-    "value": "toBeTranslate"
+    "value": "\u9752\u7fe0"
   },
   {
     "op": "replace",
@@ -96,16 +96,16 @@
       //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here.",
       //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here.",
       //      "^#dd6f52;The Blistering ^white;is covered with the desert heat. Old ruins of the ancient fire are scattered here."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "^#dd6f52; \u6eda\u70eb ^white; \u88ab\u6c99\u6f20\u7684\u70ed\u91cf\u6240\u8986\u76d6\uff0c\u8fd9\u91cc\u6563\u843d\u7740\u53e4\u4ee3\u5927\u706b\u7684\u9057\u8ff9.",
+      "^#dd6f52; \u6eda\u70eb ^white; \u88ab\u6c99\u6f20\u7684\u70ed\u91cf\u6240\u8986\u76d6\uff0c\u8fd9\u91cc\u6563\u843d\u7740\u53e4\u4ee3\u5927\u706b\u7684\u9057\u8ff9.",
+      "^#dd6f52; \u6eda\u70eb ^white; \u88ab\u6c99\u6f20\u7684\u70ed\u91cf\u6240\u8986\u76d6\uff0c\u8fd9\u91cc\u6563\u843d\u7740\u53e4\u4ee3\u5927\u706b\u7684\u9057\u8ff9."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_blistering",
     //    "value": "Blistering"
-    "value": "toBeTranslate"
+    "value": "\u6eda\u70eb"
   },
   {
     "op": "replace",
@@ -114,16 +114,16 @@
       //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;.",
       //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;.",
       //      "Lush highlands and old ruins can be seen in ^#bce279;the Windswept^white;."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u53ef\u4ee5\u770b\u5230\u90c1\u90c1\u8471\u8471\u7684\u9ad8\u5730\u548c\u53e4\u8001\u7684\u9057\u8ff9 ^#bce279; \u72c2\u98ce\u8086\u8650 ^white;.",
+      "\u53ef\u4ee5\u770b\u5230\u90c1\u90c1\u8471\u8471\u7684\u9ad8\u5730\u548c\u53e4\u8001\u7684\u9057\u8ff9 ^#bce279; \u72c2\u98ce\u8086\u8650 ^white;.",
+      "\u53ef\u4ee5\u770b\u5230\u90c1\u90c1\u8471\u8471\u7684\u9ad8\u5730\u548c\u53e4\u8001\u7684\u9057\u8ff9 ^#bce279; \u72c2\u98ce\u8086\u8650 ^white;."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_windswept",
     //    "value": "Windswept"
-    "value": "toBeTranslate"
+    "value": "\u72c2\u98ce\u8086\u8650"
   },
   {
     "op": "replace",
@@ -132,16 +132,16 @@
       //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;.",
       //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;.",
       //      "Aquamarine crystals glows in the center of ^#4c77ca;the Turbulent sea^white;."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u6d77\u84dd\u8272\u6c34\u6676\u5728\u4e2d\u592e\u95ea\u70c1 ^#4c77ca; \u6c79\u6d8c\u5927\u6d77 ^white;.",
+      "\u6d77\u84dd\u8272\u6c34\u6676\u5728\u4e2d\u592e\u95ea\u70c1 ^#4c77ca; \u6c79\u6d8c\u5927\u6d77 ^white;.",
+      "\u6d77\u84dd\u8272\u6c34\u6676\u5728\u4e2d\u592e\u95ea\u70c1 ^#4c77ca; \u6c79\u6d8c\u5927\u6d77 ^white;."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_turbulent",
     //    "value": "Turbulent"
-    "value": "toBeTranslate"
+    "value": "\u6fc0\u6d41"
   },
   {
     "op": "replace",
@@ -150,16 +150,16 @@
       //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;.",
       //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;.",
       //      "Atla gold deposites and underwater structures are detected in the ^#3e9ce6;Arcane Sea^white;."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u5e8a\u548c\u6c34\u4e0b\u6784\u9020\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#3e9ce6; \u963f\u5361\u7eb3\u6d77 ^white;.",
+      "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u5e8a\u548c\u6c34\u4e0b\u6784\u9020\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#3e9ce6; \u963f\u5361\u7eb3\u6d77 ^white;.",
+      "\u963f\u7279\u62c9\u9ec4\u91d1\u77ff\u5e8a\u548c\u6c34\u4e0b\u6784\u9020\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#3e9ce6; \u963f\u5361\u7eb3\u6d77 ^white;."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_arcaneSea",
     //    "value": "Arcane Sea"
-    "value": "toBeTranslate"
+    "value": "\u963f\u5361\u7eb3\u6d77"
   },
   {
     "op": "replace",
@@ -168,16 +168,16 @@
       //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;.",
       //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;.",
       //      "Bright golden trees shine in the mysterious ^#facc5d;Golden Forest^white;."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u660e\u4eae\u7684\u91d1\u6811\u95ea\u95ea\u53d1\u5149 ^#facc5d; \u795e\u79d8\u7684\u91d1\u8272\u68ee\u6797 ^white;.",
+      "\u660e\u4eae\u7684\u91d1\u6811\u95ea\u95ea\u53d1\u5149 ^#facc5d; \u795e\u79d8\u7684\u91d1\u8272\u68ee\u6797 ^white;.",
+      "\u660e\u4eae\u7684\u91d1\u6811\u95ea\u95ea\u53d1\u5149 ^#facc5d; \u795e\u79d8\u7684\u91d1\u8272\u68ee\u6797 ^white;."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_goldenForest",
     //    "value": "Golden Forest"
-    "value": "toBeTranslate"
+    "value": "\u91d1\u8272\u68ee\u6797"
   },
   {
     "op": "replace",
@@ -186,16 +186,16 @@
       //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet.",
       //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet.",
       //      "Old fortresses and palaces are detected in this ^#e3e6f1;Illuminated^white; planet."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u53e4\u8001\u7684\u5821\u5792\u548c\u5bab\u6bbf\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#e3e6f1; \u7167\u4eae ^white; \u661f\u7403.",
+      "\u53e4\u8001\u7684\u5821\u5792\u548c\u5bab\u6bbf\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#e3e6f1; \u7167\u4eae ^white; \u661f\u7403.",
+      "\u53e4\u8001\u7684\u5821\u5792\u548c\u5bab\u6bbf\u5728\u8fd9\u91cc\u88ab\u53d1\u73b0 ^#e3e6f1; \u7167\u4eae ^white; \u661f\u7403."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_illuminated",
     //    "value": "Illuminated"
-    "value": "toBeTranslate"
+    "value": "\u7167\u4eae"
   },
   {
     "op": "replace",
@@ -204,16 +204,16 @@
       //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet.",
       //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet.",
       //      "Scorched barrens and Horizon outposts can be detected in this ^#973dc5;desolate^white; planet."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u70e7\u7126\u7684\u8352\u5730\u548c\u5730\u5e73\u7ebf\u524d\u54e8\u53ef\u4ee5\u88ab\u53d1\u73b0 ^#973dc5; \u8352\u829c ^white; \u661f\u7403.",
+      "\u70e7\u7126\u7684\u8352\u5730\u548c\u5730\u5e73\u7ebf\u524d\u54e8\u53ef\u4ee5\u88ab\u53d1\u73b0 ^#973dc5; \u8352\u829c ^white; \u661f\u7403.",
+      "\u70e7\u7126\u7684\u8352\u5730\u548c\u5730\u5e73\u7ebf\u524d\u54e8\u53ef\u4ee5\u88ab\u53d1\u73b0 ^#973dc5; \u8352\u829c ^white; \u661f\u7403."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_desolate",
     //    "value": "Desolate"
-    "value": "toBeTranslate"
+    "value": "\u8352\u829c"
   },
   {
     "op": "replace",
@@ -222,16 +222,16 @@
       //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet.",
       //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet.",
       //      "Dark hills covered in crimson vegetation are scattered in this ^#f1505c;sanguine^white; planet."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8986\u76d6\u7740\u6df1\u7ea2\u8272\u690d\u88ab\u7684\u9ed1\u6697\u5c71\u4e18\u6563\u5e03\u5728\u8fd9\u4e2a ^#f1505c; \u8840\u7ea2\u8272 ^white; \u661f\u7403.",
+      "\u8986\u76d6\u7740\u6df1\u7ea2\u8272\u690d\u88ab\u7684\u9ed1\u6697\u5c71\u4e18\u6563\u5e03\u5728\u8fd9\u4e2a ^#f1505c; \u8840\u7ea2\u8272 ^white; \u661f\u7403.",
+      "\u8986\u76d6\u7740\u6df1\u7ea2\u8272\u690d\u88ab\u7684\u9ed1\u6697\u5c71\u4e18\u6563\u5e03\u5728\u8fd9\u4e2a ^#f1505c; \u8840\u7ea2\u8272 ^white; \u661f\u7403."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_sanguine",
     //    "value": "Sanguine"
-    "value": "toBeTranslate"
+    "value": "\u8840\u7ea2\u8272"
   },
   {
     "op": "replace",
@@ -240,16 +240,16 @@
       //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws.",
       //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws.",
       //      "The ^#a17a7e;ferocious^white; is an abandoned wasteland, occupied only by scavengers and outlaws."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#a17a7e; \u51f6\u6076\u4e4b\u5730 ^white; \u662f\u4e00\u7247\u88ab\u9057\u5f03\u7684\u8352\u5730\uff0c\u53ea\u6709\u62fe\u8352\u8005\u548c\u4e0d\u6cd5\u5206\u5b50\u5c45\u4f4f.",
+      "\u8fd9\u4e2a ^#a17a7e; \u51f6\u6076\u4e4b\u5730 ^white; \u662f\u4e00\u7247\u88ab\u9057\u5f03\u7684\u8352\u5730\uff0c\u53ea\u6709\u62fe\u8352\u8005\u548c\u4e0d\u6cd5\u5206\u5b50\u5c45\u4f4f.",
+      "\u8fd9\u4e2a ^#a17a7e; \u51f6\u6076\u4e4b\u5730 ^white; \u662f\u4e00\u7247\u88ab\u9057\u5f03\u7684\u8352\u5730\uff0c\u53ea\u6709\u62fe\u8352\u8005\u548c\u4e0d\u6cd5\u5206\u5b50\u5c45\u4f4f."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_ferocious",
     //    "value": "Ferocious"
-    "value": "toBeTranslate"
+    "value": "\u51f6\u6076"
   },
   {
     "op": "replace",
@@ -258,16 +258,16 @@
       //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills.",
       //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills.",
       //      "Restless spirits roams in the ever shifting ^#ab0927;animus^white; hills."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8e81\u52a8\u4e0d\u5b89\u7684\u7075\u9b42\u6e38\u8361\u5728\u4e0d\u65ad\u53d8\u5316\u7684 ^#ab0927; \u654c\u610f ^white; \u4e18\u9675.",
+      "\u8e81\u52a8\u4e0d\u5b89\u7684\u7075\u9b42\u6e38\u8361\u5728\u4e0d\u65ad\u53d8\u5316\u7684 ^#ab0927; \u654c\u610f ^white; \u4e18\u9675.",
+      "\u8e81\u52a8\u4e0d\u5b89\u7684\u7075\u9b42\u6e38\u8361\u5728\u4e0d\u65ad\u53d8\u5316\u7684 ^#ab0927; \u654c\u610f ^white; \u4e18\u9675."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_animus",
     //    "value": "Animus"
-    "value": "toBeTranslate"
+    "value": "\u654c\u610f"
   },
   {
     "op": "replace",
@@ -276,16 +276,16 @@
       //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings.",
       //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings.",
       //      "Living organisms strive in this liquid filled ^#63864f;evoaquatic^white; planet. This appears to be a suitable ecosystem for most beings."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u751f\u547d\u6709\u673a\u4f53\u594b\u6597\u5728\u8fd9\u4e2a\u5145\u6ee1\u6db2\u4f53\u7684 ^#63864f; \u0045\u0056\u004f\u6c34\u4e0a ^white; \u661f\u7403. \u8fd9\u4f3c\u4e4e\u662f\u4e00\u4e2a\u9002\u5408\u5927\u591a\u6570\u751f\u7269\u7684\u751f\u6001\u7cfb\u7edf.",
+      "\u751f\u547d\u6709\u673a\u4f53\u594b\u6597\u5728\u8fd9\u4e2a\u5145\u6ee1\u6db2\u4f53\u7684 ^#63864f; \u0045\u0056\u004f\u6c34\u4e0a ^white; \u661f\u7403. \u8fd9\u4f3c\u4e4e\u662f\u4e00\u4e2a\u9002\u5408\u5927\u591a\u6570\u751f\u7269\u7684\u751f\u6001\u7cfb\u7edf.",
+      "\u751f\u547d\u6709\u673a\u4f53\u594b\u6597\u5728\u8fd9\u4e2a\u5145\u6ee1\u6db2\u4f53\u7684 ^#63864f; \u0045\u0056\u004f\u6c34\u4e0a ^white; \u661f\u7403. \u8fd9\u4f3c\u4e4e\u662f\u4e00\u4e2a\u9002\u5408\u5927\u591a\u6570\u751f\u7269\u7684\u751f\u6001\u7cfb\u7edf."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_evoaquatic",
     //    "value": "Evoaquatic"
-    "value": "toBeTranslate"
+    "value": "\u0045\u0056\u004f\u6c34\u4e0a"
   },
   {
     "op": "replace",
@@ -294,16 +294,16 @@
       //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers.",
       //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers.",
       //      "The ^#c0527a;ardent taiga^white; is filled with a vast quantity of icy frost and broken down mechanism leftovers."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#c0527a; \u70ed\u60c5\u9488\u53f6\u6797 ^white; \u91cc\u9762\u5145\u6ee1\u4e86\u5927\u91cf\u7684\u51b0\u971c\u548c\u5206\u89e3\u7684\u673a\u68b0\u6b8b\u4f59\u7269.",
+      "\u8fd9\u4e2a ^#c0527a; \u70ed\u60c5\u9488\u53f6\u6797 ^white; \u91cc\u9762\u5145\u6ee1\u4e86\u5927\u91cf\u7684\u51b0\u971c\u548c\u5206\u89e3\u7684\u673a\u68b0\u6b8b\u4f59\u7269.",
+      "\u8fd9\u4e2a ^#c0527a; \u70ed\u60c5\u9488\u53f6\u6797 ^white; \u91cc\u9762\u5145\u6ee1\u4e86\u5927\u91cf\u7684\u51b0\u971c\u548c\u5206\u89e3\u7684\u673a\u68b0\u6b8b\u4f59\u7269."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_ardentTaiga",
     //    "value": "Ardent Taiga"
-    "value": "toBeTranslate"
+    "value": "\u70ed\u60c5\u9488\u53f6\u6797"
   },
   {
     "op": "replace",
@@ -312,16 +312,16 @@
       //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy.",
       //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy.",
       //      "The ^#c750d9;superstorm expanse^white; is a lightning filled planet that brings down constant thunder without mercy."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#c750d9; \u8d85\u7ea7\u98ce\u66b4\u6269\u5f20 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u95ea\u7535\u7684\u661f\u7403\uff0c\u4f1a\u65e0\u60c5\u5730\u964d\u4e0b\u8fde\u7ef5\u4e0d\u65ad\u7684\u96f7\u58f0.",
+      "\u8fd9\u4e2a ^#c750d9; \u8d85\u7ea7\u98ce\u66b4\u6269\u5f20 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u95ea\u7535\u7684\u661f\u7403\uff0c\u4f1a\u65e0\u60c5\u5730\u964d\u4e0b\u8fde\u7ef5\u4e0d\u65ad\u7684\u96f7\u58f0.",
+      "\u8fd9\u4e2a ^#c750d9; \u8d85\u7ea7\u98ce\u66b4\u6269\u5f20 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u95ea\u7535\u7684\u661f\u7403\uff0c\u4f1a\u65e0\u60c5\u5730\u964d\u4e0b\u8fde\u7ef5\u4e0d\u65ad\u7684\u96f7\u58f0."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_superstormExpanse",
     //    "value": "Superstorm Expanse"
-    "value": "toBeTranslate"
+    "value": "\u8d85\u7ea7\u98ce\u66b4\u6269\u5f20"
   },
   {
     "op": "replace",
@@ -330,16 +330,16 @@
       //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands.",
       //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands.",
       //      "The ^#b97027;stahlern badlands^white; is a verrostin-rich planet occupied by the Steelblades. Combat preparations are recommended before venturing into the badlands."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#b97027; \u94a2\u94c1\u8352\u5730 ^white; \u662f\u4e00\u4e2a\u7ef4\u7f57\u65af\u6c40\u4e30\u5bcc\u7684\u661f\u7403\uff0c\u88ab\u94a2\u5203\u519b\u961f\u5360\u636e\u3002\u5efa\u8bae\u5728\u8fdb\u5165\u8352\u5730\u5192\u9669\u4e4b\u524d\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#b97027; \u94a2\u94c1\u8352\u5730 ^white; \u662f\u4e00\u4e2a\u7ef4\u7f57\u65af\u6c40\u4e30\u5bcc\u7684\u661f\u7403\uff0c\u88ab\u94a2\u5203\u519b\u961f\u5360\u636e\u3002\u5efa\u8bae\u5728\u8fdb\u5165\u8352\u5730\u5192\u9669\u4e4b\u524d\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#b97027; \u94a2\u94c1\u8352\u5730 ^white; \u662f\u4e00\u4e2a\u7ef4\u7f57\u65af\u6c40\u4e30\u5bcc\u7684\u661f\u7403\uff0c\u88ab\u94a2\u5203\u519b\u961f\u5360\u636e\u3002\u5efa\u8bae\u5728\u8fdb\u5165\u8352\u5730\u5192\u9669\u4e4b\u524d\u505a\u597d\u6218\u6597\u51c6\u5907."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_stahlernBadlands",
     //    "value": "Stahlern Badlands"
-    "value": "toBeTranslate"
+    "value": "\u94a2\u94c1\u8352\u5730"
   },
   {
     "op": "replace",
@@ -348,16 +348,16 @@
       //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers.",
       //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers.",
       //      "The ^#9c6a21;timeless^white; is a planet frozen in time, forever clouded in darkness. Combat preparations are recommended before venturing into the planet's clocktowers."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#9c6a21; \u6c38\u6052 ^white; \u662f\u4e00\u4e2a\u65f6\u95f4\u51bb\u7ed3\u7684\u661f\u7403\uff0c\u6c38\u8fdc\u88ab\u4e4c\u4e91\u7b3c\u7f69\u5728\u9ed1\u6697\u4e4b\u4e2d\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u7684\u949f\u5854\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#9c6a21; \u6c38\u6052 ^white; \u662f\u4e00\u4e2a\u65f6\u95f4\u51bb\u7ed3\u7684\u661f\u7403\uff0c\u6c38\u8fdc\u88ab\u4e4c\u4e91\u7b3c\u7f69\u5728\u9ed1\u6697\u4e4b\u4e2d\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u7684\u949f\u5854\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#9c6a21; \u6c38\u6052 ^white; \u662f\u4e00\u4e2a\u65f6\u95f4\u51bb\u7ed3\u7684\u661f\u7403\uff0c\u6c38\u8fdc\u88ab\u4e4c\u4e91\u7b3c\u7f69\u5728\u9ed1\u6697\u4e4b\u4e2d\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u7684\u949f\u5854\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_timeless",
     //    "value": "Timeless"
-    "value": "toBeTranslate"
+    "value": "\u6c38\u6052"
   },
   {
     "op": "replace",
@@ -366,16 +366,16 @@
       //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet.",
       //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet.",
       //      "The ^#64646a;automated^white; is a machine filled planet occupied by the Workshop. Combat preparations are recommended before venturing into this planet."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#64646a; \u81ea\u52a8\u5316 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u673a\u5668\u7684\u661f\u7403\uff0c\u88ab\u8f66\u95f4\u5360\u636e\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#64646a; \u81ea\u52a8\u5316 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u673a\u5668\u7684\u661f\u7403\uff0c\u88ab\u8f66\u95f4\u5360\u636e\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907.",
+      "\u8fd9\u4e2a ^#64646a; \u81ea\u52a8\u5316 ^white; \u662f\u4e00\u4e2a\u5145\u6ee1\u673a\u5668\u7684\u661f\u7403\uff0c\u88ab\u8f66\u95f4\u5360\u636e\u3002\u5728\u5192\u9669\u8fdb\u5165\u8fd9\u4e2a\u661f\u7403\u4e4b\u524d\uff0c\u5efa\u8bae\u505a\u597d\u6218\u6597\u51c6\u5907."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_automated",
     //    "value": "Automated"
-    "value": "toBeTranslate"
+    "value": "\u81ea\u52a8\u5316"
   },
   {
     "op": "replace",
@@ -384,15 +384,15 @@
       //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water.",
       //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water.",
       //      "The ^#ffb3eb;neon sea^white; is a planet drowned in bright, neon water."
-      "toBeTranslate",
-      "toBeTranslate",
-      "toBeTranslate"
+      "\u8fd9\u4e2a ^#ffb3eb; \u9713\u8679\u6d77 ^white; \u662f\u4e00\u4e2a\u6df9\u6ca1\u5728\u660e\u4eae\u7684\u9713\u8679\u706f\u4e0b\u7684\u661f\u7403.",
+      "\u8fd9\u4e2a ^#ffb3eb; \u9713\u8679\u6d77 ^white; \u662f\u4e00\u4e2a\u6df9\u6ca1\u5728\u660e\u4eae\u7684\u9713\u8679\u706f\u4e0b\u7684\u661f\u7403.",
+      "\u8fd9\u4e2a ^#ffb3eb; \u9713\u8679\u6d77 ^white; \u662f\u4e00\u4e2a\u6df9\u6ca1\u5728\u660e\u4eae\u7684\u9713\u8679\u706f\u4e0b\u7684\u661f\u7403."
     ]
   },
   {
     "op": "replace",
     "path": "/planetTypeNames/arcana_neonSea",
     //    "value": "Neon Sea"
-    "value": "toBeTranslate"
+    "value": "\u9713\u8679\u6d77"
   }
 ]
