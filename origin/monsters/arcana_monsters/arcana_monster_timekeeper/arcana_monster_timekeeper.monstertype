@@ -1,7 +1,7 @@
 {
   "type" : "arcana_monster_timekeeper",
   "shortdescription" : "Timekeeper",
-  "description" : "--TODO--",
+  "description" : "A floating robot-like mechanism that utilizes Aeon energy to power itself.",
 
   "categories" : [ "arcana_monster_timekeeper" ],
   "parts" : [ "body" ],

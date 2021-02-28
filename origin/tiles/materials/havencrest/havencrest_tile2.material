@@ -6,10 +6,10 @@
   "description" : "A sandstone flooring tile.",
   "shortdescription" : "Havencrest Flooring",
   "footstepSound" : "/sfx/blocks/footstep_stone2.ogg",
-  "health" : 16,
+  "health" : 14,
   "category" : "materials",
 
-  "renderTemplate" : "/tiles/classicmaterialtemplate.config",
+  "renderTemplate" : "/tiles/pipetemplate.config",
   "renderParameters" : {
     "texture" : "havencrest_tile2.png",
     "variants" : 3,

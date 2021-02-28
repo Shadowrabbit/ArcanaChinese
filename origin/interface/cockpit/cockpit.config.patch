@@ -1,91 +1,81 @@
 [
+
+  // More Planet Info Patch
+  [
+  
+  {
+        "op": "test",
+        "path": "/displayDungeons"
+  },
+  
+  {
+    "op": "add",
+    "path": "/displayDungeons/arcana_workshop_dungeon_1",
+	"value": {
+		"description" : "An industrial compound supervised by Secion 8 of the Workshop of Gears.",
+		"icon" : "/interface/cockpit/dungeons/arcana_workshop_dungeon_1.png"
+	}
+  },
+  {
+    "op": "add",
+    "path": "/displayDungeons/arcana_timeless_dungeon_1",
+	"value": {
+		"description" : "What appears to be an ancient clocktower. Hostile life signatures detected.",
+		"icon" : "/interface/cockpit/dungeons/arcana_timeless_dungeon_1.png"
+	}
+  },
+  {
+    "op": "add",
+    "path": "/displayDungeons/arcana_arcaneDesert_dungeon_2",
+	"value": {
+		"description" : "A small Havencrest village, harboring Arcanians.",
+		"icon" : "/interface/cockpit/dungeons/arcana_arcaneDesert_dungeon_2.png"
+	}
+  }
+  
+  ],
+  
+  
+  // Planets
+
+  [
   {
     "op": "replace",
     "path": "/objectThreatColors",
-    "value": {
-      "unavailable": [
-        213,
-        50,
-        0
-      ],
-      "available": [
-        [
-          0,
-          213,
-          50
-        ],
-        // <T3
-        [
-          0,
-          165,
-          213
-        ],
-        // T3
-        [
-          140,
-          213,
-          0
-        ],
-        // T4
-        [
-          213,
-          140,
-          0
-        ],
-        // T5
-        [
-          180,
-          50,
-          0
-        ],
-        // T6
-        [
-          104,
-          42,
-          42
-        ],
-        // T7
-        [
-          132,
-          122,
-          123
-        ],
-        // T8
-        [
-          194,
-          14,
-          90
-        ]
-        // T9
-      ]
-    }
+	"value": {
+		"unavailable" : [213, 50, 0],
+		"available" : [
+			[0, 213, 50], // <T3
+			[0, 165, 213], // T3
+			[140, 213, 0 ], // T4
+			[213, 140, 0], // T5
+			[180, 50, 0], // T6
+			[104, 42, 42], // T7
+			[132, 122, 123], // T8
+			[194, 14, 90] // T9
+		]
+	}
   },
+  
   {
     "op": "replace",
     "path": "/objectThreatText",
-    "value": {
-      "unavailable": "REQUIRES MECH TO DEPLOY",
-      "available": [
-        "None",
-        // <T3, friendly encounters
-        "Low",
-        // T3
-        "Moderate",
-        // T4
-        "Dangerous",
-        // T5
-        "Extreme",
-        // T6
-        "Brutal",
-        // T7
-        "Merciless",
-        // T8
-        "Diabolical"
-        // T9
-      ],
-      "friendly": "None"
-    }
+	"value": {
+		"unavailable" : "REQUIRES MECH TO DEPLOY",
+		"available" : [
+			"None", // <T3, friendly encounters
+			"Low", // T3
+			"Moderate", // T4
+			"Dangerous", // T5
+			"Extreme", // T6
+			"Brutal", // T7
+			"Merciless", // T8
+			"Diabolical" // T9
+		],
+		"friendly" : "None"
+	}
   },
+
   {
     "op": "add",
     "path": "/starTypeColors/arcana_star_arcane",
@@ -100,6 +90,7 @@
     "path": "/starTypeNames/arcana_star_arcane",
     "value": "Arcane Star"
   },
+  
   {
     "op": "add",
     "path": "/starTypeColors/arcana_star_illuminated",
@@ -114,6 +105,7 @@
     "path": "/starTypeNames/arcana_star_illuminated",
     "value": "Illuminated Star"
   },
+  
   {
     "op": "add",
     "path": "/starTypeColors/arcana_star_superstorm",
@@ -128,6 +120,7 @@
     "path": "/starTypeNames/arcana_star_superstorm",
     "value": "Superstorm Star"
   },
+
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_arcaneForest",
@@ -159,6 +152,7 @@
       147
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_arcaneDesert",
@@ -190,6 +184,7 @@
       122
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_arcaneTundra",
@@ -213,6 +208,7 @@
       236
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_verdant",
@@ -236,6 +232,7 @@
       70
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_blistering",
@@ -259,6 +256,7 @@
       82
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_windswept",
@@ -290,6 +288,7 @@
       "icon": "/items/generic/elemental_crafting/elemental_crafting_florastone.png"
     }
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_turbulent",
@@ -321,6 +320,7 @@
       202
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_arcaneSea",
@@ -352,6 +352,7 @@
       232
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_goldenForest",
@@ -375,6 +376,7 @@
       93
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_illuminated",
@@ -406,6 +408,7 @@
       241
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_desolate",
@@ -437,6 +440,7 @@
       197
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_sanguine",
@@ -468,6 +472,7 @@
       92
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_ferocious",
@@ -491,6 +496,7 @@
       126
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_animus",
@@ -522,6 +528,7 @@
       39
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_evoaquatic",
@@ -553,6 +560,7 @@
       79
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_ardentTaiga",
@@ -584,6 +592,7 @@
       122
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_superstormExpanse",
@@ -615,6 +624,7 @@
       217
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_stahlernBadlands",
@@ -646,6 +656,7 @@
       39
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_timeless",
@@ -677,6 +688,7 @@
       33
     ]
   },
+  
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_automated",
@@ -708,6 +720,7 @@
       106
     ]
   },
+
   {
     "op": "add",
     "path": "/visitableTypeDescription/arcana_neonSea",
@@ -731,4 +744,5 @@
       235
     ]
   }
+  ]
 ]
